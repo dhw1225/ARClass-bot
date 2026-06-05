@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.venv/
+venv/
+.vendor/
+
+challenge_stats.json
+
+.DS_Store

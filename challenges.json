@@ -1,0 +1,152 @@
+[
+  {
+    "name": "上级 veryeasy",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 8.5,
+    "level_max": 9.6,
+    "initial_hp": 300,
+    "heal_per_round": 50,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "上级 easy",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 9.0,
+    "level_max": 9.9,
+    "initial_hp": 200,
+    "heal_per_round": 50,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "上级",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 9.7,
+    "level_max": 10.6,
+    "initial_hp": 100,
+    "heal_per_round": 20,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "超上级 easy",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 10.4,
+    "level_max": 11.3,
+    "initial_hp": 50,
+    "heal_per_round": 10,
+    "strict_faults": false,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "超上级",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 10.7,
+    "level_max": 11.7,
+    "initial_hp": 30,
+    "heal_per_round": 5,
+    "strict_faults": false,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "超上级 hard",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 10.7,
+    "level_max": 11.7,
+    "initial_hp": 150,
+    "heal_per_round": 30,
+    "strict_faults": true,
+    "strict_multiplier": 2,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "超上级 extreme",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 11.0,
+    "level_max": 11.9,
+    "initial_hp": 100,
+    "heal_per_round": 20,
+    "strict_faults": true,
+    "strict_multiplier": 3,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "超上级 insane",
+    "type": "random",
+    "clear_type": "hp",
+    "rounds": 4,
+    "level_min": 11.3,
+    "level_max": 12.0,
+    "initial_hp": 50,
+    "heal_per_round": 10,
+    "strict_faults": true,
+    "strict_multiplier": 4,
+    "continue_on_zero_hp": true
+  },
+  {
+    "name": "真皆传",
+    "type": "fixed",
+    "clear_type": "hp",
+    "initial_hp": 30,
+    "heal_per_round": 5,
+    "strict_faults": false,
+    "continue_on_zero_hp": false,
+    "charts": [
+      {
+        "name": "PRAGMATISM -RESURRECTION-",
+        "difficulty": "BYD"
+      },
+      {
+        "name": "Lament Rain",
+        "difficulty": "BYD"
+      },
+      {
+        "name": "Abstruse Dilemma",
+        "difficulty": "FTR"
+      },
+      {
+        "name": "Pentiment",
+        "difficulty": "BYD"
+      }
+    ]
+  },
+  {
+    "name": "里皆传",
+    "type": "fixed",
+    "clear_type": "hp",
+    "initial_hp": 30,
+    "heal_per_round": 0,
+    "strict_faults": false,
+    "continue_on_zero_hp": false,
+    "charts": [
+      {
+        "name": "Arcana Eden",
+        "difficulty": "BYD"
+      },
+      {
+        "name": "Tempestissimo",
+        "difficulty": "BYD"
+      },
+      {
+        "name": "Designant.",
+        "difficulty": "BYD"
+      },
+      {
+        "name": "Testify",
+        "difficulty": "BYD"
+      }
+    ]
+  }
+]

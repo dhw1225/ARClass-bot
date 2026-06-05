@@ -1,0 +1,11300 @@
+[
+  {
+    "name": "Sayonara Hatsukoi",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 205
+  },
+  {
+    "name": "Sayonara Hatsukoi",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 305
+  },
+  {
+    "name": "Sayonara Hatsukoi",
+    "level": 7.0,
+    "difficulty": "FTR",
+    "notes": 666
+  },
+  {
+    "name": "Sayonara Hatsukoi",
+    "level": 8.5,
+    "difficulty": "ETR",
+    "notes": 728
+  },
+  {
+    "name": "Lost Civilization",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 462
+  },
+  {
+    "name": "Lost Civilization",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 690
+  },
+  {
+    "name": "Lost Civilization",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 986
+  },
+  {
+    "name": "Lost Civilization",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 1061
+  },
+  {
+    "name": "GOODTEK (Arcaea Edit)",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 449
+  },
+  {
+    "name": "GOODTEK (Arcaea Edit)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 632
+  },
+  {
+    "name": "GOODTEK (Arcaea Edit)",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 968
+  },
+  {
+    "name": "GOODTEK (Arcaea Edit)",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 1103
+  },
+  {
+    "name": "cry of viyella",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 414
+  },
+  {
+    "name": "cry of viyella",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 492
+  },
+  {
+    "name": "cry of viyella",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 791
+  },
+  {
+    "name": "Rise",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 322
+  },
+  {
+    "name": "Rise",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 599
+  },
+  {
+    "name": "Rise",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 788
+  },
+  {
+    "name": "Lucifer",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 424
+  },
+  {
+    "name": "Lucifer",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 506
+  },
+  {
+    "name": "Lucifer",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 861
+  },
+  {
+    "name": "Fairytale",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 336
+  },
+  {
+    "name": "Fairytale",
+    "level": 3.5,
+    "difficulty": "PRS",
+    "notes": 511
+  },
+  {
+    "name": "Fairytale",
+    "level": 7.0,
+    "difficulty": "FTR",
+    "notes": 782
+  },
+  {
+    "name": "Fairytale",
+    "level": 9.5,
+    "difficulty": "BYD",
+    "notes": 932
+  },
+  {
+    "name": "I've heard it said",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "I've heard it said",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 664
+  },
+  {
+    "name": "I've heard it said",
+    "level": 8.1,
+    "difficulty": "FTR",
+    "notes": 864
+  },
+  {
+    "name": "Babaroque",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 402
+  },
+  {
+    "name": "Babaroque",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 645
+  },
+  {
+    "name": "Babaroque",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 808
+  },
+  {
+    "name": "memoryfactory.lzh",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 308
+  },
+  {
+    "name": "memoryfactory.lzh",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 448
+  },
+  {
+    "name": "memoryfactory.lzh",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 672
+  },
+  {
+    "name": "Snow White",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 486
+  },
+  {
+    "name": "Snow White",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 672
+  },
+  {
+    "name": "Snow White",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 978
+  },
+  {
+    "name": "Snow White",
+    "level": 9.7,
+    "difficulty": "BYD",
+    "notes": 1031
+  },
+  {
+    "name": "Relentless",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 607
+  },
+  {
+    "name": "Relentless",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 722
+  },
+  {
+    "name": "Relentless",
+    "level": 8.0,
+    "difficulty": "FTR",
+    "notes": 1015
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 517
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 789
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 1067
+  },
+  {
+    "name": "Shades of Light in a Transcendent Realm",
+    "level": 9.1,
+    "difficulty": "BYD",
+    "notes": 1042
+  },
+  {
+    "name": "Vexaria",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 369
+  },
+  {
+    "name": "Vexaria",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 534
+  },
+  {
+    "name": "Vexaria",
+    "level": 7.0,
+    "difficulty": "FTR",
+    "notes": 734
+  },
+  {
+    "name": "Vexaria",
+    "level": 9.0,
+    "difficulty": "BYD",
+    "notes": 785
+  },
+  {
+    "name": "Essence of Twilight",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 556
+  },
+  {
+    "name": "Essence of Twilight",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 767
+  },
+  {
+    "name": "Essence of Twilight",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 1204
+  },
+  {
+    "name": "qualia -ideaesthesia-",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 550
+  },
+  {
+    "name": "qualia -ideaesthesia-",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 875
+  },
+  {
+    "name": "qualia -ideaesthesia-",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 1022
+  },
+  {
+    "name": "qualia -ideaesthesia-",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 1288
+  },
+  {
+    "name": "PRAGMATISM",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 476
+  },
+  {
+    "name": "PRAGMATISM",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 855
+  },
+  {
+    "name": "PRAGMATISM",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 942
+  },
+  {
+    "name": "PRAGMATISM -RESURRECTION-",
+    "level": 11.2,
+    "difficulty": "BYD",
+    "notes": 1502
+  },
+  {
+    "name": "Sheriruth",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 611
+  },
+  {
+    "name": "Sheriruth",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 832
+  },
+  {
+    "name": "Sheriruth",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1151
+  },
+  {
+    "name": "Lumia",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 469
+  },
+  {
+    "name": "Lumia",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 438
+  },
+  {
+    "name": "Lumia",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 961
+  },
+  {
+    "name": "Lumia",
+    "level": 9.5,
+    "difficulty": "BYD",
+    "notes": 814
+  },
+  {
+    "name": "Dement ~after legend~",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 548
+  },
+  {
+    "name": "Dement ~after legend~",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 756
+  },
+  {
+    "name": "Dement ~after legend~",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 970
+  },
+  {
+    "name": "Dement ~after legend~",
+    "level": 9.9,
+    "difficulty": "BYD",
+    "notes": 1040
+  },
+  {
+    "name": "Dandelion",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 391
+  },
+  {
+    "name": "Dandelion",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 698
+  },
+  {
+    "name": "Dandelion",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 921
+  },
+  {
+    "name": "Anökumene",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 412
+  },
+  {
+    "name": "Anökumene",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 588
+  },
+  {
+    "name": "Anökumene",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 851
+  },
+  {
+    "name": "Anökumene",
+    "level": 9.9,
+    "difficulty": "BYD",
+    "notes": 971
+  },
+  {
+    "name": "Infinity Heaven",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 336
+  },
+  {
+    "name": "Infinity Heaven",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 545
+  },
+  {
+    "name": "Infinity Heaven",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 853
+  },
+  {
+    "name": "Infinity Heaven",
+    "level": 9.6,
+    "difficulty": "BYD",
+    "notes": 986
+  },
+  {
+    "name": "Party Vinyl",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 337
+  },
+  {
+    "name": "Party Vinyl",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 543
+  },
+  {
+    "name": "Party Vinyl",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 800
+  },
+  {
+    "name": "Party Vinyl",
+    "level": 10.3,
+    "difficulty": "BYD",
+    "notes": 946
+  },
+  {
+    "name": "Flashback",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 356
+  },
+  {
+    "name": "Flashback",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 488
+  },
+  {
+    "name": "Flashback",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 856
+  },
+  {
+    "name": "フライブルクとエンドロウル",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 413,
+    "aliases": [
+      "Flyburg and Endroll"
+    ]
+  },
+  {
+    "name": "フライブルクとエンドロウル",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 650,
+    "aliases": [
+      "Flyburg and Endroll"
+    ]
+  },
+  {
+    "name": "フライブルクとエンドロウル",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 930,
+    "aliases": [
+      "Flyburg and Endroll"
+    ]
+  },
+  {
+    "name": "Nirv lucE",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 297
+  },
+  {
+    "name": "Nirv lucE",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 547
+  },
+  {
+    "name": "Nirv lucE",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 980
+  },
+  {
+    "name": "Paradise",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 253
+  },
+  {
+    "name": "Paradise",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 349
+  },
+  {
+    "name": "Paradise",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 729
+  },
+  {
+    "name": "Brand new world",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 322
+  },
+  {
+    "name": "Brand new world",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 432
+  },
+  {
+    "name": "Brand new world",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 787
+  },
+  {
+    "name": "DataErr0r",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 502
+  },
+  {
+    "name": "DataErr0r",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 785
+  },
+  {
+    "name": "DataErr0r",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 955
+  },
+  {
+    "name": "CROSS†SOUL",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 606
+  },
+  {
+    "name": "CROSS†SOUL",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 823
+  },
+  {
+    "name": "CROSS†SOUL",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1081
+  },
+  {
+    "name": "Your voice so... feat. Such",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 469
+  },
+  {
+    "name": "Your voice so... feat. Such",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 677
+  },
+  {
+    "name": "Your voice so... feat. Such",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1013
+  },
+  {
+    "name": "Chronostasis",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 619
+  },
+  {
+    "name": "Chronostasis",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 812
+  },
+  {
+    "name": "Chronostasis",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 916
+  },
+  {
+    "name": "神奈川電脳暗渠",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 375,
+    "aliases": [
+      "Kanagawa Cyber Culvert"
+    ]
+  },
+  {
+    "name": "神奈川電脳暗渠",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 707,
+    "aliases": [
+      "Kanagawa Cyber Culvert"
+    ]
+  },
+  {
+    "name": "神奈川電脳暗渠",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 1111,
+    "aliases": [
+      "Kanagawa Cyber Culvert"
+    ]
+  },
+  {
+    "name": "神奈川電脳暗渠",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 1121,
+    "aliases": [
+      "Kanagawa Cyber Culvert"
+    ]
+  },
+  {
+    "name": "Moonlight of Sand Castle",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 418
+  },
+  {
+    "name": "Moonlight of Sand Castle",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 394
+  },
+  {
+    "name": "Moonlight of Sand Castle",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 645
+  },
+  {
+    "name": "REconstruction",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 347
+  },
+  {
+    "name": "REconstruction",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 469
+  },
+  {
+    "name": "REconstruction",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 825
+  },
+  {
+    "name": "Evoltex (poppi'n mix)",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 297
+  },
+  {
+    "name": "Evoltex (poppi'n mix)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 627
+  },
+  {
+    "name": "Evoltex (poppi'n mix)",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 775
+  },
+  {
+    "name": "Oracle",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 425
+  },
+  {
+    "name": "Oracle",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 508
+  },
+  {
+    "name": "Oracle",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 963
+  },
+  {
+    "name": "αterlβus",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 505
+  },
+  {
+    "name": "αterlβus",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 668
+  },
+  {
+    "name": "αterlβus",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1030
+  },
+  {
+    "name": "クロートーと星の観測者",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 519,
+    "aliases": [
+      "Clotho and the stargazer"
+    ]
+  },
+  {
+    "name": "クロートーと星の観測者",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 745,
+    "aliases": [
+      "Clotho and the stargazer"
+    ]
+  },
+  {
+    "name": "クロートーと星の観測者",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 1021,
+    "aliases": [
+      "Clotho and the stargazer"
+    ]
+  },
+  {
+    "name": "クロートーと星の観測者",
+    "level": 8.8,
+    "difficulty": "ETR",
+    "notes": 1031,
+    "aliases": [
+      "Clotho and the stargazer"
+    ]
+  },
+  {
+    "name": "不浄な白い鳥",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 350,
+    "aliases": [
+      "Impure Bird"
+    ]
+  },
+  {
+    "name": "不浄な白い鳥",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 518,
+    "aliases": [
+      "Impure Bird"
+    ]
+  },
+  {
+    "name": "不浄な白い鳥",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 805,
+    "aliases": [
+      "Impure Bird"
+    ]
+  },
+  {
+    "name": "Ignotus",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 579
+  },
+  {
+    "name": "Ignotus",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 809
+  },
+  {
+    "name": "Ignotus",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1225
+  },
+  {
+    "name": "Ignotus Afterburn",
+    "level": 9.9,
+    "difficulty": "BYD",
+    "notes": 1077
+  },
+  {
+    "name": "Lethaeus",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 480
+  },
+  {
+    "name": "Lethaeus",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 717
+  },
+  {
+    "name": "Lethaeus",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 900
+  },
+  {
+    "name": "vsキミ戦争",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 423,
+    "aliases": [
+      "Romance Wars"
+    ]
+  },
+  {
+    "name": "vsキミ戦争",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 378,
+    "aliases": [
+      "Romance Wars"
+    ]
+  },
+  {
+    "name": "vsキミ戦争",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 641,
+    "aliases": [
+      "Romance Wars"
+    ]
+  },
+  {
+    "name": "Blossoms",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 275
+  },
+  {
+    "name": "Blossoms",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 383
+  },
+  {
+    "name": "Blossoms",
+    "level": 7.0,
+    "difficulty": "FTR",
+    "notes": 655
+  },
+  {
+    "name": "Moonheart",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 449
+  },
+  {
+    "name": "Moonheart",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 566
+  },
+  {
+    "name": "Moonheart",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 947
+  },
+  {
+    "name": "Moonheart",
+    "level": 9.7,
+    "difficulty": "BYD",
+    "notes": 1139
+  },
+  {
+    "name": "Genesis (Tone Sphere)",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 275
+  },
+  {
+    "name": "Genesis (Tone Sphere)",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 399
+  },
+  {
+    "name": "Genesis (Tone Sphere)",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 713
+  },
+  {
+    "name": "ハルトピア ~Utopia of Spring~",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 444,
+    "aliases": [
+      "Harutopia ~Utopia of Spring~"
+    ]
+  },
+  {
+    "name": "ハルトピア ~Utopia of Spring~",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 706,
+    "aliases": [
+      "Harutopia ~Utopia of Spring~"
+    ]
+  },
+  {
+    "name": "ハルトピア ~Utopia of Spring~",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 1061,
+    "aliases": [
+      "Harutopia ~Utopia of Spring~"
+    ]
+  },
+  {
+    "name": "Auxesia",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 385
+  },
+  {
+    "name": "Auxesia",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 648
+  },
+  {
+    "name": "Auxesia",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1000
+  },
+  {
+    "name": "Rabbit In The Black Room",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 373
+  },
+  {
+    "name": "Rabbit In The Black Room",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 467
+  },
+  {
+    "name": "Rabbit In The Black Room",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 772
+  },
+  {
+    "name": "Modelista",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 418
+  },
+  {
+    "name": "Modelista",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 691
+  },
+  {
+    "name": "Modelista",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1010
+  },
+  {
+    "name": "SOUNDWiTCH",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 315
+  },
+  {
+    "name": "SOUNDWiTCH",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 488
+  },
+  {
+    "name": "SOUNDWiTCH",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 785
+  },
+  {
+    "name": "妖艶魔女 -trappola bewitching-",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 415,
+    "aliases": [
+      "trappola bewitching"
+    ]
+  },
+  {
+    "name": "妖艶魔女 -trappola bewitching-",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 541,
+    "aliases": [
+      "trappola bewitching"
+    ]
+  },
+  {
+    "name": "妖艶魔女 -trappola bewitching-",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1044,
+    "aliases": [
+      "trappola bewitching"
+    ]
+  },
+  {
+    "name": "妖艶魔女 -trappola bewitching-",
+    "level": 10.6,
+    "difficulty": "BYD",
+    "notes": 1086,
+    "aliases": [
+      "trappola bewitching"
+    ]
+  },
+  {
+    "name": "Iconoclast",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 443
+  },
+  {
+    "name": "Iconoclast",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 593
+  },
+  {
+    "name": "Iconoclast",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 795
+  },
+  {
+    "name": "conflict",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 520
+  },
+  {
+    "name": "conflict",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 731
+  },
+  {
+    "name": "conflict",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1056
+  },
+  {
+    "name": "Axium Crisis",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 685
+  },
+  {
+    "name": "Axium Crisis",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1065
+  },
+  {
+    "name": "Axium Crisis",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1094
+  },
+  {
+    "name": "Axium Divergence",
+    "level": 11.3,
+    "difficulty": "BYD",
+    "notes": 1682
+  },
+  {
+    "name": "Grievous Lady",
+    "level": 6.5,
+    "difficulty": "PST",
+    "notes": 956
+  },
+  {
+    "name": "Grievous Lady",
+    "level": 9.3,
+    "difficulty": "PRS",
+    "notes": 1194
+  },
+  {
+    "name": "Grievous Lady",
+    "level": 11.1,
+    "difficulty": "FTR",
+    "notes": 1450
+  },
+  {
+    "name": "Dreamin' Attraction!!",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 592
+  },
+  {
+    "name": "Dreamin' Attraction!!",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 785
+  },
+  {
+    "name": "Dreamin' Attraction!!",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1129
+  },
+  {
+    "name": "Red and Blue",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 464
+  },
+  {
+    "name": "Red and Blue",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 597
+  },
+  {
+    "name": "Red and Blue",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 845
+  },
+  {
+    "name": "Red and Blue and Green",
+    "level": 10.2,
+    "difficulty": "BYD",
+    "notes": 1194
+  },
+  {
+    "name": "One Last Drive",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 604
+  },
+  {
+    "name": "One Last Drive",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 564
+  },
+  {
+    "name": "One Last Drive",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 885
+  },
+  {
+    "name": "Surrender",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 550
+  },
+  {
+    "name": "Surrender",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 721
+  },
+  {
+    "name": "Surrender",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 925
+  },
+  {
+    "name": "夜桜吹雪",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 416,
+    "aliases": [
+      "Yosakura Fubuki"
+    ]
+  },
+  {
+    "name": "夜桜吹雪",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 582,
+    "aliases": [
+      "Yosakura Fubuki"
+    ]
+  },
+  {
+    "name": "夜桜吹雪",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 931,
+    "aliases": [
+      "Yosakura Fubuki"
+    ]
+  },
+  {
+    "name": "cyanine",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 661
+  },
+  {
+    "name": "cyanine",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 947
+  },
+  {
+    "name": "cyanine",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1171
+  },
+  {
+    "name": "Dream goes on",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 532
+  },
+  {
+    "name": "Dream goes on",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 751
+  },
+  {
+    "name": "Dream goes on",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 719
+  },
+  {
+    "name": "Journey",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 551
+  },
+  {
+    "name": "Journey",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 778
+  },
+  {
+    "name": "Journey",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 997
+  },
+  {
+    "name": "Specta",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 390
+  },
+  {
+    "name": "Specta",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 706
+  },
+  {
+    "name": "Specta",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1096
+  },
+  {
+    "name": "Quon (Lanota)",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 547
+  },
+  {
+    "name": "Quon (Lanota)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 718
+  },
+  {
+    "name": "Quon (Lanota)",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 991
+  },
+  {
+    "name": "Syro",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 535
+  },
+  {
+    "name": "Syro",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 829
+  },
+  {
+    "name": "Syro",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1150
+  },
+  {
+    "name": "Reinvent",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 570
+  },
+  {
+    "name": "Reinvent",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 703
+  },
+  {
+    "name": "Reinvent",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 852
+  },
+  {
+    "name": "Silent Rush",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 416
+  },
+  {
+    "name": "Silent Rush",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 674
+  },
+  {
+    "name": "Silent Rush",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 941
+  },
+  {
+    "name": "Singularity",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 534
+  },
+  {
+    "name": "Singularity",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 678
+  },
+  {
+    "name": "Singularity",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1105
+  },
+  {
+    "name": "Singularity VVVIP",
+    "level": 10.4,
+    "difficulty": "BYD",
+    "notes": 1114
+  },
+  {
+    "name": "Memory Forest",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 639
+  },
+  {
+    "name": "Memory Forest",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 726
+  },
+  {
+    "name": "Memory Forest",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 978
+  },
+  {
+    "name": "Strongholds",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 570
+  },
+  {
+    "name": "Strongholds",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 778
+  },
+  {
+    "name": "Strongholds",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 922
+  },
+  {
+    "name": "next to you",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 454
+  },
+  {
+    "name": "next to you",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 583
+  },
+  {
+    "name": "next to you",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 824
+  },
+  {
+    "name": "next to you",
+    "level": 9.6,
+    "difficulty": "BYD",
+    "notes": 954
+  },
+  {
+    "name": "Metallic Punisher",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 500
+  },
+  {
+    "name": "Metallic Punisher",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 846
+  },
+  {
+    "name": "Metallic Punisher",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1238
+  },
+  {
+    "name": "Blaster",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 571
+  },
+  {
+    "name": "Blaster",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 635
+  },
+  {
+    "name": "Blaster",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1002
+  },
+  {
+    "name": "γuarδina",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 507
+  },
+  {
+    "name": "γuarδina",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 678
+  },
+  {
+    "name": "γuarδina",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1120
+  },
+  {
+    "name": "carmine:scythe",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 493
+  },
+  {
+    "name": "carmine:scythe",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 710
+  },
+  {
+    "name": "carmine:scythe",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1164
+  },
+  {
+    "name": "Be There",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 592
+  },
+  {
+    "name": "Be There",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 792
+  },
+  {
+    "name": "Be There",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 982
+  },
+  {
+    "name": "Be There",
+    "level": 10.5,
+    "difficulty": "BYD",
+    "notes": 1127
+  },
+  {
+    "name": "Cybernecia Catharsis",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 377
+  },
+  {
+    "name": "Cybernecia Catharsis",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 655
+  },
+  {
+    "name": "Cybernecia Catharsis",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 946
+  },
+  {
+    "name": "Cybernecia Catharsis",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 991
+  },
+  {
+    "name": "Call My Name feat. Yukacco",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 591
+  },
+  {
+    "name": "Call My Name feat. Yukacco",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 653
+  },
+  {
+    "name": "Call My Name feat. Yukacco",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 921
+  },
+  {
+    "name": "inkar-usi",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 276
+  },
+  {
+    "name": "inkar-usi",
+    "level": 4.0,
+    "difficulty": "PRS",
+    "notes": 326
+  },
+  {
+    "name": "inkar-usi",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 463
+  },
+  {
+    "name": "inkar-usi",
+    "level": 9.4,
+    "difficulty": "BYD",
+    "notes": 857
+  },
+  {
+    "name": "九番目の迷路",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 494,
+    "aliases": [
+      "Maze No.9"
+    ]
+  },
+  {
+    "name": "九番目の迷路",
+    "level": 3.5,
+    "difficulty": "PRS",
+    "notes": 445,
+    "aliases": [
+      "Maze No.9"
+    ]
+  },
+  {
+    "name": "九番目の迷路",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 775,
+    "aliases": [
+      "Maze No.9"
+    ]
+  },
+  {
+    "name": "The Message",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 536
+  },
+  {
+    "name": "The Message",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 630
+  },
+  {
+    "name": "The Message",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 992
+  },
+  {
+    "name": "Sulfur",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 458
+  },
+  {
+    "name": "Sulfur",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 608
+  },
+  {
+    "name": "Sulfur",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1045
+  },
+  {
+    "name": "Halcyon",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 662
+  },
+  {
+    "name": "Halcyon",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 943
+  },
+  {
+    "name": "Halcyon",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1227
+  },
+  {
+    "name": "Ether Strike",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 659
+  },
+  {
+    "name": "Ether Strike",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 837
+  },
+  {
+    "name": "Ether Strike",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1170
+  },
+  {
+    "name": "Fracture Ray",
+    "level": 6.0,
+    "difficulty": "PST",
+    "notes": 983
+  },
+  {
+    "name": "Fracture Ray",
+    "level": 9.5,
+    "difficulty": "PRS",
+    "notes": 1343
+  },
+  {
+    "name": "Fracture Ray",
+    "level": 11.1,
+    "difficulty": "FTR",
+    "notes": 1279
+  },
+  {
+    "name": "Suomi",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 368
+  },
+  {
+    "name": "Suomi",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 550
+  },
+  {
+    "name": "Suomi",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 818
+  },
+  {
+    "name": "Suomi",
+    "level": 8.9,
+    "difficulty": "ETR",
+    "notes": 732
+  },
+  {
+    "name": "Bookmaker (2D Version)",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 538
+  },
+  {
+    "name": "Bookmaker (2D Version)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 728
+  },
+  {
+    "name": "Bookmaker (2D Version)",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 1124
+  },
+  {
+    "name": "Bookmaker (2D Version)",
+    "level": 10.0,
+    "difficulty": "BYD",
+    "notes": 1287
+  },
+  {
+    "name": "堕楽の園",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 535,
+    "aliases": [
+      "Illegal Paradise"
+    ]
+  },
+  {
+    "name": "堕楽の園",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 585,
+    "aliases": [
+      "Illegal Paradise"
+    ]
+  },
+  {
+    "name": "堕楽の園",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1061,
+    "aliases": [
+      "Illegal Paradise"
+    ]
+  },
+  {
+    "name": "dropdead",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 44
+  },
+  {
+    "name": "dropdead",
+    "level": 9.5,
+    "difficulty": "PRS",
+    "notes": 1323
+  },
+  {
+    "name": "dropdead",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 823
+  },
+  {
+    "name": "overdead.",
+    "level": 10.5,
+    "difficulty": "BYD",
+    "notes": 1503
+  },
+  {
+    "name": "Fallensquare",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 316
+  },
+  {
+    "name": "Fallensquare",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 486
+  },
+  {
+    "name": "Fallensquare",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 703
+  },
+  {
+    "name": "Nhelv",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 647
+  },
+  {
+    "name": "Nhelv",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 913
+  },
+  {
+    "name": "Nhelv",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1108
+  },
+  {
+    "name": "Nhelv",
+    "level": 10.9,
+    "difficulty": "BYD",
+    "notes": 1474
+  },
+  {
+    "name": "白道、多希望羊と信じありく。",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 624,
+    "aliases": [
+      "LunarOrbit -believe in the Espebranch road-"
+    ]
+  },
+  {
+    "name": "白道、多希望羊と信じありく。",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 757,
+    "aliases": [
+      "LunarOrbit -believe in the Espebranch road-"
+    ]
+  },
+  {
+    "name": "白道、多希望羊と信じありく。",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1058,
+    "aliases": [
+      "LunarOrbit -believe in the Espebranch road-"
+    ]
+  },
+  {
+    "name": "Purgatorium",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 609
+  },
+  {
+    "name": "Purgatorium",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 641
+  },
+  {
+    "name": "Purgatorium",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 983
+  },
+  {
+    "name": "Purgatorium",
+    "level": 9.6,
+    "difficulty": "BYD",
+    "notes": 1051
+  },
+  {
+    "name": "光",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 237,
+    "aliases": [
+      "Hikari"
+    ]
+  },
+  {
+    "name": "光",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 450,
+    "aliases": [
+      "Hikari"
+    ]
+  },
+  {
+    "name": "光",
+    "level": 8.1,
+    "difficulty": "FTR",
+    "notes": 684,
+    "aliases": [
+      "Hikari"
+    ]
+  },
+  {
+    "name": "STAGER (ALL STAGE CLEAR)",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 453
+  },
+  {
+    "name": "STAGER (ALL STAGE CLEAR)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 559
+  },
+  {
+    "name": "STAGER (ALL STAGE CLEAR)",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1004
+  },
+  {
+    "name": "Hall of Mirrors",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 535
+  },
+  {
+    "name": "Hall of Mirrors",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 553
+  },
+  {
+    "name": "Hall of Mirrors",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 898
+  },
+  {
+    "name": "Linear Accelerator",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 438
+  },
+  {
+    "name": "Linear Accelerator",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 488
+  },
+  {
+    "name": "Linear Accelerator",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 905
+  },
+  {
+    "name": "Tiferet",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 450
+  },
+  {
+    "name": "Tiferet",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 720
+  },
+  {
+    "name": "Tiferet",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1086
+  },
+  {
+    "name": "Alexandrite",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 507
+  },
+  {
+    "name": "Alexandrite",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 699
+  },
+  {
+    "name": "Alexandrite",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1040
+  },
+  {
+    "name": "Rugie",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 566
+  },
+  {
+    "name": "Rugie",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 754
+  },
+  {
+    "name": "Rugie",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 975
+  },
+  {
+    "name": "Astral tale",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 445
+  },
+  {
+    "name": "Astral tale",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 642
+  },
+  {
+    "name": "Astral tale",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 884
+  },
+  {
+    "name": "Phantasia",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 544
+  },
+  {
+    "name": "Phantasia",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 579
+  },
+  {
+    "name": "Phantasia",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 952
+  },
+  {
+    "name": "Empire of Winter",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 484
+  },
+  {
+    "name": "Empire of Winter",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 662
+  },
+  {
+    "name": "Empire of Winter",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 920
+  },
+  {
+    "name": "MERLIN",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 315
+  },
+  {
+    "name": "MERLIN",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 428
+  },
+  {
+    "name": "MERLIN",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 712
+  },
+  {
+    "name": "MERLIN",
+    "level": 9.4,
+    "difficulty": "BYD",
+    "notes": 881
+  },
+  {
+    "name": "DX超性能フルメタル少女",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 327,
+    "aliases": [
+      "DX Choseinou Full Metal Shojo"
+    ]
+  },
+  {
+    "name": "DX超性能フルメタル少女",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 556,
+    "aliases": [
+      "DX Choseinou Full Metal Shojo"
+    ]
+  },
+  {
+    "name": "DX超性能フルメタル少女",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 808,
+    "aliases": [
+      "DX Choseinou Full Metal Shojo"
+    ]
+  },
+  {
+    "name": "OMAKENO Stroke",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 502
+  },
+  {
+    "name": "OMAKENO Stroke",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 616
+  },
+  {
+    "name": "OMAKENO Stroke",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 869
+  },
+  {
+    "name": "OMAKENO Stroke",
+    "level": 10.3,
+    "difficulty": "BYD",
+    "notes": 931
+  },
+  {
+    "name": "Scarlet Lance",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 517
+  },
+  {
+    "name": "Scarlet Lance",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 644
+  },
+  {
+    "name": "Scarlet Lance",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1130
+  },
+  {
+    "name": "ouroboros -twin stroke of the end-",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 575
+  },
+  {
+    "name": "ouroboros -twin stroke of the end-",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 832
+  },
+  {
+    "name": "ouroboros -twin stroke of the end-",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1369
+  },
+  {
+    "name": "Libertas",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 476
+  },
+  {
+    "name": "Libertas",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 514
+  },
+  {
+    "name": "Libertas",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 947
+  },
+  {
+    "name": "Libertas",
+    "level": 10.5,
+    "difficulty": "BYD",
+    "notes": 1048
+  },
+  {
+    "name": "虚空の夢",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 712,
+    "aliases": [
+      "Solitary Dream"
+    ]
+  },
+  {
+    "name": "虚空の夢",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 854,
+    "aliases": [
+      "Solitary Dream"
+    ]
+  },
+  {
+    "name": "虚空の夢",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 972,
+    "aliases": [
+      "Solitary Dream"
+    ]
+  },
+  {
+    "name": "Antithese",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 845
+  },
+  {
+    "name": "Antithese",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 826
+  },
+  {
+    "name": "Antithese",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 877
+  },
+  {
+    "name": "Antithese",
+    "level": 9.6,
+    "difficulty": "BYD",
+    "notes": 968
+  },
+  {
+    "name": "Corruption",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 664
+  },
+  {
+    "name": "Corruption",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 847
+  },
+  {
+    "name": "Corruption",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1293
+  },
+  {
+    "name": "Black Territory",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 627
+  },
+  {
+    "name": "Black Territory",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 785
+  },
+  {
+    "name": "Black Territory",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1195
+  },
+  {
+    "name": "Vicious Heroism",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 430
+  },
+  {
+    "name": "Vicious Heroism",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 756
+  },
+  {
+    "name": "Vicious Heroism",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1150
+  },
+  {
+    "name": "Vicious [ANTi] Heroism",
+    "level": 11.2,
+    "difficulty": "BYD",
+    "notes": 1772
+  },
+  {
+    "name": "Cyaegha",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 760
+  },
+  {
+    "name": "Cyaegha",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 984
+  },
+  {
+    "name": "Cyaegha",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1368
+  },
+  {
+    "name": "ReviXy",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 538
+  },
+  {
+    "name": "ReviXy",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 729
+  },
+  {
+    "name": "ReviXy",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 1047
+  },
+  {
+    "name": "Grimheart",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 728
+  },
+  {
+    "name": "Grimheart",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 699
+  },
+  {
+    "name": "Grimheart",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 959
+  },
+  {
+    "name": "VECTOЯ",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 675
+  },
+  {
+    "name": "VECTOЯ",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 1002
+  },
+  {
+    "name": "VECTOЯ",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1299
+  },
+  {
+    "name": "SUPERNOVA",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 664
+  },
+  {
+    "name": "SUPERNOVA",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 564
+  },
+  {
+    "name": "SUPERNOVA",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1123
+  },
+  {
+    "name": "Dot to Dot feat. shully",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 453
+  },
+  {
+    "name": "Dot to Dot feat. shully",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 522
+  },
+  {
+    "name": "Dot to Dot feat. shully",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 739
+  },
+  {
+    "name": "Garakuta Doll Play",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 444
+  },
+  {
+    "name": "Garakuta Doll Play",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 572
+  },
+  {
+    "name": "Garakuta Doll Play",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1035
+  },
+  {
+    "name": "怒槌",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 656,
+    "aliases": [
+      "Ikazuchi"
+    ]
+  },
+  {
+    "name": "怒槌",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 976,
+    "aliases": [
+      "Ikazuchi"
+    ]
+  },
+  {
+    "name": "怒槌",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1347,
+    "aliases": [
+      "Ikazuchi"
+    ]
+  },
+  {
+    "name": "World Vanquisher",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 529
+  },
+  {
+    "name": "World Vanquisher",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 759
+  },
+  {
+    "name": "World Vanquisher",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1452
+  },
+  {
+    "name": "Dreadnought",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 715
+  },
+  {
+    "name": "Dreadnought",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 897
+  },
+  {
+    "name": "Dreadnought",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1099
+  },
+  {
+    "name": "Vindication",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 721
+  },
+  {
+    "name": "Vindication",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 899
+  },
+  {
+    "name": "Vindication",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1075
+  },
+  {
+    "name": "Heavensdoor",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 766
+  },
+  {
+    "name": "Heavensdoor",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 869
+  },
+  {
+    "name": "Heavensdoor",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1101
+  },
+  {
+    "name": "Heavensdoor",
+    "level": 10.8,
+    "difficulty": "BYD",
+    "notes": 1534
+  },
+  {
+    "name": "Ringed Genesis",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 672
+  },
+  {
+    "name": "Ringed Genesis",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 860
+  },
+  {
+    "name": "Ringed Genesis",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1146
+  },
+  {
+    "name": "Chelsea",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 388
+  },
+  {
+    "name": "Chelsea",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 503
+  },
+  {
+    "name": "Chelsea",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 650
+  },
+  {
+    "name": "AI[UE]OON",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 436
+  },
+  {
+    "name": "AI[UE]OON",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 623
+  },
+  {
+    "name": "AI[UE]OON",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 989
+  },
+  {
+    "name": "迷える音色は恋の唄",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 422,
+    "aliases": [
+      "A Wandering Melody of Love"
+    ]
+  },
+  {
+    "name": "迷える音色は恋の唄",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 670,
+    "aliases": [
+      "A Wandering Melody of Love"
+    ]
+  },
+  {
+    "name": "迷える音色は恋の唄",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 931,
+    "aliases": [
+      "A Wandering Melody of Love"
+    ]
+  },
+  {
+    "name": "Tie me down gently",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 581
+  },
+  {
+    "name": "Tie me down gently",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 535
+  },
+  {
+    "name": "Tie me down gently",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 724
+  },
+  {
+    "name": "Valhalla:0",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 624
+  },
+  {
+    "name": "Valhalla:0",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 893
+  },
+  {
+    "name": "Valhalla:0",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1173
+  },
+  {
+    "name": "Mirzam",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 662
+  },
+  {
+    "name": "Mirzam",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 885
+  },
+  {
+    "name": "Mirzam",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1303
+  },
+  {
+    "name": "Diode",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 452
+  },
+  {
+    "name": "Diode",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 472
+  },
+  {
+    "name": "Diode",
+    "level": 8.1,
+    "difficulty": "FTR",
+    "notes": 709
+  },
+  {
+    "name": "FREEF4LL",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 589
+  },
+  {
+    "name": "FREEF4LL",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 782
+  },
+  {
+    "name": "FREEF4LL",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 1023
+  },
+  {
+    "name": "FREEF4LL",
+    "level": 9.8,
+    "difficulty": "BYD",
+    "notes": 1336
+  },
+  {
+    "name": "GLORY：ROAD",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 868
+  },
+  {
+    "name": "GLORY：ROAD",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 999
+  },
+  {
+    "name": "GLORY：ROAD",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1479
+  },
+  {
+    "name": "Monochrome Princess",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 621
+  },
+  {
+    "name": "Monochrome Princess",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 756
+  },
+  {
+    "name": "Monochrome Princess",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 974
+  },
+  {
+    "name": "Heavenly caress",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 855
+  },
+  {
+    "name": "Heavenly caress",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 909
+  },
+  {
+    "name": "Heavenly caress",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1560
+  },
+  {
+    "name": "Heavenly caress",
+    "level": 10.9,
+    "difficulty": "BYD",
+    "notes": 1717
+  },
+  {
+    "name": "Senkyou",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 627
+  },
+  {
+    "name": "Senkyou",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 722
+  },
+  {
+    "name": "Senkyou",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 964
+  },
+  {
+    "name": "Filament",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 582
+  },
+  {
+    "name": "Filament",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 780
+  },
+  {
+    "name": "Filament",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 991
+  },
+  {
+    "name": "Avant Raze",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 580
+  },
+  {
+    "name": "Avant Raze",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 727
+  },
+  {
+    "name": "Avant Raze",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1125
+  },
+  {
+    "name": "BATTLE NO.1",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 476
+  },
+  {
+    "name": "BATTLE NO.1",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 677
+  },
+  {
+    "name": "BATTLE NO.1",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1042
+  },
+  {
+    "name": "La'qryma of the Wasteland",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 447
+  },
+  {
+    "name": "La'qryma of the Wasteland",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 651
+  },
+  {
+    "name": "La'qryma of the Wasteland",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 956
+  },
+  {
+    "name": "La'qryma of the Wasteland",
+    "level": 10.0,
+    "difficulty": "BYD",
+    "notes": 1161
+  },
+  {
+    "name": "Einherjar Joker",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 582
+  },
+  {
+    "name": "Einherjar Joker",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 767
+  },
+  {
+    "name": "Einherjar Joker",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1159
+  },
+  {
+    "name": "Einherjar Joker",
+    "level": 10.9,
+    "difficulty": "BYD",
+    "notes": 1857
+  },
+  {
+    "name": "IZANA",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 609
+  },
+  {
+    "name": "IZANA",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 836
+  },
+  {
+    "name": "IZANA",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 976
+  },
+  {
+    "name": "最強STRONGER",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 654,
+    "aliases": [
+      "SAIKYO STRONGER"
+    ]
+  },
+  {
+    "name": "最強STRONGER",
+    "level": 9.4,
+    "difficulty": "PRS",
+    "notes": 1067,
+    "aliases": [
+      "SAIKYO STRONGER"
+    ]
+  },
+  {
+    "name": "最強STRONGER",
+    "level": 11.0,
+    "difficulty": "FTR",
+    "notes": 1384,
+    "aliases": [
+      "SAIKYO STRONGER"
+    ]
+  },
+  {
+    "name": "world.execute(me);",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 452
+  },
+  {
+    "name": "world.execute(me);",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 582
+  },
+  {
+    "name": "world.execute(me);",
+    "level": 8.0,
+    "difficulty": "FTR",
+    "notes": 851
+  },
+  {
+    "name": "BLRINK",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 400
+  },
+  {
+    "name": "BLRINK",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 683
+  },
+  {
+    "name": "BLRINK",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1015
+  },
+  {
+    "name": "Oblivia",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 574
+  },
+  {
+    "name": "Oblivia",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 517
+  },
+  {
+    "name": "Oblivia",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 956
+  },
+  {
+    "name": "Oblivia",
+    "level": 9.7,
+    "difficulty": "BYD",
+    "notes": 1021
+  },
+  {
+    "name": "amygdata",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 504
+  },
+  {
+    "name": "amygdata",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 711
+  },
+  {
+    "name": "amygdata",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1199
+  },
+  {
+    "name": "corps-sans-organes",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 438
+  },
+  {
+    "name": "corps-sans-organes",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 615
+  },
+  {
+    "name": "corps-sans-organes",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1077
+  },
+  {
+    "name": "Equilibrium",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 587
+  },
+  {
+    "name": "Equilibrium",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 724
+  },
+  {
+    "name": "Equilibrium",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 951
+  },
+  {
+    "name": "Antagonism",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 431
+  },
+  {
+    "name": "Antagonism",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 738
+  },
+  {
+    "name": "Antagonism",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1142
+  },
+  {
+    "name": "Lost Desire",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 684
+  },
+  {
+    "name": "Lost Desire",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 871
+  },
+  {
+    "name": "Lost Desire",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1154
+  },
+  {
+    "name": "Dantalion",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 731
+  },
+  {
+    "name": "Dantalion",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 843
+  },
+  {
+    "name": "Dantalion",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1476
+  },
+  {
+    "name": "#1f1e33",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 765
+  },
+  {
+    "name": "#1f1e33",
+    "level": 9.2,
+    "difficulty": "PRS",
+    "notes": 1144
+  },
+  {
+    "name": "#1f1e33",
+    "level": 11.1,
+    "difficulty": "FTR",
+    "notes": 1576
+  },
+  {
+    "name": "Tempestissimo",
+    "level": 7.0,
+    "difficulty": "PST",
+    "notes": 919
+  },
+  {
+    "name": "Tempestissimo",
+    "level": 9.5,
+    "difficulty": "PRS",
+    "notes": 1034
+  },
+  {
+    "name": "Tempestissimo",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1254
+  },
+  {
+    "name": "Tempestissimo",
+    "level": 11.7,
+    "difficulty": "BYD",
+    "notes": 1540
+  },
+  {
+    "name": "Arcahv",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 818
+  },
+  {
+    "name": "Arcahv",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 884
+  },
+  {
+    "name": "Arcahv",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1065
+  },
+  {
+    "name": "Altale",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 357
+  },
+  {
+    "name": "Altale",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 424
+  },
+  {
+    "name": "Altale",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 690
+  },
+  {
+    "name": "Altale",
+    "level": 10.0,
+    "difficulty": "BYD",
+    "notes": 1074
+  },
+  {
+    "name": "Give Me a Nightmare",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 676
+  },
+  {
+    "name": "Give Me a Nightmare",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 817
+  },
+  {
+    "name": "Give Me a Nightmare",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 948
+  },
+  {
+    "name": "Black Lotus",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 653
+  },
+  {
+    "name": "Black Lotus",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 687
+  },
+  {
+    "name": "Black Lotus",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 965
+  },
+  {
+    "name": "Gekka (Short Version)",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 559
+  },
+  {
+    "name": "Gekka (Short Version)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 628
+  },
+  {
+    "name": "Gekka (Short Version)",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 817
+  },
+  {
+    "name": "Vivid Theory",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 447
+  },
+  {
+    "name": "Vivid Theory",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 658
+  },
+  {
+    "name": "Vivid Theory",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 885
+  },
+  {
+    "name": "1F√",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 411
+  },
+  {
+    "name": "1F√",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 539
+  },
+  {
+    "name": "1F√",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 758
+  },
+  {
+    "name": "Scarlet Cage",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 570
+  },
+  {
+    "name": "Scarlet Cage",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 711
+  },
+  {
+    "name": "Scarlet Cage",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1195
+  },
+  {
+    "name": "Faint Light (Arcaea Edit)",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 587
+  },
+  {
+    "name": "Faint Light (Arcaea Edit)",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 711
+  },
+  {
+    "name": "Faint Light (Arcaea Edit)",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 809
+  },
+  {
+    "name": "Feels So Right feat. Renko",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 594
+  },
+  {
+    "name": "Feels So Right feat. Renko",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 636
+  },
+  {
+    "name": "Feels So Right feat. Renko",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 947
+  },
+  {
+    "name": "Teriqma",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 345
+  },
+  {
+    "name": "Teriqma",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 579
+  },
+  {
+    "name": "Teriqma",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 873
+  },
+  {
+    "name": "Teriqma",
+    "level": 9.7,
+    "difficulty": "BYD",
+    "notes": 954
+  },
+  {
+    "name": "MAHOROBA",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 422
+  },
+  {
+    "name": "MAHOROBA",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 632
+  },
+  {
+    "name": "MAHOROBA",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 828
+  },
+  {
+    "name": "BADTEK",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 532
+  },
+  {
+    "name": "BADTEK",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 595
+  },
+  {
+    "name": "BADTEK",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 916
+  },
+  {
+    "name": "Malicious Mischance",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "Malicious Mischance",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 706
+  },
+  {
+    "name": "Malicious Mischance",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1126
+  },
+  {
+    "name": "Got hive of Ra",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 322
+  },
+  {
+    "name": "Got hive of Ra",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 509
+  },
+  {
+    "name": "Got hive of Ra",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 794
+  },
+  {
+    "name": "BUCHiGiRE Berserker",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 850
+  },
+  {
+    "name": "BUCHiGiRE Berserker",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 1046
+  },
+  {
+    "name": "BUCHiGiRE Berserker",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1412
+  },
+  {
+    "name": "Galaxy Friends",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 474
+  },
+  {
+    "name": "Galaxy Friends",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 572
+  },
+  {
+    "name": "Galaxy Friends",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1013
+  },
+  {
+    "name": "CROSS†OVER",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 653
+  },
+  {
+    "name": "CROSS†OVER",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 810
+  },
+  {
+    "name": "CROSS†OVER",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1094
+  },
+  {
+    "name": "Xeraphinite",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 383
+  },
+  {
+    "name": "Xeraphinite",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 643
+  },
+  {
+    "name": "Xeraphinite",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1048
+  },
+  {
+    "name": "Lapis",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 391
+  },
+  {
+    "name": "Lapis",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 520
+  },
+  {
+    "name": "Lapis",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 920
+  },
+  {
+    "name": "Xanatos",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 735
+  },
+  {
+    "name": "Xanatos",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 938
+  },
+  {
+    "name": "Xanatos",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1232
+  },
+  {
+    "name": "Purple Verse",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 558
+  },
+  {
+    "name": "Purple Verse",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 664
+  },
+  {
+    "name": "Purple Verse",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1023
+  },
+  {
+    "name": "Purple Verse",
+    "level": 10.6,
+    "difficulty": "BYD",
+    "notes": 1202
+  },
+  {
+    "name": "Alice à la mode",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 436
+  },
+  {
+    "name": "Alice à la mode",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 618
+  },
+  {
+    "name": "Alice à la mode",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 872
+  },
+  {
+    "name": "Eccentric Tale",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 313
+  },
+  {
+    "name": "Eccentric Tale",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 483
+  },
+  {
+    "name": "Eccentric Tale",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 732
+  },
+  {
+    "name": "Eccentric Tale",
+    "level": 9.9,
+    "difficulty": "BYD",
+    "notes": 995
+  },
+  {
+    "name": "Alice's Suitcase",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 644
+  },
+  {
+    "name": "Alice's Suitcase",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 660
+  },
+  {
+    "name": "Alice's Suitcase",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 999
+  },
+  {
+    "name": "Jump",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 531
+  },
+  {
+    "name": "Jump",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 622
+  },
+  {
+    "name": "Jump",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 841
+  },
+  {
+    "name": "Felis",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 463
+  },
+  {
+    "name": "Felis",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 624
+  },
+  {
+    "name": "Felis",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1153
+  },
+  {
+    "name": "Beside You",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 526
+  },
+  {
+    "name": "Beside You",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 634
+  },
+  {
+    "name": "Beside You",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 703
+  },
+  {
+    "name": "Heart Jackin'",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 506
+  },
+  {
+    "name": "Heart Jackin'",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 543
+  },
+  {
+    "name": "Heart Jackin'",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1112
+  },
+  {
+    "name": "アリス・リデルに捧ぐ",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 535,
+    "aliases": [
+      "To: Alice Liddell"
+    ]
+  },
+  {
+    "name": "アリス・リデルに捧ぐ",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 674,
+    "aliases": [
+      "To: Alice Liddell"
+    ]
+  },
+  {
+    "name": "アリス・リデルに捧ぐ",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 998,
+    "aliases": [
+      "To: Alice Liddell"
+    ]
+  },
+  {
+    "name": "Lazy Addiction",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 462
+  },
+  {
+    "name": "Lazy Addiction",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 647
+  },
+  {
+    "name": "Lazy Addiction",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1031
+  },
+  {
+    "name": "Dazzle hop",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 561
+  },
+  {
+    "name": "Dazzle hop",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 571
+  },
+  {
+    "name": "Dazzle hop",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1022
+  },
+  {
+    "name": "Viyella's Tears",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 716
+  },
+  {
+    "name": "Viyella's Tears",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 942
+  },
+  {
+    "name": "Viyella's Tears",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1403
+  },
+  {
+    "name": "ω4",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 816
+  },
+  {
+    "name": "ω4",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 943
+  },
+  {
+    "name": "ω4",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1393
+  },
+  {
+    "name": "四月の雨",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 363,
+    "aliases": [
+      "April showers"
+    ]
+  },
+  {
+    "name": "四月の雨",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 544,
+    "aliases": [
+      "April showers"
+    ]
+  },
+  {
+    "name": "四月の雨",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 697,
+    "aliases": [
+      "April showers"
+    ]
+  },
+  {
+    "name": "7thSense",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 360
+  },
+  {
+    "name": "7thSense",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 739
+  },
+  {
+    "name": "7thSense",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 925
+  },
+  {
+    "name": "Oshama Scramble!",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 508
+  },
+  {
+    "name": "Oshama Scramble!",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 568
+  },
+  {
+    "name": "Oshama Scramble!",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1073
+  },
+  {
+    "name": "AMAZING MIGHTYYYY!!!!",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 624
+  },
+  {
+    "name": "AMAZING MIGHTYYYY!!!!",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 776
+  },
+  {
+    "name": "AMAZING MIGHTYYYY!!!!",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1249
+  },
+  {
+    "name": "Climax",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 773
+  },
+  {
+    "name": "Climax",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 988
+  },
+  {
+    "name": "Climax",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1367
+  },
+  {
+    "name": "Last Celebration",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 969
+  },
+  {
+    "name": "Last Celebration",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 994
+  },
+  {
+    "name": "Last Celebration",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1475
+  },
+  {
+    "name": "業 -善なる神とこの世の悪について-",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 814,
+    "aliases": [
+      "Misdeed -la bonté de Dieu et l'origine du mal-"
+    ]
+  },
+  {
+    "name": "業 -善なる神とこの世の悪について-",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1070,
+    "aliases": [
+      "Misdeed -la bonté de Dieu et l'origine du mal-"
+    ]
+  },
+  {
+    "name": "業 -善なる神とこの世の悪について-",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1522,
+    "aliases": [
+      "Misdeed -la bonté de Dieu et l'origine du mal-"
+    ]
+  },
+  {
+    "name": "Glow",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 504
+  },
+  {
+    "name": "Glow",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 666
+  },
+  {
+    "name": "Glow",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 916
+  },
+  {
+    "name": "AttraqtiA",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 732
+  },
+  {
+    "name": "AttraqtiA",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 1002
+  },
+  {
+    "name": "AttraqtiA",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1433
+  },
+  {
+    "name": "enchanted love",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 436
+  },
+  {
+    "name": "enchanted love",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 617
+  },
+  {
+    "name": "enchanted love",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 759
+  },
+  {
+    "name": "竹",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 499,
+    "aliases": [
+      "Bamboo"
+    ]
+  },
+  {
+    "name": "竹",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 631,
+    "aliases": [
+      "Bamboo"
+    ]
+  },
+  {
+    "name": "竹",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1050,
+    "aliases": [
+      "Bamboo"
+    ]
+  },
+  {
+    "name": "GIMME DA BLOOD",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 582
+  },
+  {
+    "name": "GIMME DA BLOOD",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 737
+  },
+  {
+    "name": "GIMME DA BLOOD",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1093
+  },
+  {
+    "name": "ベースラインやってる？ｗ",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 415,
+    "aliases": [
+      "Can I Friend You on Bassbook? Lol"
+    ]
+  },
+  {
+    "name": "ベースラインやってる？ｗ",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 548,
+    "aliases": [
+      "Can I Friend You on Bassbook? Lol"
+    ]
+  },
+  {
+    "name": "ベースラインやってる？ｗ",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 861,
+    "aliases": [
+      "Can I Friend You on Bassbook? Lol"
+    ]
+  },
+  {
+    "name": "Life is PIANO",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 398
+  },
+  {
+    "name": "Life is PIANO",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 437
+  },
+  {
+    "name": "Life is PIANO",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 674
+  },
+  {
+    "name": "Paper Witch",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 348
+  },
+  {
+    "name": "Paper Witch",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 487
+  },
+  {
+    "name": "Paper Witch",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 793
+  },
+  {
+    "name": "Crystal Gravity",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 571
+  },
+  {
+    "name": "Crystal Gravity",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 653
+  },
+  {
+    "name": "Crystal Gravity",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 872
+  },
+  {
+    "name": "Far Away Light",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 656
+  },
+  {
+    "name": "Far Away Light",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 769
+  },
+  {
+    "name": "Far Away Light",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1322
+  },
+  {
+    "name": "Löschen",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 642
+  },
+  {
+    "name": "Löschen",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 850
+  },
+  {
+    "name": "Löschen",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1235
+  },
+  {
+    "name": "Aegleseeker",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 973
+  },
+  {
+    "name": "Aegleseeker",
+    "level": 9.1,
+    "difficulty": "PRS",
+    "notes": 1235
+  },
+  {
+    "name": "Aegleseeker",
+    "level": 11.2,
+    "difficulty": "FTR",
+    "notes": 1568
+  },
+  {
+    "name": "Coastal Highway",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 355
+  },
+  {
+    "name": "Coastal Highway",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 479
+  },
+  {
+    "name": "Coastal Highway",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 732
+  },
+  {
+    "name": "ΟΔΥΣΣΕΙΑ",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 717
+  },
+  {
+    "name": "ΟΔΥΣΣΕΙΑ",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 909
+  },
+  {
+    "name": "ΟΔΥΣΣΕΙΑ",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1092
+  },
+  {
+    "name": "Overwhelm",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 854
+  },
+  {
+    "name": "Overwhelm",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1038
+  },
+  {
+    "name": "Overwhelm",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1251
+  },
+  {
+    "name": "Vandalism",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 668
+  },
+  {
+    "name": "Vandalism",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 685
+  },
+  {
+    "name": "Vandalism",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1087
+  },
+  {
+    "name": "Turbocharger",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 419
+  },
+  {
+    "name": "Turbocharger",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 659
+  },
+  {
+    "name": "Turbocharger",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 979
+  },
+  {
+    "name": "THE ULTIMACY",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 749
+  },
+  {
+    "name": "THE ULTIMACY",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 919
+  },
+  {
+    "name": "THE ULTIMACY",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1304
+  },
+  {
+    "name": "烈華RESONANCE",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 860,
+    "aliases": [
+      "REKKA RESONANCE"
+    ]
+  },
+  {
+    "name": "烈華RESONANCE",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1051,
+    "aliases": [
+      "REKKA RESONANCE"
+    ]
+  },
+  {
+    "name": "烈華RESONANCE",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1212,
+    "aliases": [
+      "REKKA RESONANCE"
+    ]
+  },
+  {
+    "name": "狂言綺語",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 576,
+    "aliases": [
+      "False Embellishment"
+    ]
+  },
+  {
+    "name": "狂言綺語",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 684,
+    "aliases": [
+      "False Embellishment"
+    ]
+  },
+  {
+    "name": "狂言綺語",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 969,
+    "aliases": [
+      "False Embellishment"
+    ]
+  },
+  {
+    "name": "狂言綺語",
+    "level": 9.9,
+    "difficulty": "BYD",
+    "notes": 1325,
+    "aliases": [
+      "False Embellishment"
+    ]
+  },
+  {
+    "name": "HIVEMIND",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 995
+  },
+  {
+    "name": "HIVEMIND",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 988
+  },
+  {
+    "name": "HIVEMIND",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1252
+  },
+  {
+    "name": "Seclusion",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 544
+  },
+  {
+    "name": "Seclusion",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 762
+  },
+  {
+    "name": "Seclusion",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1132
+  },
+  {
+    "name": "Small Cloud Sugar Candy",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 548
+  },
+  {
+    "name": "Small Cloud Sugar Candy",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 727
+  },
+  {
+    "name": "Small Cloud Sugar Candy",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 919
+  },
+  {
+    "name": "Small Cloud Sugar Candy",
+    "level": 10.3,
+    "difficulty": "BYD",
+    "notes": 1158
+  },
+  {
+    "name": "AlterAle",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 728
+  },
+  {
+    "name": "AlterAle",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 881
+  },
+  {
+    "name": "AlterAle",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1277
+  },
+  {
+    "name": "光速神授説 - Divine Light of Myriad -",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 798,
+    "aliases": [
+      "Divine Light of Myriad"
+    ]
+  },
+  {
+    "name": "光速神授説 - Divine Light of Myriad -",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 835,
+    "aliases": [
+      "Divine Light of Myriad"
+    ]
+  },
+  {
+    "name": "光速神授説 - Divine Light of Myriad -",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1021,
+    "aliases": [
+      "Divine Light of Myriad"
+    ]
+  },
+  {
+    "name": "Mazy Metroplex",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 453
+  },
+  {
+    "name": "Mazy Metroplex",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 704
+  },
+  {
+    "name": "Mazy Metroplex",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 952
+  },
+  {
+    "name": "Quon (WACCA)",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 425
+  },
+  {
+    "name": "Quon (WACCA)",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 496
+  },
+  {
+    "name": "Quon (WACCA)",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 749
+  },
+  {
+    "name": "Quon (WACCA)",
+    "level": 10.2,
+    "difficulty": "BYD",
+    "notes": 1044
+  },
+  {
+    "name": "with U",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 448
+  },
+  {
+    "name": "with U",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 649
+  },
+  {
+    "name": "with U",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 932
+  },
+  {
+    "name": "GENOCIDER",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 832
+  },
+  {
+    "name": "GENOCIDER",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1025
+  },
+  {
+    "name": "GENOCIDER",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1483
+  },
+  {
+    "name": "Let you DIVE! (nitro rmx)",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 608
+  },
+  {
+    "name": "Let you DIVE! (nitro rmx)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 819
+  },
+  {
+    "name": "Let you DIVE! (nitro rmx)",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1049
+  },
+  {
+    "name": "Sheriruth (Laur Remix)",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 671
+  },
+  {
+    "name": "Sheriruth (Laur Remix)",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 795
+  },
+  {
+    "name": "Sheriruth (Laur Remix)",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1134
+  },
+  {
+    "name": "緋纏いの宵",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 530,
+    "aliases": [
+      "Evening in Scarlet"
+    ]
+  },
+  {
+    "name": "緋纏いの宵",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 638,
+    "aliases": [
+      "Evening in Scarlet"
+    ]
+  },
+  {
+    "name": "緋纏いの宵",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 922,
+    "aliases": [
+      "Evening in Scarlet"
+    ]
+  },
+  {
+    "name": "blue comet",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 494
+  },
+  {
+    "name": "blue comet",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 645
+  },
+  {
+    "name": "blue comet",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 776
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 471
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 608
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 922
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "level": 10.3,
+    "difficulty": "BYD",
+    "notes": 1011
+  },
+  {
+    "name": "G e n g a o z o",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 580
+  },
+  {
+    "name": "G e n g a o z o",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 870
+  },
+  {
+    "name": "G e n g a o z o",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1353
+  },
+  {
+    "name": "goldenslaughterer",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 864
+  },
+  {
+    "name": "goldenslaughterer",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 880
+  },
+  {
+    "name": "goldenslaughterer",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1326
+  },
+  {
+    "name": "lastendconductor",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 726
+  },
+  {
+    "name": "lastendconductor",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 901
+  },
+  {
+    "name": "lastendconductor",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1209
+  },
+  {
+    "name": "lastendconductor",
+    "level": 10.2,
+    "difficulty": "BYD",
+    "notes": 1339
+  },
+  {
+    "name": "Redolent Shape",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 570
+  },
+  {
+    "name": "Redolent Shape",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 717
+  },
+  {
+    "name": "Redolent Shape",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1088
+  },
+  {
+    "name": "Cosmica",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 428
+  },
+  {
+    "name": "Cosmica",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 566
+  },
+  {
+    "name": "Cosmica",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 773
+  },
+  {
+    "name": "Ascent",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 455
+  },
+  {
+    "name": "Ascent",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 626
+  },
+  {
+    "name": "Ascent",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1023
+  },
+  {
+    "name": "Live Fast Die Young",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 565
+  },
+  {
+    "name": "Live Fast Die Young",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 837
+  },
+  {
+    "name": "Live Fast Die Young",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1292
+  },
+  {
+    "name": "彩る夏の恋花火",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 478,
+    "aliases": [
+      "Summer Fireworks of Love"
+    ]
+  },
+  {
+    "name": "彩る夏の恋花火",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 641,
+    "aliases": [
+      "Summer Fireworks of Love"
+    ]
+  },
+  {
+    "name": "彩る夏の恋花火",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1088,
+    "aliases": [
+      "Summer Fireworks of Love"
+    ]
+  },
+  {
+    "name": "First Snow",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 366
+  },
+  {
+    "name": "First Snow",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 442
+  },
+  {
+    "name": "First Snow",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 578
+  },
+  {
+    "name": "Blue Rose",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 595
+  },
+  {
+    "name": "Blue Rose",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 669
+  },
+  {
+    "name": "Blue Rose",
+    "level": 9.1,
+    "difficulty": "FTR",
+    "notes": 955
+  },
+  {
+    "name": "Blocked Library",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 449
+  },
+  {
+    "name": "Blocked Library",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 622
+  },
+  {
+    "name": "Blocked Library",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 850
+  },
+  {
+    "name": "nέο κόsmo",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 603
+  },
+  {
+    "name": "nέο κόsmo",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 791
+  },
+  {
+    "name": "nέο κόsmo",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 979
+  },
+  {
+    "name": "Lightning Screw",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 611
+  },
+  {
+    "name": "Lightning Screw",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 811
+  },
+  {
+    "name": "Lightning Screw",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1192
+  },
+  {
+    "name": "Lights of Muse",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 333
+  },
+  {
+    "name": "Lights of Muse",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 438
+  },
+  {
+    "name": "Lights of Muse",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 580
+  },
+  {
+    "name": "Final Step!",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 625
+  },
+  {
+    "name": "Final Step!",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 684
+  },
+  {
+    "name": "Final Step!",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1056
+  },
+  {
+    "name": "秋の陽炎",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 533,
+    "aliases": [
+      "Haze of Autumn"
+    ]
+  },
+  {
+    "name": "秋の陽炎",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 733,
+    "aliases": [
+      "Haze of Autumn"
+    ]
+  },
+  {
+    "name": "秋の陽炎",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1077,
+    "aliases": [
+      "Haze of Autumn"
+    ]
+  },
+  {
+    "name": "Medusa",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 550
+  },
+  {
+    "name": "Medusa",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 645
+  },
+  {
+    "name": "Medusa",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 931
+  },
+  {
+    "name": "init()",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 713
+  },
+  {
+    "name": "init()",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 957
+  },
+  {
+    "name": "init()",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1204
+  },
+  {
+    "name": "INTERNET OVERDOSE",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 430
+  },
+  {
+    "name": "INTERNET OVERDOSE",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 578
+  },
+  {
+    "name": "INTERNET OVERDOSE",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 657
+  },
+  {
+    "name": "Sakura Fubuki",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 526
+  },
+  {
+    "name": "Sakura Fubuki",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 571
+  },
+  {
+    "name": "Sakura Fubuki",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 837
+  },
+  {
+    "name": "NULCTRL",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 407
+  },
+  {
+    "name": "NULCTRL",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 410
+  },
+  {
+    "name": "NULCTRL",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 715
+  },
+  {
+    "name": "Macrocosmic Modulation",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 608
+  },
+  {
+    "name": "Macrocosmic Modulation",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 794
+  },
+  {
+    "name": "Macrocosmic Modulation",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1117
+  },
+  {
+    "name": "NEO WINGS",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 591
+  },
+  {
+    "name": "NEO WINGS",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 840
+  },
+  {
+    "name": "NEO WINGS",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1328
+  },
+  {
+    "name": "Kissing Lucifer",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 639
+  },
+  {
+    "name": "Kissing Lucifer",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 770
+  },
+  {
+    "name": "Kissing Lucifer",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1183
+  },
+  {
+    "name": "Ävril -Flicka i krans-",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 459
+  },
+  {
+    "name": "Ävril -Flicka i krans-",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 607
+  },
+  {
+    "name": "Ävril -Flicka i krans-",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 851
+  },
+  {
+    "name": "Aurgelmir",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 540
+  },
+  {
+    "name": "Aurgelmir",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 765
+  },
+  {
+    "name": "Aurgelmir",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1100
+  },
+  {
+    "name": "Head BONK ache",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 570
+  },
+  {
+    "name": "Head BONK ache",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 725
+  },
+  {
+    "name": "Head BONK ache",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1061
+  },
+  {
+    "name": "DDD",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 363
+  },
+  {
+    "name": "DDD",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 484
+  },
+  {
+    "name": "DDD",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 653
+  },
+  {
+    "name": "Prism",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 476
+  },
+  {
+    "name": "Prism",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 544
+  },
+  {
+    "name": "Prism",
+    "level": 8.0,
+    "difficulty": "FTR",
+    "notes": 785
+  },
+  {
+    "name": "Protoflicker",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "Protoflicker",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 633
+  },
+  {
+    "name": "Protoflicker",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1042
+  },
+  {
+    "name": "Stasis",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 848
+  },
+  {
+    "name": "Stasis",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 935
+  },
+  {
+    "name": "Stasis",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1521
+  },
+  {
+    "name": "ピコPico*とらんすれーしょんっ！",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 543,
+    "aliases": [
+      "PICO-Pico-Translation!"
+    ]
+  },
+  {
+    "name": "ピコPico*とらんすれーしょんっ！",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 723,
+    "aliases": [
+      "PICO-Pico-Translation!"
+    ]
+  },
+  {
+    "name": "ピコPico*とらんすれーしょんっ！",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1049,
+    "aliases": [
+      "PICO-Pico-Translation!"
+    ]
+  },
+  {
+    "name": "ネコノテ・カリタガール",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 417,
+    "aliases": [
+      "Dancin' on a Cat's Paw"
+    ]
+  },
+  {
+    "name": "ネコノテ・カリタガール",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 593,
+    "aliases": [
+      "Dancin' on a Cat's Paw"
+    ]
+  },
+  {
+    "name": "ネコノテ・カリタガール",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 891,
+    "aliases": [
+      "Dancin' on a Cat's Paw"
+    ]
+  },
+  {
+    "name": "μ",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 825
+  },
+  {
+    "name": "μ",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 986
+  },
+  {
+    "name": "μ",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1256
+  },
+  {
+    "name": "san skia",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 670
+  },
+  {
+    "name": "san skia",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 783
+  },
+  {
+    "name": "san skia",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 1046
+  },
+  {
+    "name": "Altair (feat. *spiLa*)",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 670
+  },
+  {
+    "name": "Altair (feat. *spiLa*)",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 828
+  },
+  {
+    "name": "Altair (feat. *spiLa*)",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 830
+  },
+  {
+    "name": "無機質世界に彩を",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 568,
+    "aliases": [
+      "Redraw the Colorless World"
+    ]
+  },
+  {
+    "name": "無機質世界に彩を",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 680,
+    "aliases": [
+      "Redraw the Colorless World"
+    ]
+  },
+  {
+    "name": "無機質世界に彩を",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 886,
+    "aliases": [
+      "Redraw the Colorless World"
+    ]
+  },
+  {
+    "name": "Trap Crow",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 876
+  },
+  {
+    "name": "Trap Crow",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 898
+  },
+  {
+    "name": "Trap Crow",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1074
+  },
+  {
+    "name": "PUPA",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 374
+  },
+  {
+    "name": "PUPA",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 684
+  },
+  {
+    "name": "PUPA",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1099
+  },
+  {
+    "name": "Defection",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 588
+  },
+  {
+    "name": "Defection",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 800
+  },
+  {
+    "name": "Defection",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1141
+  },
+  {
+    "name": "Infinite Strife,",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 888
+  },
+  {
+    "name": "Infinite Strife,",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 1081
+  },
+  {
+    "name": "Infinite Strife,",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1511
+  },
+  {
+    "name": "Infinite Strife,",
+    "level": 10.9,
+    "difficulty": "BYD",
+    "notes": 1633
+  },
+  {
+    "name": "魔王",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 616,
+    "aliases": [
+      "World Ender"
+    ]
+  },
+  {
+    "name": "魔王",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 850,
+    "aliases": [
+      "World Ender"
+    ]
+  },
+  {
+    "name": "魔王",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1225,
+    "aliases": [
+      "World Ender"
+    ]
+  },
+  {
+    "name": "魔王",
+    "level": 11.1,
+    "difficulty": "BYD",
+    "notes": 1661,
+    "aliases": [
+      "World Ender"
+    ]
+  },
+  {
+    "name": "Pentiment",
+    "level": 7.0,
+    "difficulty": "PST",
+    "notes": 911
+  },
+  {
+    "name": "Pentiment",
+    "level": 8.7,
+    "difficulty": "PRS",
+    "notes": 1055
+  },
+  {
+    "name": "Pentiment",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1345
+  },
+  {
+    "name": "Pentiment",
+    "level": 11.5,
+    "difficulty": "BYD",
+    "notes": 1741
+  },
+  {
+    "name": "Arcana Eden",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 1097
+  },
+  {
+    "name": "Arcana Eden",
+    "level": 8.7,
+    "difficulty": "PRS",
+    "notes": 1310
+  },
+  {
+    "name": "Arcana Eden",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1792
+  },
+  {
+    "name": "Arcana Eden",
+    "level": 11.6,
+    "difficulty": "BYD",
+    "notes": 2134
+  },
+  {
+    "name": "Testify",
+    "level": 7.8,
+    "difficulty": "PST",
+    "notes": 1001
+  },
+  {
+    "name": "Testify",
+    "level": 9.4,
+    "difficulty": "PRS",
+    "notes": 1225
+  },
+  {
+    "name": "Testify",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1766
+  },
+  {
+    "name": "Testify",
+    "level": 12.0,
+    "difficulty": "BYD",
+    "notes": 2221
+  },
+  {
+    "name": "Loveless Dress",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 537
+  },
+  {
+    "name": "Loveless Dress",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 630
+  },
+  {
+    "name": "Loveless Dress",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 850
+  },
+  {
+    "name": "Last",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 680
+  },
+  {
+    "name": "Last",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 781
+  },
+  {
+    "name": "Last",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 831
+  },
+  {
+    "name": "Last | Moment",
+    "level": 9.6,
+    "difficulty": "BYD",
+    "notes": 888
+  },
+  {
+    "name": "Last | Eternity",
+    "level": 9.7,
+    "difficulty": "BYD",
+    "notes": 790
+  },
+  {
+    "name": "Callima Karma",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 1024
+  },
+  {
+    "name": "Callima Karma",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 989
+  },
+  {
+    "name": "Callima Karma",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1222
+  },
+  {
+    "name": "心",
+    "level": 1.0,
+    "difficulty": "PST",
+    "notes": 428,
+    "aliases": [
+      "Heart"
+    ]
+  },
+  {
+    "name": "心",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 575,
+    "aliases": [
+      "Heart"
+    ]
+  },
+  {
+    "name": "心",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 872,
+    "aliases": [
+      "Heart"
+    ]
+  },
+  {
+    "name": "Ai Drew",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 694
+  },
+  {
+    "name": "Ai Drew",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 732
+  },
+  {
+    "name": "Ai Drew",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1066
+  },
+  {
+    "name": "FLUFFY FLASH",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 787
+  },
+  {
+    "name": "FLUFFY FLASH",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 946
+  },
+  {
+    "name": "FLUFFY FLASH",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1329
+  },
+  {
+    "name": "Good bye, Merry-Go-Round.",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 679
+  },
+  {
+    "name": "Good bye, Merry-Go-Round.",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 696
+  },
+  {
+    "name": "Good bye, Merry-Go-Round.",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1084
+  },
+  {
+    "name": "LAMIA",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 826
+  },
+  {
+    "name": "LAMIA",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 885
+  },
+  {
+    "name": "LAMIA",
+    "level": 11.0,
+    "difficulty": "FTR",
+    "notes": 1385
+  },
+  {
+    "name": "Free Myself",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 662
+  },
+  {
+    "name": "Free Myself",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 785
+  },
+  {
+    "name": "Free Myself",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1132
+  },
+  {
+    "name": "cocoro*cosmetic",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 525
+  },
+  {
+    "name": "cocoro*cosmetic",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 687
+  },
+  {
+    "name": "cocoro*cosmetic",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 1025
+  },
+  {
+    "name": "Capella",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 884
+  },
+  {
+    "name": "Capella",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 904
+  },
+  {
+    "name": "Capella",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1159
+  },
+  {
+    "name": "だいあるのーと",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 393,
+    "aliases": [
+      "Dialnote"
+    ]
+  },
+  {
+    "name": "だいあるのーと",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 548,
+    "aliases": [
+      "Dialnote"
+    ]
+  },
+  {
+    "name": "だいあるのーと",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 684,
+    "aliases": [
+      "Dialnote"
+    ]
+  },
+  {
+    "name": "月に叢雲華に風",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 468,
+    "aliases": [
+      "Tsuki ni Murakumo, Hana ni Kaze"
+    ]
+  },
+  {
+    "name": "月に叢雲華に風",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 610,
+    "aliases": [
+      "Tsuki ni Murakumo, Hana ni Kaze"
+    ]
+  },
+  {
+    "name": "月に叢雲華に風",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 740,
+    "aliases": [
+      "Tsuki ni Murakumo, Hana ni Kaze"
+    ]
+  },
+  {
+    "name": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 575
+  },
+  {
+    "name": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 760
+  },
+  {
+    "name": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1014
+  },
+  {
+    "name": "World Fragments III(radio edit)",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 777
+  },
+  {
+    "name": "World Fragments III(radio edit)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 999
+  },
+  {
+    "name": "World Fragments III(radio edit)",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1387
+  },
+  {
+    "name": "Astra walkthrough",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 769
+  },
+  {
+    "name": "Astra walkthrough",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 886
+  },
+  {
+    "name": "Astra walkthrough",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1191
+  },
+  {
+    "name": "Chronicle",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 928
+  },
+  {
+    "name": "Chronicle",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1077
+  },
+  {
+    "name": "Chronicle",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1264
+  },
+  {
+    "name": "NULL APOPHENIA",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 990
+  },
+  {
+    "name": "NULL APOPHENIA",
+    "level": 8.8,
+    "difficulty": "PRS",
+    "notes": 1098
+  },
+  {
+    "name": "NULL APOPHENIA",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1299
+  },
+  {
+    "name": "Crimson Throne",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 727
+  },
+  {
+    "name": "Crimson Throne",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 1079
+  },
+  {
+    "name": "Crimson Throne",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1313
+  },
+  {
+    "name": "Manic Jeer",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 698
+  },
+  {
+    "name": "Manic Jeer",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 875
+  },
+  {
+    "name": "Manic Jeer",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1286
+  },
+  {
+    "name": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 719,
+    "aliases": [
+      "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)"
+    ]
+  },
+  {
+    "name": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 709,
+    "aliases": [
+      "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)"
+    ]
+  },
+  {
+    "name": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1126,
+    "aliases": [
+      "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)"
+    ]
+  },
+  {
+    "name": "Let's Rock (Arcaea mix)",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 541
+  },
+  {
+    "name": "Let's Rock (Arcaea mix)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 963
+  },
+  {
+    "name": "Let's Rock (Arcaea mix)",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1177
+  },
+  {
+    "name": "CYCLES",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 389
+  },
+  {
+    "name": "CYCLES",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 430
+  },
+  {
+    "name": "CYCLES",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 695
+  },
+  {
+    "name": "MAXRAGE",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 696
+  },
+  {
+    "name": "MAXRAGE",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 760
+  },
+  {
+    "name": "MAXRAGE",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1184
+  },
+  {
+    "name": "[X]",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 594
+  },
+  {
+    "name": "[X]",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 782
+  },
+  {
+    "name": "[X]",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1190
+  },
+  {
+    "name": "TEmPTaTiON",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 627
+  },
+  {
+    "name": "TEmPTaTiON",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 768
+  },
+  {
+    "name": "TEmPTaTiON",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1099
+  },
+  {
+    "name": "PRIMITIVE LIGHTS",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 785
+  },
+  {
+    "name": "PRIMITIVE LIGHTS",
+    "level": 8.8,
+    "difficulty": "PRS",
+    "notes": 1073
+  },
+  {
+    "name": "PRIMITIVE LIGHTS",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1524
+  },
+  {
+    "name": "コスモポップファンクラブ",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 352,
+    "aliases": [
+      "Cosmo Pop Funclub"
+    ]
+  },
+  {
+    "name": "コスモポップファンクラブ",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 591,
+    "aliases": [
+      "Cosmo Pop Funclub"
+    ]
+  },
+  {
+    "name": "コスモポップファンクラブ",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 809,
+    "aliases": [
+      "Cosmo Pop Funclub"
+    ]
+  },
+  {
+    "name": "IMPACT",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 723
+  },
+  {
+    "name": "IMPACT",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 913
+  },
+  {
+    "name": "IMPACT",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1231
+  },
+  {
+    "name": "IMPACT",
+    "level": 10.4,
+    "difficulty": "BYD",
+    "notes": 1392
+  },
+  {
+    "name": "Genesis (CHUNITHM)",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 587
+  },
+  {
+    "name": "Genesis (CHUNITHM)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 838
+  },
+  {
+    "name": "Genesis (CHUNITHM)",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 867
+  },
+  {
+    "name": "Trrricksters!!",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 561
+  },
+  {
+    "name": "Trrricksters!!",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 784
+  },
+  {
+    "name": "Trrricksters!!",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1183
+  },
+  {
+    "name": "蜘蛛の糸",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 794,
+    "aliases": [
+      "Spider's Thread"
+    ]
+  },
+  {
+    "name": "蜘蛛の糸",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 764,
+    "aliases": [
+      "Spider's Thread"
+    ]
+  },
+  {
+    "name": "蜘蛛の糸",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1203,
+    "aliases": [
+      "Spider's Thread"
+    ]
+  },
+  {
+    "name": "Lost Emotion feat. nomico",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 602
+  },
+  {
+    "name": "Lost Emotion feat. nomico",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 780
+  },
+  {
+    "name": "Lost Emotion feat. nomico",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1123
+  },
+  {
+    "name": "GIMMICK",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 421
+  },
+  {
+    "name": "GIMMICK",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 598
+  },
+  {
+    "name": "GIMMICK",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 733
+  },
+  {
+    "name": "The Survivor (Game Edit)",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 817
+  },
+  {
+    "name": "The Survivor (Game Edit)",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 750
+  },
+  {
+    "name": "The Survivor (Game Edit)",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1100
+  },
+  {
+    "name": "New York Back Raise",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 762
+  },
+  {
+    "name": "New York Back Raise",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 803
+  },
+  {
+    "name": "New York Back Raise",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1091
+  },
+  {
+    "name": "Galactic Love",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 513
+  },
+  {
+    "name": "Galactic Love",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 694
+  },
+  {
+    "name": "Galactic Love",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 813
+  },
+  {
+    "name": "無法地点",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 476,
+    "aliases": [
+      "Lawless Point"
+    ]
+  },
+  {
+    "name": "無法地点",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 630,
+    "aliases": [
+      "Lawless Point"
+    ]
+  },
+  {
+    "name": "無法地点",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 838,
+    "aliases": [
+      "Lawless Point"
+    ]
+  },
+  {
+    "name": "Lost in the Abyss",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 907
+  },
+  {
+    "name": "Lost in the Abyss",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 908
+  },
+  {
+    "name": "Lost in the Abyss",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1179
+  },
+  {
+    "name": "ヒュブリスの頂に聳えるのは",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 757,
+    "aliases": [
+      "Hybris (The one who shattered)"
+    ]
+  },
+  {
+    "name": "ヒュブリスの頂に聳えるのは",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 973,
+    "aliases": [
+      "Hybris (The one who shattered)"
+    ]
+  },
+  {
+    "name": "ヒュブリスの頂に聳えるのは",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1196,
+    "aliases": [
+      "Hybris (The one who shattered)"
+    ]
+  },
+  {
+    "name": "To the Milky Way",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 928
+  },
+  {
+    "name": "To the Milky Way",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1154
+  },
+  {
+    "name": "To the Milky Way",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1392
+  },
+  {
+    "name": "INTERNET YAMERO",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 677
+  },
+  {
+    "name": "INTERNET YAMERO",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 987
+  },
+  {
+    "name": "INTERNET YAMERO",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1222
+  },
+  {
+    "name": "Bullet Waiting for Me (James Landino remix)",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 325
+  },
+  {
+    "name": "Bullet Waiting for Me (James Landino remix)",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 390
+  },
+  {
+    "name": "Bullet Waiting for Me (James Landino remix)",
+    "level": 8.1,
+    "difficulty": "FTR",
+    "notes": 701
+  },
+  {
+    "name": "Devillic Sphere",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 490
+  },
+  {
+    "name": "Devillic Sphere",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 692
+  },
+  {
+    "name": "Devillic Sphere",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1129
+  },
+  {
+    "name": "Lucid Traveler",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 634
+  },
+  {
+    "name": "Lucid Traveler",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1006
+  },
+  {
+    "name": "Lucid Traveler",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1341
+  },
+  {
+    "name": "CHAOS",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 646
+  },
+  {
+    "name": "CHAOS",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 848
+  },
+  {
+    "name": "CHAOS",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1369
+  },
+  {
+    "name": "Used to be",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 537
+  },
+  {
+    "name": "Used to be",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 675
+  },
+  {
+    "name": "Used to be",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 799
+  },
+  {
+    "name": "Ultimate taste",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 828
+  },
+  {
+    "name": "Ultimate taste",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 1008
+  },
+  {
+    "name": "Ultimate taste",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1405
+  },
+  {
+    "name": "syūten",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 395
+  },
+  {
+    "name": "syūten",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 446
+  },
+  {
+    "name": "syūten",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 592
+  },
+  {
+    "name": "DRG",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 380
+  },
+  {
+    "name": "DRG",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 624
+  },
+  {
+    "name": "DRG",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 872
+  },
+  {
+    "name": "99 Glooms",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 637
+  },
+  {
+    "name": "99 Glooms",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 774
+  },
+  {
+    "name": "99 Glooms",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1294
+  },
+  {
+    "name": "͟͝͞Ⅱ́̕",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 690,
+    "aliases": [
+      " ͟͝͞Ⅱ́̕ "
+    ]
+  },
+  {
+    "name": "͟͝͞Ⅱ́̕",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 816,
+    "aliases": [
+      " ͟͝͞Ⅱ́̕ "
+    ]
+  },
+  {
+    "name": "͟͝͞Ⅱ́̕",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1051,
+    "aliases": [
+      " ͟͝͞Ⅱ́̕ "
+    ]
+  },
+  {
+    "name": "Magnolia",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 625
+  },
+  {
+    "name": "Magnolia",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 726
+  },
+  {
+    "name": "Magnolia",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 895
+  },
+  {
+    "name": "SACRIFICE feat. ayame",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 548
+  },
+  {
+    "name": "SACRIFICE feat. ayame",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 779
+  },
+  {
+    "name": "SACRIFICE feat. ayame",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 958
+  },
+  {
+    "name": "RGB",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 652
+  },
+  {
+    "name": "RGB",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 803
+  },
+  {
+    "name": "RGB",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1131
+  },
+  {
+    "name": "WAIT FOR DAWN",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 596
+  },
+  {
+    "name": "WAIT FOR DAWN",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 636
+  },
+  {
+    "name": "WAIT FOR DAWN",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 861
+  },
+  {
+    "name": "レイヴンズ・プライド",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 697,
+    "aliases": [
+      "Raven's Pride"
+    ]
+  },
+  {
+    "name": "レイヴンズ・プライド",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 797,
+    "aliases": [
+      "Raven's Pride"
+    ]
+  },
+  {
+    "name": "レイヴンズ・プライド",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1030,
+    "aliases": [
+      "Raven's Pride"
+    ]
+  },
+  {
+    "name": "Rise of the World",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 722
+  },
+  {
+    "name": "Rise of the World",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 843
+  },
+  {
+    "name": "Rise of the World",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1176
+  },
+  {
+    "name": "UNKNOWN LEVELS",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 591
+  },
+  {
+    "name": "UNKNOWN LEVELS",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 771
+  },
+  {
+    "name": "UNKNOWN LEVELS",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1149
+  },
+  {
+    "name": "Abstruse Dilemma",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 983
+  },
+  {
+    "name": "Abstruse Dilemma",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1127
+  },
+  {
+    "name": "Abstruse Dilemma",
+    "level": 11.3,
+    "difficulty": "FTR",
+    "notes": 1467
+  },
+  {
+    "name": "感情の摩天楼 ～Arr.Demetori",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 736,
+    "aliases": [
+      "Kanjou no Matenrou ～Arr.Demetori"
+    ]
+  },
+  {
+    "name": "感情の摩天楼 ～Arr.Demetori",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 929,
+    "aliases": [
+      "Kanjou no Matenrou ～Arr.Demetori"
+    ]
+  },
+  {
+    "name": "感情の摩天楼 ～Arr.Demetori",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1294,
+    "aliases": [
+      "Kanjou no Matenrou ～Arr.Demetori"
+    ]
+  },
+  {
+    "name": "彼方の夢へと",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 836,
+    "aliases": [
+      "To the Furthest Dream"
+    ]
+  },
+  {
+    "name": "彼方の夢へと",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 994,
+    "aliases": [
+      "To the Furthest Dream"
+    ]
+  },
+  {
+    "name": "彼方の夢へと",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1102,
+    "aliases": [
+      "To the Furthest Dream"
+    ]
+  },
+  {
+    "name": "Remind the Souls (Short Version)",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 561
+  },
+  {
+    "name": "Remind the Souls (Short Version)",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 756
+  },
+  {
+    "name": "Remind the Souls (Short Version)",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 945
+  },
+  {
+    "name": "Dynitikós",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 683
+  },
+  {
+    "name": "Dynitikós",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 894
+  },
+  {
+    "name": "Dynitikós",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 986
+  },
+  {
+    "name": "雨神楽",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 741,
+    "aliases": [
+      "Amekagura"
+    ]
+  },
+  {
+    "name": "雨神楽",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 851,
+    "aliases": [
+      "Amekagura"
+    ]
+  },
+  {
+    "name": "雨神楽",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1076,
+    "aliases": [
+      "Amekagura"
+    ]
+  },
+  {
+    "name": "B.B.K.K.B.K.K.",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 669
+  },
+  {
+    "name": "B.B.K.K.B.K.K.",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 708
+  },
+  {
+    "name": "B.B.K.K.B.K.K.",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 976
+  },
+  {
+    "name": "Primeval Texture",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 387
+  },
+  {
+    "name": "Primeval Texture",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 525
+  },
+  {
+    "name": "Primeval Texture",
+    "level": 9.0,
+    "difficulty": "FTR",
+    "notes": 810
+  },
+  {
+    "name": "Technicolour",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 644
+  },
+  {
+    "name": "Technicolour",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 812
+  },
+  {
+    "name": "Technicolour",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1140
+  },
+  {
+    "name": "Logos",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 697
+  },
+  {
+    "name": "Logos",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 798
+  },
+  {
+    "name": "Logos",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1040
+  },
+  {
+    "name": "Ego Eimi",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 801
+  },
+  {
+    "name": "Ego Eimi",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 937
+  },
+  {
+    "name": "Ego Eimi",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1223
+  },
+  {
+    "name": "Arghena",
+    "level": 7.5,
+    "difficulty": "PST",
+    "notes": 883
+  },
+  {
+    "name": "Arghena",
+    "level": 9.6,
+    "difficulty": "PRS",
+    "notes": 1082
+  },
+  {
+    "name": "Arghena",
+    "level": 11.3,
+    "difficulty": "FTR",
+    "notes": 1444
+  },
+  {
+    "name": "FANTA5Y",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 536
+  },
+  {
+    "name": "FANTA5Y",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 715
+  },
+  {
+    "name": "FANTA5Y",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 965
+  },
+  {
+    "name": "Transient Space",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 419
+  },
+  {
+    "name": "Transient Space",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 607
+  },
+  {
+    "name": "Transient Space",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 805
+  },
+  {
+    "name": "Nameless Passion",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 681
+  },
+  {
+    "name": "Nameless Passion",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 890
+  },
+  {
+    "name": "Nameless Passion",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1223
+  },
+  {
+    "name": "TeraVolt",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 675
+  },
+  {
+    "name": "TeraVolt",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 804
+  },
+  {
+    "name": "TeraVolt",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1008
+  },
+  {
+    "name": "Stratoliner",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 535
+  },
+  {
+    "name": "Stratoliner",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 702
+  },
+  {
+    "name": "Stratoliner",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 877
+  },
+  {
+    "name": "Ouvertüre",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 583
+  },
+  {
+    "name": "Ouvertüre",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 786
+  },
+  {
+    "name": "Ouvertüre",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 913
+  },
+  {
+    "name": "XTREME",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 752
+  },
+  {
+    "name": "XTREME",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 831
+  },
+  {
+    "name": "XTREME",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1258
+  },
+  {
+    "name": "eden",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 826
+  },
+  {
+    "name": "eden",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 1194
+  },
+  {
+    "name": "eden",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1365
+  },
+  {
+    "name": "Meta-Mysteria",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 844
+  },
+  {
+    "name": "Meta-Mysteria",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 905
+  },
+  {
+    "name": "Meta-Mysteria",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1309
+  },
+  {
+    "name": "アローンアンドローン",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 643,
+    "aliases": [
+      "Alone & Lorn"
+    ]
+  },
+  {
+    "name": "アローンアンドローン",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 742,
+    "aliases": [
+      "Alone & Lorn"
+    ]
+  },
+  {
+    "name": "アローンアンドローン",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 970,
+    "aliases": [
+      "Alone & Lorn"
+    ]
+  },
+  {
+    "name": "Wish Upon a Snow",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 1031
+  },
+  {
+    "name": "Wish Upon a Snow",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 1095
+  },
+  {
+    "name": "Wish Upon a Snow",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1309
+  },
+  {
+    "name": "患部で止まってすぐ溶ける　〜 狂気の優曇華院",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 584,
+    "aliases": [
+      "Kanbu de Tomatte Sugu Tokeru"
+    ]
+  },
+  {
+    "name": "患部で止まってすぐ溶ける　〜 狂気の優曇華院",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 714,
+    "aliases": [
+      "Kanbu de Tomatte Sugu Tokeru"
+    ]
+  },
+  {
+    "name": "患部で止まってすぐ溶ける　〜 狂気の優曇華院",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1108,
+    "aliases": [
+      "Kanbu de Tomatte Sugu Tokeru"
+    ]
+  },
+  {
+    "name": "felys final remix",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 626
+  },
+  {
+    "name": "felys final remix",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 771
+  },
+  {
+    "name": "felys final remix",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1130
+  },
+  {
+    "name": "On And On!! feat. Jenga",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 370
+  },
+  {
+    "name": "On And On!! feat. Jenga",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 616
+  },
+  {
+    "name": "On And On!! feat. Jenga",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 836
+  },
+  {
+    "name": "LIVHT MY WΔY",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 673
+  },
+  {
+    "name": "LIVHT MY WΔY",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 738
+  },
+  {
+    "name": "LIVHT MY WΔY",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 954
+  },
+  {
+    "name": "蛍火の雪",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 589,
+    "aliases": [
+      "Hotarubi no Yuki"
+    ]
+  },
+  {
+    "name": "蛍火の雪",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 733,
+    "aliases": [
+      "Hotarubi no Yuki"
+    ]
+  },
+  {
+    "name": "蛍火の雪",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 991,
+    "aliases": [
+      "Hotarubi no Yuki"
+    ]
+  },
+  {
+    "name": "The Formula",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 427
+  },
+  {
+    "name": "The Formula",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 587
+  },
+  {
+    "name": "The Formula",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 957
+  },
+  {
+    "name": "Luna Rossa",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 443
+  },
+  {
+    "name": "Luna Rossa",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 578
+  },
+  {
+    "name": "Luna Rossa",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 920
+  },
+  {
+    "name": "Jingle",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 530
+  },
+  {
+    "name": "Jingle",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 741
+  },
+  {
+    "name": "Jingle",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 848
+  },
+  {
+    "name": "Jingle",
+    "level": 9.5,
+    "difficulty": "ETR",
+    "notes": 1047
+  },
+  {
+    "name": "Innocence",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 734
+  },
+  {
+    "name": "Innocence",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 811
+  },
+  {
+    "name": "Innocence",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 1023
+  },
+  {
+    "name": "Innocence",
+    "level": 9.7,
+    "difficulty": "ETR",
+    "notes": 1157
+  },
+  {
+    "name": "IONOSTREAM",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 845
+  },
+  {
+    "name": "IONOSTREAM",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 890
+  },
+  {
+    "name": "IONOSTREAM",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 818
+  },
+  {
+    "name": "IONOSTREAM",
+    "level": 9.7,
+    "difficulty": "ETR",
+    "notes": 871
+  },
+  {
+    "name": "Aleph-0",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 388
+  },
+  {
+    "name": "Aleph-0",
+    "level": 8.8,
+    "difficulty": "PRS",
+    "notes": 579
+  },
+  {
+    "name": "Aleph-0",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 919
+  },
+  {
+    "name": "Masquerade Legion",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "Masquerade Legion",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 698
+  },
+  {
+    "name": "Masquerade Legion",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1064
+  },
+  {
+    "name": "狂恋ROMANCE",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 821,
+    "aliases": [
+      "KYOREN ROMANCE"
+    ]
+  },
+  {
+    "name": "狂恋ROMANCE",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 982,
+    "aliases": [
+      "KYOREN ROMANCE"
+    ]
+  },
+  {
+    "name": "狂恋ROMANCE",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1519,
+    "aliases": [
+      "KYOREN ROMANCE"
+    ]
+  },
+  {
+    "name": "Qovat",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 519
+  },
+  {
+    "name": "Qovat",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 765
+  },
+  {
+    "name": "Qovat",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1299
+  },
+  {
+    "name": "HELLOHELL",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 466
+  },
+  {
+    "name": "HELLOHELL",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 445
+  },
+  {
+    "name": "HELLOHELL",
+    "level": 7.5,
+    "difficulty": "FTR",
+    "notes": 673
+  },
+  {
+    "name": "HELLOHELL",
+    "level": 9.3,
+    "difficulty": "ETR",
+    "notes": 770
+  },
+  {
+    "name": "〇、",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 368
+  },
+  {
+    "name": "〇、",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 519
+  },
+  {
+    "name": "〇、",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 708
+  },
+  {
+    "name": "Awaken In Ruins",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 412
+  },
+  {
+    "name": "Awaken In Ruins",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 570
+  },
+  {
+    "name": "Awaken In Ruins",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 754
+  },
+  {
+    "name": "MORNINGLOOM",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 710
+  },
+  {
+    "name": "MORNINGLOOM",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 829
+  },
+  {
+    "name": "MORNINGLOOM",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 940
+  },
+  {
+    "name": "MORNINGLOOM",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 1035
+  },
+  {
+    "name": "Lethal Voltage",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 724
+  },
+  {
+    "name": "Lethal Voltage",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 922
+  },
+  {
+    "name": "Lethal Voltage",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1497
+  },
+  {
+    "name": "MIRINAE",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 646
+  },
+  {
+    "name": "MIRINAE",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 881
+  },
+  {
+    "name": "MIRINAE",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1277
+  },
+  {
+    "name": "ultradiaxon-N3",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 605
+  },
+  {
+    "name": "ultradiaxon-N3",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 896
+  },
+  {
+    "name": "ultradiaxon-N3",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1228
+  },
+  {
+    "name": "Leave All Behind",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 380
+  },
+  {
+    "name": "Leave All Behind",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 488
+  },
+  {
+    "name": "Leave All Behind",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 828
+  },
+  {
+    "name": "Distorted Fate",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 756
+  },
+  {
+    "name": "Distorted Fate",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 890
+  },
+  {
+    "name": "Distorted Fate",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1172
+  },
+  {
+    "name": "Distorted Fate",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1402
+  },
+  {
+    "name": "Floating World",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 753
+  },
+  {
+    "name": "Floating World",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 793
+  },
+  {
+    "name": "Floating World",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1047
+  },
+  {
+    "name": "Chromafill",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 757
+  },
+  {
+    "name": "Chromafill",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 890
+  },
+  {
+    "name": "Chromafill",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 1130
+  },
+  {
+    "name": "Désive",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 1007
+  },
+  {
+    "name": "Désive",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 1051
+  },
+  {
+    "name": "Désive",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1273
+  },
+  {
+    "name": "Désive",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1340
+  },
+  {
+    "name": "エピクロスの虹はもう見えない",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 595,
+    "aliases": [
+      "Hidden Rainbows of Epicurus"
+    ]
+  },
+  {
+    "name": "エピクロスの虹はもう見えない",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 644,
+    "aliases": [
+      "Hidden Rainbows of Epicurus"
+    ]
+  },
+  {
+    "name": "エピクロスの虹はもう見えない",
+    "level": 7.5,
+    "difficulty": "FTR",
+    "notes": 783,
+    "aliases": [
+      "Hidden Rainbows of Epicurus"
+    ]
+  },
+  {
+    "name": "エピクロスの虹はもう見えない",
+    "level": 8.8,
+    "difficulty": "ETR",
+    "notes": 884,
+    "aliases": [
+      "Hidden Rainbows of Epicurus"
+    ]
+  },
+  {
+    "name": "黄昏の協奏曲",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 584,
+    "aliases": [
+      "Twilight Concerto"
+    ]
+  },
+  {
+    "name": "黄昏の協奏曲",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 634,
+    "aliases": [
+      "Twilight Concerto"
+    ]
+  },
+  {
+    "name": "黄昏の協奏曲",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 803,
+    "aliases": [
+      "Twilight Concerto"
+    ]
+  },
+  {
+    "name": "黄昏の協奏曲",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 962,
+    "aliases": [
+      "Twilight Concerto"
+    ]
+  },
+  {
+    "name": "Old School Salvage",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 705
+  },
+  {
+    "name": "Old School Salvage",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 950
+  },
+  {
+    "name": "Old School Salvage",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1316
+  },
+  {
+    "name": "Beautiful Dreamer",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 611
+  },
+  {
+    "name": "Beautiful Dreamer",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 773
+  },
+  {
+    "name": "Beautiful Dreamer",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1139
+  },
+  {
+    "name": "Back to Basics",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 717
+  },
+  {
+    "name": "Back to Basics",
+    "level": 8.7,
+    "difficulty": "PRS",
+    "notes": 1115
+  },
+  {
+    "name": "Back to Basics",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1544
+  },
+  {
+    "name": "STARGATE EXTREME",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 337
+  },
+  {
+    "name": "STARGATE EXTREME",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 430
+  },
+  {
+    "name": "STARGATE EXTREME",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 724
+  },
+  {
+    "name": "STARGATE EXTREME",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 915
+  },
+  {
+    "name": "Sign of \"10.5km\"",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 490
+  },
+  {
+    "name": "Sign of \"10.5km\"",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 564
+  },
+  {
+    "name": "Sign of \"10.5km\"",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 735
+  },
+  {
+    "name": "10pt8ion",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 475
+  },
+  {
+    "name": "10pt8ion",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 704
+  },
+  {
+    "name": "10pt8ion",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 906
+  },
+  {
+    "name": "10pt8ion",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1087
+  },
+  {
+    "name": "Black MInD",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 601
+  },
+  {
+    "name": "Black MInD",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 754
+  },
+  {
+    "name": "Black MInD",
+    "level": 10.8,
+    "difficulty": "FTR",
+    "notes": 1274
+  },
+  {
+    "name": "HYPER VISION",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 639
+  },
+  {
+    "name": "HYPER VISION",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 839
+  },
+  {
+    "name": "HYPER VISION",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1040
+  },
+  {
+    "name": "ディストーション・ニンゲン",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 544,
+    "aliases": [
+      "Distortion Human"
+    ]
+  },
+  {
+    "name": "ディストーション・ニンゲン",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 841,
+    "aliases": [
+      "Distortion Human"
+    ]
+  },
+  {
+    "name": "ディストーション・ニンゲン",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1317,
+    "aliases": [
+      "Distortion Human"
+    ]
+  },
+  {
+    "name": "shrink",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 451
+  },
+  {
+    "name": "shrink",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 660
+  },
+  {
+    "name": "shrink",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 939
+  },
+  {
+    "name": "In Vain",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 562
+  },
+  {
+    "name": "In Vain",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 677
+  },
+  {
+    "name": "In Vain",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1111
+  },
+  {
+    "name": "Hypnotize",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 518
+  },
+  {
+    "name": "Hypnotize",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 761
+  },
+  {
+    "name": "Hypnotize",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 993
+  },
+  {
+    "name": "Hypnotize",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1164
+  },
+  {
+    "name": "Ashen 6oundary",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 702
+  },
+  {
+    "name": "Ashen 6oundary",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 813
+  },
+  {
+    "name": "Ashen 6oundary",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1183
+  },
+  {
+    "name": "Judgement",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 844
+  },
+  {
+    "name": "Judgement",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 1055
+  },
+  {
+    "name": "Judgement",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1432
+  },
+  {
+    "name": "ALTER EGO",
+    "level": 6.5,
+    "difficulty": "PST",
+    "notes": 865
+  },
+  {
+    "name": "ALTER EGO",
+    "level": 9.2,
+    "difficulty": "PRS",
+    "notes": 1213
+  },
+  {
+    "name": "ALTER EGO",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1466
+  },
+  {
+    "name": "ALTER EGO",
+    "level": 11.3,
+    "difficulty": "ETR",
+    "notes": 1644
+  },
+  {
+    "name": "epitaxy",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 826
+  },
+  {
+    "name": "epitaxy",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 939
+  },
+  {
+    "name": "epitaxy",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 1177
+  },
+  {
+    "name": "epitaxy",
+    "level": 9.6,
+    "difficulty": "ETR",
+    "notes": 1410
+  },
+  {
+    "name": "Waltz for Lorelei",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 664
+  },
+  {
+    "name": "Waltz for Lorelei",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 814
+  },
+  {
+    "name": "Waltz for Lorelei",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 916
+  },
+  {
+    "name": "Waltz for Lorelei",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 999
+  },
+  {
+    "name": "Dual Doom Deathmatch",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 838
+  },
+  {
+    "name": "Dual Doom Deathmatch",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 830
+  },
+  {
+    "name": "Dual Doom Deathmatch",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 1094
+  },
+  {
+    "name": "Dual Doom Deathmatch",
+    "level": 10.3,
+    "difficulty": "ETR",
+    "notes": 1292
+  },
+  {
+    "name": "Inverted World",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 525
+  },
+  {
+    "name": "Inverted World",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 646
+  },
+  {
+    "name": "Inverted World",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 940
+  },
+  {
+    "name": "Inverted World",
+    "level": 10.7,
+    "difficulty": "ETR",
+    "notes": 1065
+  },
+  {
+    "name": "MVURBD",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 999
+  },
+  {
+    "name": "MVURBD",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 1031
+  },
+  {
+    "name": "MVURBD",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1497
+  },
+  {
+    "name": "Vulcānus",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 968
+  },
+  {
+    "name": "Vulcānus",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1234
+  },
+  {
+    "name": "Vulcānus",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1542
+  },
+  {
+    "name": "Rain of Conflict in a Radiant Abyss",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 831
+  },
+  {
+    "name": "Rain of Conflict in a Radiant Abyss",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 934
+  },
+  {
+    "name": "Rain of Conflict in a Radiant Abyss",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1164
+  },
+  {
+    "name": "Rain of Conflict in a Radiant Abyss",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1247
+  },
+  {
+    "name": "Saint or Sinner",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 447
+  },
+  {
+    "name": "Saint or Sinner",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 563
+  },
+  {
+    "name": "Saint or Sinner",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 906
+  },
+  {
+    "name": "Saint or Sinner",
+    "level": 10.4,
+    "difficulty": "BYD",
+    "notes": 1124
+  },
+  {
+    "name": "Hailstone",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 534
+  },
+  {
+    "name": "Hailstone",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 651
+  },
+  {
+    "name": "Hailstone",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1002
+  },
+  {
+    "name": "フレテミタイ",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 447,
+    "aliases": [
+      "FURETE-MITAI"
+    ]
+  },
+  {
+    "name": "フレテミタイ",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 523,
+    "aliases": [
+      "FURETE-MITAI"
+    ]
+  },
+  {
+    "name": "フレテミタイ",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 763,
+    "aliases": [
+      "FURETE-MITAI"
+    ]
+  },
+  {
+    "name": "フレテミタイ",
+    "level": 9.4,
+    "difficulty": "ETR",
+    "notes": 841,
+    "aliases": [
+      "FURETE-MITAI"
+    ]
+  },
+  {
+    "name": "幻想のサテライト",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 721,
+    "aliases": [
+      "Gensou no Satellite"
+    ]
+  },
+  {
+    "name": "幻想のサテライト",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 783,
+    "aliases": [
+      "Gensou no Satellite"
+    ]
+  },
+  {
+    "name": "幻想のサテライト",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 992,
+    "aliases": [
+      "Gensou no Satellite"
+    ]
+  },
+  {
+    "name": "幻想のサテライト",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1139,
+    "aliases": [
+      "Gensou no Satellite"
+    ]
+  },
+  {
+    "name": "プレヤ",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 419,
+    "aliases": [
+      "Prayer"
+    ]
+  },
+  {
+    "name": "プレヤ",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 479,
+    "aliases": [
+      "Prayer"
+    ]
+  },
+  {
+    "name": "プレヤ",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 591,
+    "aliases": [
+      "Prayer"
+    ]
+  },
+  {
+    "name": "プレヤ",
+    "level": 9.1,
+    "difficulty": "ETR",
+    "notes": 714,
+    "aliases": [
+      "Prayer"
+    ]
+  },
+  {
+    "name": "Crimson Quartz",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 569
+  },
+  {
+    "name": "Crimson Quartz",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 615
+  },
+  {
+    "name": "Crimson Quartz",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 861
+  },
+  {
+    "name": "Crimson Quartz",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 1200
+  },
+  {
+    "name": "Third Sun",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 532
+  },
+  {
+    "name": "Third Sun",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 702
+  },
+  {
+    "name": "Third Sun",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 811
+  },
+  {
+    "name": "Third Sun",
+    "level": 10.0,
+    "difficulty": "ETR",
+    "notes": 1043
+  },
+  {
+    "name": "Spirit of the Dauntless",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 693
+  },
+  {
+    "name": "Spirit of the Dauntless",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 957
+  },
+  {
+    "name": "Spirit of the Dauntless",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1207
+  },
+  {
+    "name": "Dies irae",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 632
+  },
+  {
+    "name": "Dies irae",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 802
+  },
+  {
+    "name": "Dies irae",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1052
+  },
+  {
+    "name": "Dies irae",
+    "level": 10.6,
+    "difficulty": "ETR",
+    "notes": 1263
+  },
+  {
+    "name": "astral.exe",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 654
+  },
+  {
+    "name": "astral.exe",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 734
+  },
+  {
+    "name": "astral.exe",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1059
+  },
+  {
+    "name": "LiftOff",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 459
+  },
+  {
+    "name": "LiftOff",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 500
+  },
+  {
+    "name": "LiftOff",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 660
+  },
+  {
+    "name": "LiftOff",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 988
+  },
+  {
+    "name": "SUPER AMBULANCE",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 740
+  },
+  {
+    "name": "SUPER AMBULANCE",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 971
+  },
+  {
+    "name": "SUPER AMBULANCE",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1371
+  },
+  {
+    "name": "Don't Fight The Music",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 757
+  },
+  {
+    "name": "Don't Fight The Music",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 962
+  },
+  {
+    "name": "Don't Fight The Music",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 1043
+  },
+  {
+    "name": "Don't Fight The Music",
+    "level": 10.7,
+    "difficulty": "ETR",
+    "notes": 1385
+  },
+  {
+    "name": "And Revive The Melody",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 962
+  },
+  {
+    "name": "And Revive The Melody",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1269
+  },
+  {
+    "name": "And Revive The Melody",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1710
+  },
+  {
+    "name": "Swan Song",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 563
+  },
+  {
+    "name": "Swan Song",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 719
+  },
+  {
+    "name": "Swan Song",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1225
+  },
+  {
+    "name": "Renegade",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 655
+  },
+  {
+    "name": "Renegade",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 751
+  },
+  {
+    "name": "Renegade",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 994
+  },
+  {
+    "name": "Renegade",
+    "level": 10.2,
+    "difficulty": "BYD",
+    "notes": 1165
+  },
+  {
+    "name": "Rays of Remnant",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 710
+  },
+  {
+    "name": "Rays of Remnant",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 766
+  },
+  {
+    "name": "Rays of Remnant",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 982
+  },
+  {
+    "name": "Rays of Remnant",
+    "level": 10.4,
+    "difficulty": "BYD",
+    "notes": 1118
+  },
+  {
+    "name": "Breach of Faith",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 986
+  },
+  {
+    "name": "Breach of Faith",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 1171
+  },
+  {
+    "name": "Breach of Faith",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1373
+  },
+  {
+    "name": "Breach of Faith",
+    "level": 10.9,
+    "difficulty": "BYD",
+    "notes": 1448
+  },
+  {
+    "name": "Lament Rain",
+    "level": 6.5,
+    "difficulty": "PST",
+    "notes": 1025
+  },
+  {
+    "name": "Lament Rain",
+    "level": 8.8,
+    "difficulty": "PRS",
+    "notes": 1186
+  },
+  {
+    "name": "Lament Rain",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1380
+  },
+  {
+    "name": "Lament Rain",
+    "level": 11.4,
+    "difficulty": "BYD",
+    "notes": 1637
+  },
+  {
+    "name": "Designant.",
+    "level": 7.5,
+    "difficulty": "PST",
+    "notes": 1055
+  },
+  {
+    "name": "Designant.",
+    "level": 9.6,
+    "difficulty": "PRS",
+    "notes": 1426
+  },
+  {
+    "name": "Designant.",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1768
+  },
+  {
+    "name": "Designant.",
+    "level": 11.9,
+    "difficulty": "BYD",
+    "notes": 2184
+  },
+  {
+    "name": "Astral Quantization",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 782
+  },
+  {
+    "name": "Astral Quantization",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 943
+  },
+  {
+    "name": "Astral Quantization",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1388
+  },
+  {
+    "name": "Ignition",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 578
+  },
+  {
+    "name": "Ignition",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 621
+  },
+  {
+    "name": "Ignition",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 994
+  },
+  {
+    "name": "BlazinG AIR",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 433
+  },
+  {
+    "name": "BlazinG AIR",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 571
+  },
+  {
+    "name": "BlazinG AIR",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 757
+  },
+  {
+    "name": "BlazinG AIR",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1129
+  },
+  {
+    "name": "8-EM",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 557
+  },
+  {
+    "name": "8-EM",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 847
+  },
+  {
+    "name": "8-EM",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1081
+  },
+  {
+    "name": "8-EM",
+    "level": 10.3,
+    "difficulty": "ETR",
+    "notes": 1201
+  },
+  {
+    "name": "DA'AT -The First Seeker of Souls-",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 921
+  },
+  {
+    "name": "DA'AT -The First Seeker of Souls-",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 1091
+  },
+  {
+    "name": "DA'AT -The First Seeker of Souls-",
+    "level": 10.9,
+    "difficulty": "FTR",
+    "notes": 1500
+  },
+  {
+    "name": "BREaK! BREaK! BREaK!",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 472
+  },
+  {
+    "name": "BREaK! BREaK! BREaK!",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 614
+  },
+  {
+    "name": "BREaK! BREaK! BREaK!",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 894
+  },
+  {
+    "name": "BREaK! BREaK! BREaK!",
+    "level": 10.3,
+    "difficulty": "ETR",
+    "notes": 1251
+  },
+  {
+    "name": "Straight into the lights",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 583
+  },
+  {
+    "name": "Straight into the lights",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 714
+  },
+  {
+    "name": "Straight into the lights",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1226
+  },
+  {
+    "name": "Straight into the lights",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1280
+  },
+  {
+    "name": "ViRTUS",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 877
+  },
+  {
+    "name": "ViRTUS",
+    "level": 8.6,
+    "difficulty": "PRS",
+    "notes": 1000
+  },
+  {
+    "name": "ViRTUS",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1222
+  },
+  {
+    "name": "ViRTUS",
+    "level": 10.9,
+    "difficulty": "ETR",
+    "notes": 1341
+  },
+  {
+    "name": "ヨミビトシラズ",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 641,
+    "aliases": [
+      "yomibito_shirazu"
+    ]
+  },
+  {
+    "name": "ヨミビトシラズ",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 764,
+    "aliases": [
+      "yomibito_shirazu"
+    ]
+  },
+  {
+    "name": "ヨミビトシラズ",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1075,
+    "aliases": [
+      "yomibito_shirazu"
+    ]
+  },
+  {
+    "name": "Aether Crest: Astral",
+    "level": 6.0,
+    "difficulty": "PST",
+    "notes": 921
+  },
+  {
+    "name": "Aether Crest: Astral",
+    "level": 8.9,
+    "difficulty": "PRS",
+    "notes": 1147
+  },
+  {
+    "name": "Aether Crest: Astral",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1508
+  },
+  {
+    "name": "Aether Crest: Astral",
+    "level": 11.5,
+    "difficulty": "ETR",
+    "notes": 1941
+  },
+  {
+    "name": "心の痛み",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 425,
+    "aliases": [
+      "Heartache"
+    ]
+  },
+  {
+    "name": "心の痛み",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 687,
+    "aliases": [
+      "Heartache"
+    ]
+  },
+  {
+    "name": "心の痛み",
+    "level": 7.5,
+    "difficulty": "FTR",
+    "notes": 803,
+    "aliases": [
+      "Heartache"
+    ]
+  },
+  {
+    "name": "心の痛み",
+    "level": 8.7,
+    "difficulty": "ETR",
+    "notes": 851,
+    "aliases": [
+      "Heartache"
+    ]
+  },
+  {
+    "name": "華麗なる死闘",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 460,
+    "aliases": [
+      "Death By Glamour"
+    ]
+  },
+  {
+    "name": "華麗なる死闘",
+    "level": 5.0,
+    "difficulty": "PRS",
+    "notes": 470,
+    "aliases": [
+      "Death By Glamour"
+    ]
+  },
+  {
+    "name": "華麗なる死闘",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 610,
+    "aliases": [
+      "Death By Glamour"
+    ]
+  },
+  {
+    "name": "華麗なる死闘",
+    "level": 9.4,
+    "difficulty": "ETR",
+    "notes": 912,
+    "aliases": [
+      "Death By Glamour"
+    ]
+  },
+  {
+    "name": "最高の悪夢",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 760,
+    "aliases": [
+      "Your Best Nightmare"
+    ]
+  },
+  {
+    "name": "最高の悪夢",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 925,
+    "aliases": [
+      "Your Best Nightmare"
+    ]
+  },
+  {
+    "name": "最高の悪夢",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 1086,
+    "aliases": [
+      "Your Best Nightmare"
+    ]
+  },
+  {
+    "name": "最高の悪夢",
+    "level": 10.2,
+    "difficulty": "BYD",
+    "notes": 1451,
+    "aliases": [
+      "Your Best Nightmare"
+    ]
+  },
+  {
+    "name": "これでホントにサヨナラ",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 497,
+    "aliases": [
+      "Last Goodbye"
+    ]
+  },
+  {
+    "name": "これでホントにサヨナラ",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 605,
+    "aliases": [
+      "Last Goodbye"
+    ]
+  },
+  {
+    "name": "これでホントにサヨナラ",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 727,
+    "aliases": [
+      "Last Goodbye"
+    ]
+  },
+  {
+    "name": "これでホントにサヨナラ",
+    "level": 9.7,
+    "difficulty": "ETR",
+    "notes": 911,
+    "aliases": [
+      "Last Goodbye"
+    ]
+  },
+  {
+    "name": "MEGALOVANIA",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 906
+  },
+  {
+    "name": "MEGALOVANIA",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 969
+  },
+  {
+    "name": "MEGALOVANIA",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1064
+  },
+  {
+    "name": "MEGALOVANIA",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1202
+  },
+  {
+    "name": "MEGALOVANIA (Camellia Remix)",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 946
+  },
+  {
+    "name": "MEGALOVANIA (Camellia Remix)",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 1161
+  },
+  {
+    "name": "MEGALOVANIA (Camellia Remix)",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1345
+  },
+  {
+    "name": "MEGALOVANIA (Camellia Remix)",
+    "level": 10.9,
+    "difficulty": "ETR",
+    "notes": 1468
+  },
+  {
+    "name": "プラシイボ♥バトラー",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 597,
+    "aliases": [
+      "Placebo♥Battler"
+    ]
+  },
+  {
+    "name": "プラシイボ♥バトラー",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 827,
+    "aliases": [
+      "Placebo♥Battler"
+    ]
+  },
+  {
+    "name": "プラシイボ♥バトラー",
+    "level": 10.4,
+    "difficulty": "FTR",
+    "notes": 1194,
+    "aliases": [
+      "Placebo♥Battler"
+    ]
+  },
+  {
+    "name": "Black Mirror on the Wall",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 471
+  },
+  {
+    "name": "Black Mirror on the Wall",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 613
+  },
+  {
+    "name": "Black Mirror on the Wall",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 735
+  },
+  {
+    "name": "Black Mirror on the Wall",
+    "level": 9.7,
+    "difficulty": "ETR",
+    "notes": 894
+  },
+  {
+    "name": "進捗どうですか?",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 595,
+    "aliases": [
+      "Shinchoku Doudesuka?"
+    ]
+  },
+  {
+    "name": "進捗どうですか?",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 743,
+    "aliases": [
+      "Shinchoku Doudesuka?"
+    ]
+  },
+  {
+    "name": "進捗どうですか?",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 957,
+    "aliases": [
+      "Shinchoku Doudesuka?"
+    ]
+  },
+  {
+    "name": "進捗どうですか?",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1162,
+    "aliases": [
+      "Shinchoku Doudesuka?"
+    ]
+  },
+  {
+    "name": "TRPNO",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 451
+  },
+  {
+    "name": "TRPNO",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 562
+  },
+  {
+    "name": "TRPNO",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 897
+  },
+  {
+    "name": "τ (tau)",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 553
+  },
+  {
+    "name": "τ (tau)",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 798
+  },
+  {
+    "name": "τ (tau)",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1057
+  },
+  {
+    "name": "Dull Blade",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 579
+  },
+  {
+    "name": "Dull Blade",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 780
+  },
+  {
+    "name": "Dull Blade",
+    "level": 10.5,
+    "difficulty": "FTR",
+    "notes": 1199
+  },
+  {
+    "name": "Won't Back Down",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 437
+  },
+  {
+    "name": "Won't Back Down",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 551
+  },
+  {
+    "name": "Won't Back Down",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1015
+  },
+  {
+    "name": "Don't Die",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 460
+  },
+  {
+    "name": "Don't Die",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 565
+  },
+  {
+    "name": "Don't Die",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 793
+  },
+  {
+    "name": "Don't Die",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1004
+  },
+  {
+    "name": "Ladymade Star",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 394
+  },
+  {
+    "name": "Ladymade Star",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 491
+  },
+  {
+    "name": "Ladymade Star",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 636
+  },
+  {
+    "name": "Ladymade Star",
+    "level": 9.2,
+    "difficulty": "ETR",
+    "notes": 753
+  },
+  {
+    "name": "End of The Moonlight",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 340
+  },
+  {
+    "name": "End of The Moonlight",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 434
+  },
+  {
+    "name": "End of The Moonlight",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 738
+  },
+  {
+    "name": "U.A.D",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 366
+  },
+  {
+    "name": "U.A.D",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 526
+  },
+  {
+    "name": "U.A.D",
+    "level": 8.7,
+    "difficulty": "FTR",
+    "notes": 643
+  },
+  {
+    "name": "U.A.D",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 836
+  },
+  {
+    "name": "OBLIVION",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 469
+  },
+  {
+    "name": "OBLIVION",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 527
+  },
+  {
+    "name": "OBLIVION",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 759
+  },
+  {
+    "name": "OBLIVION",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 871
+  },
+  {
+    "name": "Nightmare",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 680
+  },
+  {
+    "name": "Nightmare",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 757
+  },
+  {
+    "name": "Nightmare",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 901
+  },
+  {
+    "name": "Nightmare",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1116
+  },
+  {
+    "name": "Tic! Tac! Toe!",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 353
+  },
+  {
+    "name": "Tic! Tac! Toe!",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 505
+  },
+  {
+    "name": "Tic! Tac! Toe!",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 760
+  },
+  {
+    "name": "Tic! Tac! Toe!",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 907
+  },
+  {
+    "name": "SATISFACTION",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 580
+  },
+  {
+    "name": "SATISFACTION",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 738
+  },
+  {
+    "name": "SATISFACTION",
+    "level": 8.5,
+    "difficulty": "FTR",
+    "notes": 890
+  },
+  {
+    "name": "SATISFACTION",
+    "level": 9.5,
+    "difficulty": "ETR",
+    "notes": 1047
+  },
+  {
+    "name": "Someday",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 367
+  },
+  {
+    "name": "Someday",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 477
+  },
+  {
+    "name": "Someday",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 673
+  },
+  {
+    "name": "Miles",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 385
+  },
+  {
+    "name": "Miles",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 548
+  },
+  {
+    "name": "Miles",
+    "level": 8.2,
+    "difficulty": "FTR",
+    "notes": 687
+  },
+  {
+    "name": "Miles",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 829
+  },
+  {
+    "name": "I want You",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 326
+  },
+  {
+    "name": "I want You",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 395
+  },
+  {
+    "name": "I want You",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 528
+  },
+  {
+    "name": "I want You",
+    "level": 9.4,
+    "difficulty": "ETR",
+    "notes": 660
+  },
+  {
+    "name": "Syriana",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 490
+  },
+  {
+    "name": "Syriana",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 516
+  },
+  {
+    "name": "Syriana",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 886
+  },
+  {
+    "name": "Liar",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 461
+  },
+  {
+    "name": "Liar",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 614
+  },
+  {
+    "name": "Liar",
+    "level": 10.0,
+    "difficulty": "FTR",
+    "notes": 919
+  },
+  {
+    "name": "BlythE",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 610
+  },
+  {
+    "name": "BlythE",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 729
+  },
+  {
+    "name": "BlythE",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1000
+  },
+  {
+    "name": "BlythE",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1207
+  },
+  {
+    "name": "We're All Gonna Die",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 733
+  },
+  {
+    "name": "We're All Gonna Die",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 864
+  },
+  {
+    "name": "We're All Gonna Die",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1147
+  },
+  {
+    "name": "We're All Gonna Die",
+    "level": 10.9,
+    "difficulty": "ETR",
+    "notes": 1335
+  },
+  {
+    "name": "Dematerialized",
+    "level": 1.5,
+    "difficulty": "PST",
+    "notes": 469
+  },
+  {
+    "name": "Dematerialized",
+    "level": 4.5,
+    "difficulty": "PRS",
+    "notes": 659
+  },
+  {
+    "name": "Dematerialized",
+    "level": 7.5,
+    "difficulty": "FTR",
+    "notes": 722
+  },
+  {
+    "name": "Dematerialized",
+    "level": 8.3,
+    "difficulty": "ETR",
+    "notes": 790
+  },
+  {
+    "name": "See the Lights!",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 445
+  },
+  {
+    "name": "See the Lights!",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 582
+  },
+  {
+    "name": "See the Lights!",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 692
+  },
+  {
+    "name": "See the Lights!",
+    "level": 9.6,
+    "difficulty": "ETR",
+    "notes": 844
+  },
+  {
+    "name": "朱月ノ姫",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 609,
+    "aliases": [
+      "Scarlet Lunar Empress"
+    ]
+  },
+  {
+    "name": "朱月ノ姫",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 698,
+    "aliases": [
+      "Scarlet Lunar Empress"
+    ]
+  },
+  {
+    "name": "朱月ノ姫",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1037,
+    "aliases": [
+      "Scarlet Lunar Empress"
+    ]
+  },
+  {
+    "name": "Dual Dependency",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 607
+  },
+  {
+    "name": "Dual Dependency",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 784
+  },
+  {
+    "name": "Dual Dependency",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 987
+  },
+  {
+    "name": "Dual Dependency",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1162
+  },
+  {
+    "name": "Lilly",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 865
+  },
+  {
+    "name": "Lilly",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 1052
+  },
+  {
+    "name": "Lilly",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1312
+  },
+  {
+    "name": "Lilly",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1353
+  },
+  {
+    "name": "多次元宇宙融合論",
+    "level": 6.5,
+    "difficulty": "PST",
+    "notes": 1011,
+    "aliases": [
+      "Extradimensional Cosmic Phenomenon"
+    ]
+  },
+  {
+    "name": "多次元宇宙融合論",
+    "level": 8.8,
+    "difficulty": "PRS",
+    "notes": 1193,
+    "aliases": [
+      "Extradimensional Cosmic Phenomenon"
+    ]
+  },
+  {
+    "name": "多次元宇宙融合論",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1422,
+    "aliases": [
+      "Extradimensional Cosmic Phenomenon"
+    ]
+  },
+  {
+    "name": "多次元宇宙融合論",
+    "level": 11.3,
+    "difficulty": "ETR",
+    "notes": 1726,
+    "aliases": [
+      "Extradimensional Cosmic Phenomenon"
+    ]
+  },
+  {
+    "name": "disintegration",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 387
+  },
+  {
+    "name": "disintegration",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 466
+  },
+  {
+    "name": "disintegration",
+    "level": 8.3,
+    "difficulty": "FTR",
+    "notes": 605
+  },
+  {
+    "name": "disintegration",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 821
+  },
+  {
+    "name": "Factorder",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "Factorder",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 663
+  },
+  {
+    "name": "Factorder",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 849
+  },
+  {
+    "name": "Factorder",
+    "level": 9.6,
+    "difficulty": "ETR",
+    "notes": 1015
+  },
+  {
+    "name": "incomplete the one",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 691
+  },
+  {
+    "name": "incomplete the one",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 848
+  },
+  {
+    "name": "incomplete the one",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 912
+  },
+  {
+    "name": "incomplete the one",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1008
+  },
+  {
+    "name": "CHAOSBLAST",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 786
+  },
+  {
+    "name": "CHAOSBLAST",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 1000
+  },
+  {
+    "name": "CHAOSBLAST",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1290
+  },
+  {
+    "name": "CHAOSBLAST",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1539
+  },
+  {
+    "name": "Welcome, Queen of Fiction.",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 610
+  },
+  {
+    "name": "Welcome, Queen of Fiction.",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 832
+  },
+  {
+    "name": "Welcome, Queen of Fiction.",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1172
+  },
+  {
+    "name": "Welcome, Queen of Fiction.",
+    "level": 10.9,
+    "difficulty": "ETR",
+    "notes": 1442
+  },
+  {
+    "name": "AlterGate",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 774
+  },
+  {
+    "name": "AlterGate",
+    "level": 8.7,
+    "difficulty": "PRS",
+    "notes": 993
+  },
+  {
+    "name": "AlterGate",
+    "level": 10.7,
+    "difficulty": "FTR",
+    "notes": 1324
+  },
+  {
+    "name": "Acheron",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 538
+  },
+  {
+    "name": "Acheron",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 688
+  },
+  {
+    "name": "Acheron",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1024
+  },
+  {
+    "name": "Eternity Break",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 634
+  },
+  {
+    "name": "Eternity Break",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 882
+  },
+  {
+    "name": "Eternity Break",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1051
+  },
+  {
+    "name": "Eternity Break",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1155
+  },
+  {
+    "name": "ROST PAGE GENE",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 475
+  },
+  {
+    "name": "ROST PAGE GENE",
+    "level": 8.2,
+    "difficulty": "PRS",
+    "notes": 697
+  },
+  {
+    "name": "ROST PAGE GENE",
+    "level": 10.3,
+    "difficulty": "FTR",
+    "notes": 1028
+  },
+  {
+    "name": "Viola Illyria",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 539
+  },
+  {
+    "name": "Viola Illyria",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 683
+  },
+  {
+    "name": "Viola Illyria",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 927
+  },
+  {
+    "name": "Vainspire",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 771
+  },
+  {
+    "name": "Vainspire",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 787
+  },
+  {
+    "name": "Vainspire",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 947
+  },
+  {
+    "name": "Vainspire",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1133
+  },
+  {
+    "name": "No Way Back",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 564
+  },
+  {
+    "name": "No Way Back",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 639
+  },
+  {
+    "name": "No Way Back",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 837
+  },
+  {
+    "name": "No Way Back",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1008
+  },
+  {
+    "name": "ANDORXOR",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 559
+  },
+  {
+    "name": "ANDORXOR",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 758
+  },
+  {
+    "name": "ANDORXOR",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1055
+  },
+  {
+    "name": "ANDORXOR",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1404
+  },
+  {
+    "name": "Undying Macula",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 883
+  },
+  {
+    "name": "Undying Macula",
+    "level": 8.7,
+    "difficulty": "PRS",
+    "notes": 904
+  },
+  {
+    "name": "Undying Macula",
+    "level": 10.1,
+    "difficulty": "FTR",
+    "notes": 1250
+  },
+  {
+    "name": "Undying Macula",
+    "level": 11.0,
+    "difficulty": "ETR",
+    "notes": 1461
+  },
+  {
+    "name": "始マリノ詩",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 394,
+    "aliases": [
+      "Wake in Hour"
+    ]
+  },
+  {
+    "name": "始マリノ詩",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 492,
+    "aliases": [
+      "Wake in Hour"
+    ]
+  },
+  {
+    "name": "始マリノ詩",
+    "level": 7.5,
+    "difficulty": "FTR",
+    "notes": 608,
+    "aliases": [
+      "Wake in Hour"
+    ]
+  },
+  {
+    "name": "始マリノ詩",
+    "level": 8.7,
+    "difficulty": "ETR",
+    "notes": 726,
+    "aliases": [
+      "Wake in Hour"
+    ]
+  },
+  {
+    "name": "mod",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 572
+  },
+  {
+    "name": "mod",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 676
+  },
+  {
+    "name": "mod",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 853
+  },
+  {
+    "name": "Particle",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 519
+  },
+  {
+    "name": "Particle",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 613
+  },
+  {
+    "name": "Particle",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 890
+  },
+  {
+    "name": "Particle",
+    "level": 9.7,
+    "difficulty": "ETR",
+    "notes": 881
+  },
+  {
+    "name": "Paradox Palette",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 476
+  },
+  {
+    "name": "Paradox Palette",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 653
+  },
+  {
+    "name": "Paradox Palette",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 814
+  },
+  {
+    "name": "Paradox Palette",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1043
+  },
+  {
+    "name": "Xxium and Purple haze",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 768
+  },
+  {
+    "name": "Xxium and Purple haze",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 806
+  },
+  {
+    "name": "Xxium and Purple haze",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1182
+  },
+  {
+    "name": "Xxium and Purple haze",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1096
+  },
+  {
+    "name": "Angel's Boundary",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 841
+  },
+  {
+    "name": "Angel's Boundary",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1013
+  },
+  {
+    "name": "Angel's Boundary",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1246
+  },
+  {
+    "name": "Xterfusion",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 640
+  },
+  {
+    "name": "Xterfusion",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 924
+  },
+  {
+    "name": "Xterfusion",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1138
+  },
+  {
+    "name": "Xterfusion",
+    "level": 10.7,
+    "difficulty": "ETR",
+    "notes": 1441
+  },
+  {
+    "name": "INFINITE DIMENSION",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 566
+  },
+  {
+    "name": "INFINITE DIMENSION",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 708
+  },
+  {
+    "name": "INFINITE DIMENSION",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 947
+  },
+  {
+    "name": "INFINITE DIMENSION",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1111
+  },
+  {
+    "name": "INCARNATOR₀₀",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 1178
+  },
+  {
+    "name": "INCARNATOR₀₀",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 1276
+  },
+  {
+    "name": "INCARNATOR₀₀",
+    "level": 8.9,
+    "difficulty": "FTR",
+    "notes": 1565
+  },
+  {
+    "name": "INCARNATOR₀₀",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1355
+  },
+  {
+    "name": "zephyrlasting",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 563
+  },
+  {
+    "name": "zephyrlasting",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 832
+  },
+  {
+    "name": "zephyrlasting",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1027
+  },
+  {
+    "name": "zephyrlasting",
+    "level": 10.3,
+    "difficulty": "ETR",
+    "notes": 1166
+  },
+  {
+    "name": "MARENYX",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 886
+  },
+  {
+    "name": "MARENYX",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 1143
+  },
+  {
+    "name": "MARENYX",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 1307
+  },
+  {
+    "name": "MARENYX",
+    "level": 10.8,
+    "difficulty": "ETR",
+    "notes": 1500
+  },
+  {
+    "name": "Code: Oblivion",
+    "level": 5.5,
+    "difficulty": "PST",
+    "notes": 773
+  },
+  {
+    "name": "Code: Oblivion",
+    "level": 8.3,
+    "difficulty": "PRS",
+    "notes": 1015
+  },
+  {
+    "name": "Code: Oblivion",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1281
+  },
+  {
+    "name": "Code: Oblivion",
+    "level": 10.9,
+    "difficulty": "ETR",
+    "notes": 1503
+  },
+  {
+    "name": "ΛZΛLEΛ",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 847
+  },
+  {
+    "name": "ΛZΛLEΛ",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 973
+  },
+  {
+    "name": "ΛZΛLEΛ",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 1144
+  },
+  {
+    "name": "ΛZΛLEΛ",
+    "level": 10.0,
+    "difficulty": "ETR",
+    "notes": 1075
+  },
+  {
+    "name": "taboo tears you up 2017",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 449
+  },
+  {
+    "name": "taboo tears you up 2017",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 637
+  },
+  {
+    "name": "taboo tears you up 2017",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 845
+  },
+  {
+    "name": "taboo tears you up 2017",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 1125
+  },
+  {
+    "name": "Grandspell",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 704
+  },
+  {
+    "name": "Grandspell",
+    "level": 8.4,
+    "difficulty": "PRS",
+    "notes": 977
+  },
+  {
+    "name": "Grandspell",
+    "level": 10.2,
+    "difficulty": "FTR",
+    "notes": 1289
+  },
+  {
+    "name": "undefined",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 371
+  },
+  {
+    "name": "undefined",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 532
+  },
+  {
+    "name": "undefined",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 896
+  },
+  {
+    "name": "~_+",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 869
+  },
+  {
+    "name": "~_+",
+    "level": 8.0,
+    "difficulty": "PRS",
+    "notes": 994
+  },
+  {
+    "name": "~_+",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1201
+  },
+  {
+    "name": "Paranoid Arc",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 762
+  },
+  {
+    "name": "Paranoid Arc",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 849
+  },
+  {
+    "name": "Paranoid Arc",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1204
+  },
+  {
+    "name": "Paranoid Arc",
+    "level": 10.5,
+    "difficulty": "ETR",
+    "notes": 1412
+  },
+  {
+    "name": "羽化する亜球体",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 781,
+    "aliases": [
+      "Subsphere in Eclosion"
+    ]
+  },
+  {
+    "name": "羽化する亜球体",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 997,
+    "aliases": [
+      "Subsphere in Eclosion"
+    ]
+  },
+  {
+    "name": "羽化する亜球体",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 1177,
+    "aliases": [
+      "Subsphere in Eclosion"
+    ]
+  },
+  {
+    "name": "羽化する亜球体",
+    "level": 10.6,
+    "difficulty": "ETR",
+    "notes": 1327,
+    "aliases": [
+      "Subsphere in Eclosion"
+    ]
+  },
+  {
+    "name": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 722,
+    "aliases": [
+      "The 'Raft' taught me: your heart will always find a way."
+    ]
+  },
+  {
+    "name": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 803,
+    "aliases": [
+      "The 'Raft' taught me: your heart will always find a way."
+    ]
+  },
+  {
+    "name": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 999,
+    "aliases": [
+      "The 'Raft' taught me: your heart will always find a way."
+    ]
+  },
+  {
+    "name": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1193,
+    "aliases": [
+      "The 'Raft' taught me: your heart will always find a way."
+    ]
+  },
+  {
+    "name": "おまじない",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 288,
+    "aliases": [
+      "OMAJINAI"
+    ]
+  },
+  {
+    "name": "おまじない",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 572,
+    "aliases": [
+      "OMAJINAI"
+    ]
+  },
+  {
+    "name": "おまじない",
+    "level": 9.4,
+    "difficulty": "FTR",
+    "notes": 886,
+    "aliases": [
+      "OMAJINAI"
+    ]
+  },
+  {
+    "name": "CHAIN2NITE",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 723
+  },
+  {
+    "name": "CHAIN2NITE",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 759
+  },
+  {
+    "name": "CHAIN2NITE",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 883
+  },
+  {
+    "name": "CHAIN2NITE",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 1037
+  },
+  {
+    "name": "One Step Closer",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 454
+  },
+  {
+    "name": "One Step Closer",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 551
+  },
+  {
+    "name": "One Step Closer",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 752
+  },
+  {
+    "name": "My life is mine alone!",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 460
+  },
+  {
+    "name": "My life is mine alone!",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 612
+  },
+  {
+    "name": "My life is mine alone!",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 933
+  },
+  {
+    "name": "My life is mine alone!",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1075
+  },
+  {
+    "name": "メルティーラプソディー",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 582,
+    "aliases": [
+      "Melty Rhapsody"
+    ]
+  },
+  {
+    "name": "メルティーラプソディー",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 790,
+    "aliases": [
+      "Melty Rhapsody"
+    ]
+  },
+  {
+    "name": "メルティーラプソディー",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 975,
+    "aliases": [
+      "Melty Rhapsody"
+    ]
+  },
+  {
+    "name": "メルティーラプソディー",
+    "level": 10.4,
+    "difficulty": "ETR",
+    "notes": 1185,
+    "aliases": [
+      "Melty Rhapsody"
+    ]
+  },
+  {
+    "name": "Signal",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 582
+  },
+  {
+    "name": "Signal",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 824
+  },
+  {
+    "name": "Signal",
+    "level": 9.8,
+    "difficulty": "FTR",
+    "notes": 1151
+  },
+  {
+    "name": "Signal",
+    "level": 10.7,
+    "difficulty": "ETR",
+    "notes": 1245
+  },
+  {
+    "name": "キャラメルポップコーンたべたいよ〜",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 610,
+    "aliases": [
+      "Gimme Caramel Popcorn!"
+    ]
+  },
+  {
+    "name": "キャラメルポップコーンたべたいよ〜",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 579,
+    "aliases": [
+      "Gimme Caramel Popcorn!"
+    ]
+  },
+  {
+    "name": "キャラメルポップコーンたべたいよ〜",
+    "level": 8.1,
+    "difficulty": "FTR",
+    "notes": 767,
+    "aliases": [
+      "Gimme Caramel Popcorn!"
+    ]
+  },
+  {
+    "name": "キャラメルポップコーンたべたいよ〜",
+    "level": 9.1,
+    "difficulty": "ETR",
+    "notes": 959,
+    "aliases": [
+      "Gimme Caramel Popcorn!"
+    ]
+  },
+  {
+    "name": "森奥虚跡",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 582,
+    "aliases": [
+      "The Forgotten Forest Haven"
+    ]
+  },
+  {
+    "name": "森奥虚跡",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 748,
+    "aliases": [
+      "The Forgotten Forest Haven"
+    ]
+  },
+  {
+    "name": "森奥虚跡",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 1065,
+    "aliases": [
+      "The Forgotten Forest Haven"
+    ]
+  },
+  {
+    "name": "+1(UNKNOWN)-NUMBER",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 486
+  },
+  {
+    "name": "+1(UNKNOWN)-NUMBER",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 619
+  },
+  {
+    "name": "+1(UNKNOWN)-NUMBER",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 882
+  },
+  {
+    "name": "3rd Avenue",
+    "level": 3.0,
+    "difficulty": "PST",
+    "notes": 529
+  },
+  {
+    "name": "3rd Avenue",
+    "level": 8.1,
+    "difficulty": "PRS",
+    "notes": 761
+  },
+  {
+    "name": "3rd Avenue",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 748
+  },
+  {
+    "name": "Vallista",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 548
+  },
+  {
+    "name": "Vallista",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 681
+  },
+  {
+    "name": "Vallista",
+    "level": 9.7,
+    "difficulty": "FTR",
+    "notes": 869
+  },
+  {
+    "name": "GOODRAGE",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 576
+  },
+  {
+    "name": "GOODRAGE",
+    "level": 7.8,
+    "difficulty": "PRS",
+    "notes": 702
+  },
+  {
+    "name": "GOODRAGE",
+    "level": 9.3,
+    "difficulty": "FTR",
+    "notes": 834
+  },
+  {
+    "name": "GOODRAGE",
+    "level": 10.2,
+    "difficulty": "ETR",
+    "notes": 1035
+  },
+  {
+    "name": "Cryogenic",
+    "level": 5.0,
+    "difficulty": "PST",
+    "notes": 510
+  },
+  {
+    "name": "Cryogenic",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 680
+  },
+  {
+    "name": "Cryogenic",
+    "level": 9.2,
+    "difficulty": "FTR",
+    "notes": 831
+  },
+  {
+    "name": "Cryogenic",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1014
+  },
+  {
+    "name": "Desertrealm",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 843
+  },
+  {
+    "name": "Desertrealm",
+    "level": 8.5,
+    "difficulty": "PRS",
+    "notes": 1000
+  },
+  {
+    "name": "Desertrealm",
+    "level": 10.6,
+    "difficulty": "FTR",
+    "notes": 1460
+  },
+  {
+    "name": "スパイダーダンス",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 525,
+    "aliases": [
+      "Spider Dance"
+    ]
+  },
+  {
+    "name": "スパイダーダンス",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 526,
+    "aliases": [
+      "Spider Dance"
+    ]
+  },
+  {
+    "name": "スパイダーダンス",
+    "level": 7.8,
+    "difficulty": "FTR",
+    "notes": 553,
+    "aliases": [
+      "Spider Dance"
+    ]
+  },
+  {
+    "name": "スパイダーダンス",
+    "level": 9.5,
+    "difficulty": "ETR",
+    "notes": 666,
+    "aliases": [
+      "Spider Dance"
+    ]
+  },
+  {
+    "name": "正義の槍",
+    "level": 3.5,
+    "difficulty": "PST",
+    "notes": 308,
+    "aliases": [
+      "Spear of Justice"
+    ]
+  },
+  {
+    "name": "正義の槍",
+    "level": 6.5,
+    "difficulty": "PRS",
+    "notes": 452,
+    "aliases": [
+      "Spear of Justice"
+    ]
+  },
+  {
+    "name": "正義の槍",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 607,
+    "aliases": [
+      "Spear of Justice"
+    ]
+  },
+  {
+    "name": "正義の槍",
+    "level": 9.9,
+    "difficulty": "ETR",
+    "notes": 761,
+    "aliases": [
+      "Spear of Justice"
+    ]
+  },
+  {
+    "name": "アズゴア",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 797,
+    "aliases": [
+      "ASGORE"
+    ]
+  },
+  {
+    "name": "アズゴア",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 1044,
+    "aliases": [
+      "ASGORE"
+    ]
+  },
+  {
+    "name": "アズゴア",
+    "level": 8.8,
+    "difficulty": "FTR",
+    "notes": 1006,
+    "aliases": [
+      "ASGORE"
+    ]
+  },
+  {
+    "name": "アズゴア",
+    "level": 10.2,
+    "difficulty": "ETR",
+    "notes": 1255,
+    "aliases": [
+      "ASGORE"
+    ]
+  },
+  {
+    "name": "MIRROR - kamome sano remix",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 654
+  },
+  {
+    "name": "MIRROR - kamome sano remix",
+    "level": 7.0,
+    "difficulty": "PRS",
+    "notes": 742
+  },
+  {
+    "name": "MIRROR - kamome sano remix",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 972
+  },
+  {
+    "name": "Riot in the System",
+    "level": 4.5,
+    "difficulty": "PST",
+    "notes": 755
+  },
+  {
+    "name": "Riot in the System",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 782
+  },
+  {
+    "name": "Riot in the System",
+    "level": 9.5,
+    "difficulty": "FTR",
+    "notes": 998
+  },
+  {
+    "name": "Riot in the System",
+    "level": 10.1,
+    "difficulty": "ETR",
+    "notes": 1214
+  },
+  {
+    "name": "Cosmogyral",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 547
+  },
+  {
+    "name": "Cosmogyral",
+    "level": 5.5,
+    "difficulty": "PRS",
+    "notes": 687
+  },
+  {
+    "name": "Cosmogyral",
+    "level": 8.6,
+    "difficulty": "FTR",
+    "notes": 916
+  },
+  {
+    "name": "Cosmogyral",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 1049
+  },
+  {
+    "name": "flexidefine",
+    "level": 2.0,
+    "difficulty": "PST",
+    "notes": 644
+  },
+  {
+    "name": "flexidefine",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 842
+  },
+  {
+    "name": "flexidefine",
+    "level": 9.9,
+    "difficulty": "FTR",
+    "notes": 1055
+  },
+  {
+    "name": "Altersist",
+    "level": 2.5,
+    "difficulty": "PST",
+    "notes": 454
+  },
+  {
+    "name": "Altersist",
+    "level": 6.0,
+    "difficulty": "PRS",
+    "notes": 621
+  },
+  {
+    "name": "Altersist",
+    "level": 8.4,
+    "difficulty": "FTR",
+    "notes": 803
+  },
+  {
+    "name": "Altersist",
+    "level": 9.8,
+    "difficulty": "ETR",
+    "notes": 1077
+  },
+  {
+    "name": "c.s.q.n.",
+    "level": 4.0,
+    "difficulty": "PST",
+    "notes": 418
+  },
+  {
+    "name": "c.s.q.n.",
+    "level": 7.5,
+    "difficulty": "PRS",
+    "notes": 625
+  },
+  {
+    "name": "c.s.q.n.",
+    "level": 9.6,
+    "difficulty": "FTR",
+    "notes": 923
+  },
+  {
+    "name": "c.s.q.n.",
+    "level": 10.3,
+    "difficulty": "ETR",
+    "notes": 1071
+  }
+]
