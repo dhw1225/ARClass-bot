@@ -1,4 +1,4 @@
-"""Shared data models for ArcClass bot challenge core."""
+"""Shared data models for ARClass challenge core."""
 
 from __future__ import annotations
 

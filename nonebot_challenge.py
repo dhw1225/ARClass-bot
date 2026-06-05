@@ -158,7 +158,7 @@ async def _send_forward_or_text(bot: Bot, event: MessageEvent, message: str) -> 
     bot_user_id = int(getattr(bot, "self_id", 0) or context.user_id)
     node = MessageSegment.node_custom(
         user_id=bot_user_id,
-        nickname="ArcClass bot",
+        nickname="ARClass",
         content=message,
     )
     try:
@@ -203,7 +203,7 @@ def _active_user_ids() -> list[str]:
 
 def _admin_help_message() -> str:
     return (
-        "ArcClass bot 管理员指令\n"
+        "ARClass 管理员指令\n"
         "/set maintain：进入维护模式，不再允许启动新挑战；已有挑战可继续。\n"
         "/set resume：退出维护模式，恢复启动新挑战。\n"
         "/active：查看当前所有进行中的挑战。\n"
@@ -460,7 +460,7 @@ async def _handle_start(bot: Bot, event: MessageEvent, state: T_State) -> None:
             start_challenge,
             event,
             user_id,
-            "ArcClass bot 即将维护，暂不允许启动新挑战；已有挑战可以继续完成。",
+            "ARClass 即将维护，暂不允许启动新挑战；已有挑战可以继续完成。",
         )
         return
 

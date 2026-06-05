@@ -50,17 +50,17 @@ class ChallengeManager:
     def help_message(self) -> str:
         return (
             "Arcaea 段位 bot 使用说明\n"
-            "@ArcClass bot /help：查看使用说明。\n"
-            "@ArcClass bot /cha <挑战名称>：开始指定段位。\n"
-            "@ArcClass bot /cha list：查看可用挑战列表。\n"
-            "@ArcClass bot /cha <挑战名称> help：查看段位规则说明。\n"
-            "@ArcClass bot status：查看当前挑战状态。\n"
-            "@ArcClass bot cancel：中止当前挑战，本次判定失败且不写入成绩。\n"
-            "@ArcClass bot finish：提前结算限时段位。\n"
-            "@ArcClass bot /query：查询自己的段位记录。\n"
-            "@ArcClass bot /rank <段位名>：查看指定段位排行榜。\n"
-            "@ArcClass bot score <分数>：仅在 ArcClass bot 已确认 recent text 谱面但无法读分时手动补分。\n"
-            "挑战中请让 Yurisaki 发送 /a recent text；ArcClass bot 只接受可信 Yurisaki 账号且 @ 到挑战用户的 recent text。"
+            "@ARClass /help：查看使用说明。\n"
+            "@ARClass /cha <挑战名称>：开始指定段位。\n"
+            "@ARClass /cha list：查看可用挑战列表。\n"
+            "@ARClass /cha <挑战名称> help：查看段位规则说明。\n"
+            "@ARClass status：查看当前挑战状态。\n"
+            "@ARClass cancel：中止当前挑战，本次判定失败且不写入成绩。\n"
+            "@ARClass finish：提前结算限时段位。\n"
+            "@ARClass /query：查询自己的段位记录。\n"
+            "@ARClass /rank <段位名>：查看指定段位排行榜。\n"
+            "@ARClass score <分数>：仅在 ARClass 已确认 recent text 谱面但无法读分时手动补分。\n"
+            "挑战中请让 Yurisaki 发送 /a recent text；ARClass 只接受可信 Yurisaki 账号且 @ 到挑战用户的 recent text。"
         )
 
     def challenge_list_message(self) -> str:
@@ -73,14 +73,14 @@ class ChallengeManager:
                 f"{index}. {definition.name} "
                 f"[{self._challenge_type_short_label(definition.type)}/{self._clear_type_label(definition.clear_type)}]"
             )
-        lines.append("发送 @ArcClass bot /cha <挑战名称> help 查看规则说明。")
+        lines.append("发送 @ARClass /cha <挑战名称> help 查看规则说明。")
         return "\n".join(lines)
 
     def query_user_message(self, user_id: str) -> str:
         stats_challenges = self.stats_store.get_user_challenges(user_id)
         challenge_names = self._ordered_query_challenge_names(stats_challenges)
         lines = [
-            "ArcClass bot 段位查询",
+            "ARClass 段位查询",
             f"QQ：{user_id}",
         ]
         if not challenge_names:
@@ -167,7 +167,7 @@ class ChallengeManager:
         records = self._challenge_rank_records(normalized_name)
         definition = self.challenge_store.get(normalized_name)
         title_name = definition.name if definition is not None else normalized_name
-        lines = [f"ArcClass bot 段位排行榜：{title_name}"]
+        lines = [f"ARClass 段位排行榜：{title_name}"]
         lines.append(f"通过人数：{len(self.stats_store.passed_user_ids(normalized_name))}")
         first_clear = self._challenge_first_clear_record(normalized_name)
         first_clear_line = self._format_first_clear_line(first_clear, display_names)
@@ -241,7 +241,7 @@ class ChallengeManager:
     ) -> str:
         display_names = display_names or {}
         now = now or datetime.now()
-        lines = ["ArcClass bot 当前进行中挑战"]
+        lines = ["ARClass 当前进行中挑战"]
         if not self.sessions:
             lines.append("暂无进行中的挑战。")
             return "\n".join(lines)
@@ -309,7 +309,7 @@ class ChallengeManager:
             lines.append(f"定数范围：{definition.level_min:g}-{definition.level_max:g}")
             lines.append(
                 "若当前随机目标未解锁，可让 Yurisaki 查询 /a song 曲名；"
-                "ArcClass bot 识别未游玩回复后会切换本轮目标。"
+                "ARClass 识别未游玩回复后会切换本轮目标。"
             )
         else:
             if definition.type == "timed":
@@ -689,7 +689,7 @@ class ChallengeManager:
                 status="recent_text_needs_score",
                 message=(
                     f"已确认本轮谱面 {parsed.song} [{parsed.difficulty}]，但未能读取 Score。"
-                    "\n请 @ArcClass bot score 你的分数，例如：@ArcClass bot score 09994111。"
+                    "\n请 @ARClass score 你的分数，例如：@ARClass score 09994111。"
                 ),
                 session=session,
                 parsed=parsed,
@@ -703,7 +703,7 @@ class ChallengeManager:
                 message=(
                     f"读取到分数 {parsed.score:08d}，但无法用当前目标谱面计算错数。"
                     f"\n当前目标：{self._format_song(target)}"
-                    "\n请 @ArcClass bot score 手动补分，或重新发送 /a recent text。"
+                    "\n请 @ARClass score 手动补分，或重新发送 /a recent text。"
                 ),
                 session=session,
                 parsed=parsed,
@@ -748,7 +748,7 @@ class ChallengeManager:
                 status="recent_text_needs_score",
                 message=(
                     f"已确认谱面 {parsed.song} [{parsed.difficulty}]，但未能读取 Score。"
-                    "\n请 @ArcClass bot score 你的分数，例如：@ArcClass bot score 09994111。"
+                    "\n请 @ARClass score 你的分数，例如：@ARClass score 09994111。"
                 ),
                 session=session,
                 parsed=parsed,
@@ -762,7 +762,7 @@ class ChallengeManager:
                 message=(
                     f"读取到分数 {parsed.score:08d}，但无法用该谱面计算错数。"
                     f"\n确认谱面：{self._format_song(target)}"
-                    "\n请 @ArcClass bot score 手动补分，或重新发送 /a recent text。"
+                    "\n请 @ARClass score 手动补分，或重新发送 /a recent text。"
                 ),
                 session=session,
                 parsed=parsed,
@@ -1193,7 +1193,7 @@ class ChallengeManager:
                 f"{session.challenge_name} 限时 {session.time_limit_minutes:g} 分钟，剩余 {remaining} 秒，{clear_line}。"
                 f"\n指定曲目：{self._format_target_list(session.targets)}"
                 f"{self._format_score_average_lines(session)}"
-                "\n限时内可任意顺序、任意次数发送 Yurisaki 的 /a recent text；发送 @ArcClass bot finish 可提前结算。"
+                "\n限时内可任意顺序、任意次数发送 Yurisaki 的 /a recent text；发送 @ARClass finish 可提前结算。"
             )
         return self._format_target_message(session, prefix=prefix)
 
