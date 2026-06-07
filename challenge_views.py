@@ -20,6 +20,7 @@ from challenge_labels import (
     total_rounds,
 )
 from challenge_models import ChallengeDefinition, ChallengeSession, RoundRecord
+from challenge_recent import _chart_key
 from challenge_targets import format_target_list
 
 

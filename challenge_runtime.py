@@ -6,7 +6,7 @@ from datetime import datetime
 from typing import Optional
 
 import scoring
-from challenge_models import ChallengeResponse, ChallengeSession, RecentTextResult, RoundRecord, TimedChartResult
+from challenge_models import ChallengeDefinition, ChallengeResponse, ChallengeSession, RecentTextResult, RoundRecord, TimedChartResult
 from challenge_recent import (
     MAX_SCORE,
     MIN_SCORE,
@@ -743,7 +743,7 @@ class ChallengeRuntimeMixin:
             user_id,
             session,
             now,
-            cleared_charts > 0,
+            False,
             total_faults,
             f"{round_summary}\n{session.challenge_name} 无限段结束。",
             f"{self._format_records(session.records)}\n通关曲数 {cleared_charts}，总分 {session.total_score}，总错数 {total_faults}，最终血量 {self._format_hp(session, session.hp)}。",
