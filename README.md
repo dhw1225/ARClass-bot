@@ -72,7 +72,11 @@ current round to a new random target and resets the round timer.
   `difficulty`, `notes`, and optional official-title `aliases`.
 - `challenges.json`: challenge definitions.
 - `scoring.py`: pure score-to-fault reverse calculation.
-- `challenge.py`: framework-independent challenge state machine.
+- `challenge.py`: framework-independent challenge manager facade.
+- `challenge_runtime.py`: challenge state transitions and settlement.
+- `challenge_views.py`: query, rank, help, and result message formatting.
+- `challenge_targets.py`: random/infinite target selection and chart-list helpers.
+- `challenge_labels.py`: shared display labels and lightweight format helpers.
 - `challenge_recent.py`: recent-text parsing and chart matching.
 - `challenge_config.py`: challenge configuration loading and validation.
 - `challenge_store.py`: local completed-run record store.
