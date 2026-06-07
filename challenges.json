@@ -148,5 +148,32 @@
         "difficulty": "BYD"
       }
     ]
+  },
+  {
+    "name": "超上级 inf",
+    "type": "infinite",
+    "clear_type": "hp",
+    "level_min": 10.7,
+    "level_max": 11.7,
+    "initial_hp": 30,
+    "heal_per_round": 5,
+    "continue_on_zero_hp": false,
+    "hp_stages": [
+      {
+        "after_clears": 4,
+        "max_hp": 20,
+        "heal_per_round": 3
+      },
+      {
+        "after_clears": 7,
+        "max_hp": 10,
+        "heal_per_round": 2
+      },
+      {
+        "after_clears": 9,
+        "max_hp": 5,
+        "heal_per_round": 0
+      }
+    ]
   }
 ]

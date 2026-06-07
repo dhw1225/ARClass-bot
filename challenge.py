@@ -60,6 +60,7 @@ class ChallengeManager:
             "@ARClass /query：查询自己的段位记录。\n"
             "@ARClass /rank <段位名>：查看指定段位排行榜。\n"
             "@ARClass score <分数>：仅在 ARClass 已确认 recent text 谱面但无法读分时手动补分。\n"
+            "无限段位会持续随机出歌直到血量归零，排行榜按通关曲数排序。\n"
             "挑战中请让 Yurisaki 发送 /a recent text；ARClass 只接受可信 Yurisaki 账号且 @ 到挑战用户的 recent text。"
         )
 
@@ -136,15 +137,32 @@ class ChallengeManager:
         pass_count = int((stats or {}).get("pass_count", 0))
         best_scores = list((stats or {}).get("best_scores", []))
         best = best_scores[0] if best_scores else None
-        passed = pass_count > 0 or any(item.get("passed") for item in best_scores)
-        lines.append(f"通关情况：{'已通过' if passed else '未通过'}，通过 {pass_count} 次")
-        if best is None:
-            lines.append("个人最高总分：暂无成绩")
+        challenge_type = (
+            definition.type
+            if definition is not None
+            else str((stats or {}).get("challenge_type", ""))
+        )
+        if challenge_type == "infinite":
+            record_count = len(best_scores)
+            best_cleared = int((best or {}).get("cleared_charts", 0))
+            lines.append(f"游玩记录：{record_count} 次，最佳通关曲数 {best_cleared} 首")
+            if best is None:
+                lines.append("个人最佳：暂无成绩")
+            else:
+                lines.append(
+                    f"个人最佳：通关 {best_cleared} 首，总分 {int(best.get('score', 0))}，"
+                    f"总错数 {int(best.get('total_faults', 0))}"
+                )
         else:
-            best_status = "通过" if best.get("passed") else "未通过"
-            lines.append(
-                f"个人最高总分：{int(best.get('score', 0))}（{best_status}，总错数 {int(best.get('total_faults', 0))}）"
-            )
+            passed = pass_count > 0 or any(item.get("passed") for item in best_scores)
+            lines.append(f"通关情况：{'已通过' if passed else '未通过'}，通过 {pass_count} 次")
+            if best is None:
+                lines.append("个人最高总分：暂无成绩")
+            else:
+                best_status = "通过" if best.get("passed") else "未通过"
+                lines.append(
+                    f"个人最高总分：{int(best.get('score', 0))}（{best_status}，总错数 {int(best.get('total_faults', 0))}）"
+                )
         return lines
 
     def challenge_rank_user_ids(self, challenge_name: str) -> list[str]:
@@ -168,11 +186,14 @@ class ChallengeManager:
         definition = self.challenge_store.get(normalized_name)
         title_name = definition.name if definition is not None else normalized_name
         lines = [f"ARClass 段位排行榜：{title_name}"]
-        lines.append(f"通过人数：{len(self.stats_store.passed_user_ids(normalized_name))}")
-        first_clear = self._challenge_first_clear_record(normalized_name)
-        first_clear_line = self._format_first_clear_line(first_clear, display_names)
-        if first_clear_line:
-            lines.append(first_clear_line)
+        if definition is not None and definition.type == "infinite":
+            lines.append(f"记录人数：{len(records)}")
+        else:
+            lines.append(f"通过人数：{len(self.stats_store.passed_user_ids(normalized_name))}")
+            first_clear = self._challenge_first_clear_record(normalized_name)
+            first_clear_line = self._format_first_clear_line(first_clear, display_names)
+            if first_clear_line:
+                lines.append(first_clear_line)
         if not records:
             if definition is None:
                 return f"未知段位且暂无历史记录：{normalized_name}"
@@ -180,25 +201,46 @@ class ChallengeManager:
 
         for index, record in enumerate(records, 1):
             best = record["best"]
-            status = "通过" if best.get("passed") else "未通过"
-            lines.append(
-                f"{index}. {self._display_user(record['user_id'], display_names)}："
-                f"{int(best.get('score', 0))}，总错数 {int(best.get('total_faults', 0))}，"
-                f"{status}，通过 {int(record.get('pass_count', 0))} 次，"
-                f"{best.get('finished_at', '时间未知')}"
-            )
+            if definition is not None and definition.type == "infinite":
+                lines.append(
+                    f"{index}. {self._display_user(record['user_id'], display_names)}："
+                    f"通关 {int(best.get('cleared_charts', 0))} 首，总分 {int(best.get('score', 0))}，"
+                    f"总错数 {int(best.get('total_faults', 0))}，"
+                    f"记录 {int(record.get('record_count', 0))} 次，"
+                    f"{best.get('finished_at', '时间未知')}"
+                )
+            else:
+                status = "通过" if best.get("passed") else "未通过"
+                lines.append(
+                    f"{index}. {self._display_user(record['user_id'], display_names)}："
+                    f"{int(best.get('score', 0))}，总错数 {int(best.get('total_faults', 0))}，"
+                    f"{status}，通过 {int(record.get('pass_count', 0))} 次，"
+                    f"{best.get('finished_at', '时间未知')}"
+                )
         return "\n".join(lines)
 
     def _challenge_rank_records(self, challenge_name: str) -> list[dict]:
         records = self.stats_store.get_challenge_user_records(challenge_name)
-        records.sort(
-            key=lambda record: (
-                -int(record["best"].get("score", 0)),
-                int(record["best"].get("total_faults", 0)),
-                str(record["best"].get("finished_at", "")),
-                record["user_id"],
+        definition = self.challenge_store.get(challenge_name)
+        if definition is not None and definition.type == "infinite":
+            records.sort(
+                key=lambda record: (
+                    -int(record["best"].get("cleared_charts", 0)),
+                    -int(record["best"].get("score", 0)),
+                    int(record["best"].get("total_faults", 0)),
+                    str(record["best"].get("finished_at", "")),
+                    record["user_id"],
+                )
             )
-        )
+        else:
+            records.sort(
+                key=lambda record: (
+                    -int(record["best"].get("score", 0)),
+                    int(record["best"].get("total_faults", 0)),
+                    str(record["best"].get("finished_at", "")),
+                    record["user_id"],
+                )
+            )
         return records
 
     @staticmethod
@@ -269,6 +311,8 @@ class ChallengeManager:
                 if result.submission_count > 0
             )
             return f"{submitted}/{session.total_rounds}"
+        if session.challenge_type == "infinite":
+            return f"通关 {self._infinite_cleared_charts(session)} 首，当前第 {session.round_no} 首"
         return f"{session.current_index}/{session.total_rounds}"
 
     def _format_active_state(self, session: ChallengeSession) -> str:
@@ -301,16 +345,25 @@ class ChallengeManager:
             f"类型：{definition.type}（{self._challenge_type_label(definition.type)}）",
             f"通关方式：{definition.clear_type}（{self._clear_type_label(definition.clear_type)}）",
         ]
-        if definition.type == "random":
-            assert definition.rounds is not None
+        if definition.type in {"random", "infinite"}:
             assert definition.level_min is not None
             assert definition.level_max is not None
-            lines.append(f"轮数：{definition.rounds}")
+            if definition.type == "infinite":
+                lines.append("轮数：无限，血量归零后结算")
+            else:
+                assert definition.rounds is not None
+                lines.append(f"轮数：{definition.rounds}")
             lines.append(f"定数范围：{definition.level_min:g}-{definition.level_max:g}")
             lines.append(
                 "若当前随机目标未解锁，可让 Yurisaki 查询 /a song 曲名；"
                 "ARClass 识别未游玩回复后会切换本轮目标。"
             )
+            if definition.type == "infinite" and definition.hp_stages:
+                stage_text = "；".join(
+                    f"通过 {stage['after_clears']} 首后：血量上限 {stage['max_hp']}，每轮回血 {stage['heal_per_round']}"
+                    for stage in definition.hp_stages
+                )
+                lines.append(f"血量阶段：{stage_text}")
         else:
             if definition.type == "timed":
                 assert definition.time_limit_minutes is not None
@@ -323,7 +376,7 @@ class ChallengeManager:
 
         if definition.clear_type == "hp":
             lines.append(f"初始血量：{definition.initial_hp}")
-            if definition.type in {"random", "fixed"}:
+            if definition.type in {"random", "fixed", "infinite"}:
                 lines.append(f"每轮回血：{definition.heal_per_round}")
                 zero_hp = (
                     "继续游玩但判定失败"
@@ -381,7 +434,9 @@ class ChallengeManager:
             targets=targets,
             hp=definition.initial_hp,
             initial_hp=definition.initial_hp,
+            max_hp=definition.initial_hp,
             heal_per_round=definition.heal_per_round,
+            hp_stages=definition.hp_stages,
             continue_on_zero_hp=definition.continue_on_zero_hp,
             strict_faults=definition.strict_faults,
             strict_multiplier=definition.strict_multiplier,
@@ -415,7 +470,7 @@ class ChallengeManager:
         self, definition: ChallengeDefinition
     ) -> tuple[list[dict], Optional[str]]:
         db = scoring.get_db()
-        if definition.type == "random":
+        if definition.type in {"random", "infinite"}:
             assert definition.rounds is not None
             assert definition.level_min is not None
             assert definition.level_max is not None
@@ -424,6 +479,13 @@ class ChallengeManager:
                 for song in db.songs
                 if definition.level_min <= float(song["level"]) <= definition.level_max
             ]
+            if definition.type == "infinite":
+                if not candidates:
+                    return [], (
+                        f"{definition.name} 候选谱面不足："
+                        f"当前区间 {definition.level_min:g}-{definition.level_max:g} 没有谱面。"
+                    )
+                return [self.rng.choice(candidates)], None
             if len(candidates) < definition.rounds:
                 return [], (
                     f"{definition.name} 候选谱面不足：需要 {definition.rounds} 首，"
@@ -533,7 +595,7 @@ class ChallengeManager:
                 message="收到缺曲回复时已经超过 6 分钟，本次挑战失败。",
                 session=session,
             )
-        if session.challenge_type != "random":
+        if session.challenge_type not in {"random", "infinite"}:
             return ChallengeResponse(
                 status="unavailable_song_ignored",
                 message="",
@@ -592,7 +654,7 @@ class ChallengeManager:
         session.round_announced_at = now
         prefix = (
             f"已确认当前目标未解锁：{self._format_song(target)}。"
-            "\n已切换本轮目标；该曲目的该难度本次挑战不会再次抽到。"
+            f"\n已切换本轮目标；{'下一首不会与上一首重复。' if session.challenge_type == 'infinite' else '该曲目的该难度本次挑战不会再次抽到。'}"
             "\n本轮 6 分钟计时已重置。"
         )
         return ChallengeResponse(
@@ -605,17 +667,21 @@ class ChallengeManager:
         self, session: ChallengeSession, unavailable_key: str
     ) -> Optional[dict]:
         definition = self.challenge_store.get(session.challenge_name)
-        if definition is None or definition.type != "random":
+        if definition is None or definition.type not in {"random", "infinite"}:
             return None
         assert definition.level_min is not None
         assert definition.level_max is not None
 
         excluded = set(session.random_excluded_chart_keys)
         excluded.add(unavailable_key)
-        excluded.update(_chart_key(target) for target in session.targets)
-        excluded.update(
-            _chart_key(record.song, record.difficulty) for record in session.records
-        )
+        if session.challenge_type == "infinite":
+            if session.current_index > 0:
+                excluded.add(_chart_key(session.targets[session.current_index - 1]))
+        else:
+            excluded.update(_chart_key(target) for target in session.targets)
+            excluded.update(
+                _chart_key(record.song, record.difficulty) for record in session.records
+            )
         candidates = [
             song
             for song in scoring.get_db().songs
@@ -625,6 +691,58 @@ class ChallengeManager:
         if not candidates:
             return None
         return self.rng.choice(candidates)
+
+    def _next_infinite_target(
+        self, session: ChallengeSession
+    ) -> tuple[Optional[dict], Optional[str]]:
+        definition = self.challenge_store.get(session.challenge_name)
+        if definition is None or definition.type != "infinite":
+            return None, "当前段位不是无限段，无法生成下一首。"
+        assert definition.level_min is not None
+        assert definition.level_max is not None
+
+        excluded = set(session.random_excluded_chart_keys)
+        excluded.add(_chart_key(session.current_target))
+        candidates = [
+            song
+            for song in scoring.get_db().songs
+            if definition.level_min <= float(song["level"]) <= definition.level_max
+            and _chart_key(song) not in excluded
+        ]
+        if not candidates:
+            return None, (
+                f"{session.challenge_name} 候选谱面不足："
+                f"当前区间 {definition.level_min:g}-{definition.level_max:g} 没有可作为下一首的谱面。"
+            )
+        return self.rng.choice(candidates), None
+
+    @staticmethod
+    def _infinite_cleared_charts(session: ChallengeSession) -> int:
+        return sum(1 for record in session.records if record.hp_after > 0)
+
+    def _apply_infinite_stage(self, session: ChallengeSession) -> Optional[str]:
+        cleared = self._infinite_cleared_charts(session)
+        active_stage = None
+        for stage in session.hp_stages:
+            if cleared >= int(stage["after_clears"]):
+                active_stage = stage
+            else:
+                break
+        if active_stage is None:
+            return None
+
+        new_max_hp = int(active_stage["max_hp"])
+        new_heal = int(active_stage["heal_per_round"])
+        old_max_hp = session.max_hp or session.initial_hp
+        old_heal = session.heal_per_round
+        if new_max_hp == old_max_hp and new_heal == old_heal:
+            return None
+
+        session.max_hp = new_max_hp
+        session.heal_per_round = new_heal
+        if session.hp > session.max_hp:
+            session.hp = session.max_hp
+        return f"已通关 {cleared} 首，血量上限降至 {new_max_hp}，每轮回血 {new_heal}。"
 
     def handle_recent_text(
         self,
@@ -921,19 +1039,34 @@ class ChallengeManager:
             session, score_result, hp_before, hp_after
         )
         if session.clear_type == "hp" and hp_zeroed_this_round:
+            if session.challenge_type == "infinite":
+                return self._finish_infinite(user_id, session, now, round_summary)
             if session.continue_on_zero_hp:
                 round_summary += "\n血量已归零，挑战失败，但可以继续游玩。"
             else:
                 return self._fail_by_hp(user_id, session, round_summary)
 
-        if session.current_index + 1 >= session.total_rounds:
+        if session.challenge_type == "infinite":
+            next_target, error = self._next_infinite_target(session)
+            if error or next_target is None:
+                return ChallengeResponse(
+                    status="error",
+                    message=error or "无法生成无限段下一首。",
+                    session=session,
+                    parsed=parsed,
+                )
+            session.targets.append(next_target)
+        elif session.current_index + 1 >= session.total_rounds:
             return self._finish_ordered(user_id, session, now, round_summary)
 
         session.current_index += 1
+        stage_message = None
+        if session.challenge_type == "infinite":
+            stage_message = self._apply_infinite_stage(session)
         healed = 0
         if session.clear_type == "hp" and not session.failed_by_hp:
             hp_before_heal = session.hp
-            session.hp = min(session.initial_hp, session.hp + session.heal_per_round)
+            session.hp = min(self._hp_cap(session), session.hp + session.heal_per_round)
             healed = session.hp - hp_before_heal
         session.round_announced_at = now
 
@@ -951,6 +1084,8 @@ class ChallengeManager:
                 f"{round_summary}\n回复 {healed} 血，"
                 f"当前血量 {self._format_hp(session, session.hp)}。"
             )
+        if stage_message:
+            prefix = f"{prefix}\n{stage_message}"
         return ChallengeResponse(
             status="round_completed",
             message=self._format_session_message(session, prefix=prefix, now=now),
@@ -1050,6 +1185,26 @@ class ChallengeManager:
             f"{self._format_records(session.records)}\n总分 {session.total_score}，总错数 {total_faults}，{clear_line}",
         )
 
+    def _finish_infinite(
+        self,
+        user_id: str,
+        session: ChallengeSession,
+        now: datetime,
+        round_summary: str,
+    ) -> ChallengeResponse:
+        self.sessions.pop(user_id, None)
+        total_faults = sum(record.faults for record in session.records)
+        cleared_charts = self._infinite_cleared_charts(session)
+        return self._record_and_format_finish(
+            user_id,
+            session,
+            now,
+            cleared_charts > 0,
+            total_faults,
+            f"{round_summary}\n{session.challenge_name} 无限段结束。",
+            f"{self._format_records(session.records)}\n通关曲数 {cleared_charts}，总分 {session.total_score}，总错数 {total_faults}，最终血量 {self._format_hp(session, session.hp)}。",
+        )
+
     def _finish_timed(
         self,
         user_id: str,
@@ -1102,18 +1257,24 @@ class ChallengeManager:
             clear_type=session.clear_type,
             total_faults=total_faults,
             challenge_type=session.challenge_type,
+            cleared_charts=self._recorded_cleared_charts(session, passed),
         )
         best = (
             stats["best_scores"][0]["score"]
             if stats.get("best_scores")
             else session.total_score
         )
+        if session.challenge_type == "infinite":
+            best_score = stats["best_scores"][0] if stats.get("best_scores") else {}
+            suffix = (
+                f"\n{session.challenge_name} 个人最佳通关 {int(best_score.get('cleared_charts', 0))} 首，"
+                f"个人最高总分 {int(best_score.get('score', best))}。"
+            )
+        else:
+            suffix = f"\n{session.challenge_name} 累计通过 {stats['pass_count']} 次，个人最高总分 {best}。"
         return ChallengeResponse(
             status="finished_passed" if passed else "finished_failed",
-            message=(
-                f"{title}\n{details}"
-                f"\n{session.challenge_name} 累计通过 {stats['pass_count']} 次，个人最高总分 {best}。"
-            ),
+            message=f"{title}\n{details}{suffix}",
             session=session,
         )
 
@@ -1162,7 +1323,7 @@ class ChallengeManager:
     ) -> str:
         fault_label = "严格错数" if session.strict_faults else "错"
         base = (
-            f"第 {session.round_no}/{session.total_rounds} 首完成："
+            f"{self._format_round_label(session)}完成："
             f"{score_result['song']} [{score_result['difficulty']}] "
             f"{score_result['score']:08d}，{score_result['faults']} {fault_label}"
         )
@@ -1211,21 +1372,20 @@ class ChallengeManager:
                 f"{self._format_score_average_lines(session)}"
                 f"\n当前最佳：\n{self._format_timed_progress(session)}"
             )
-        target_line = (
-            f"{session.challenge_name} 第 {session.round_no}/{session.total_rounds} 首："
-            f"{self._format_song(session.current_target)}"
-        )
+        target_line = f"{session.challenge_name} {self._format_round_label(session)}：{self._format_song(session.current_target)}"
         average_lines = self._format_score_average_lines(session)
+        random_hint = self._format_random_unavailable_hint(session)
         if session.recent_text_received_at is not None:
-            return f"{target_line}{average_lines}\n已收到本轮 recent text，等待手动分数，剩余 {remaining} 秒。"
-        return f"{target_line}{average_lines}\n仍在等待本轮 recent text，剩余 {remaining} 秒。"
+            return f"{target_line}{average_lines}\n已收到本轮 recent text，等待手动分数，剩余 {remaining} 秒。{random_hint}"
+        return f"{target_line}{average_lines}\n仍在等待本轮 recent text，剩余 {remaining} 秒。{random_hint}"
 
     def _format_target_message(self, session: ChallengeSession, *, prefix: str) -> str:
         return (
             f"{prefix}\n"
-            f"{session.challenge_name} 第 {session.round_no}/{session.total_rounds} 首：{self._format_song(session.current_target)}"
+            f"{session.challenge_name} {self._format_round_label(session)}：{self._format_song(session.current_target)}"
             f"{self._format_score_average_lines(session)}"
             f"\n请在 {session.deadline:%H:%M} 前完成并发送 Yurisaki 的 /a recent text。"
+            f"{self._format_random_unavailable_hint(session)}"
         )
 
     def _format_progress(self, session: ChallengeSession) -> str:
@@ -1236,6 +1396,8 @@ class ChallengeManager:
                 if item.submission_count > 0
             )
             return f"{submitted}/{session.total_rounds}"
+        if session.challenge_type == "infinite":
+            return f"通关 {self._infinite_cleared_charts(session)} 首"
         return f"{session.current_index}/{session.total_rounds}"
 
     def _unknown_challenge_message(self, challenge_name: str) -> str:
@@ -1248,6 +1410,7 @@ class ChallengeManager:
             "random": "随机",
             "fixed": "固定顺序",
             "timed": "限时任意顺序",
+            "infinite": "无限随机",
         }
         return labels.get(challenge_type, challenge_type)
 
@@ -1257,6 +1420,7 @@ class ChallengeManager:
             "random": "随机",
             "fixed": "固定",
             "timed": "限时",
+            "infinite": "无限",
         }
         return labels.get(challenge_type, challenge_type)
 
@@ -1281,11 +1445,37 @@ class ChallengeManager:
 
     @staticmethod
     def _total_rounds(definition: ChallengeDefinition) -> int:
+        if definition.type == "infinite":
+            return 1
         total_rounds = (
             definition.rounds if definition.type == "random" else len(definition.charts)
         )
         assert total_rounds is not None
         return total_rounds
+
+    @staticmethod
+    def _recorded_cleared_charts(session: ChallengeSession, passed: bool) -> int:
+        if session.challenge_type == "infinite":
+            return ChallengeManager._infinite_cleared_charts(session)
+        return len(session.records) if passed else 0
+
+    @staticmethod
+    def _hp_cap(session: ChallengeSession) -> int:
+        return session.max_hp or session.initial_hp
+
+    @staticmethod
+    def _format_round_label(session: ChallengeSession) -> str:
+        if session.challenge_type == "infinite":
+            return f"第 {session.round_no} 首"
+        return f"第 {session.round_no}/{session.total_rounds} 首"
+
+    def _format_random_unavailable_hint(self, session: ChallengeSession) -> str:
+        if session.challenge_type not in {"random", "infinite"}:
+            return ""
+        return (
+            f"\n若目标未解锁，可让 Yurisaki 查询 /a song {session.current_target['name']}；"
+            "ARClass 识别未游玩回复后会切换目标并重置计时。"
+        )
 
     def _required_average_score_for_definition(
         self, definition: ChallengeDefinition
@@ -1299,7 +1489,7 @@ class ChallengeManager:
 
     @staticmethod
     def _format_hp(session: ChallengeSession, hp: int) -> str:
-        return f"{hp}/{session.initial_hp}"
+        return f"{hp}/{ChallengeManager._hp_cap(session)}"
 
     @staticmethod
     def _required_average_score(session: ChallengeSession) -> int:

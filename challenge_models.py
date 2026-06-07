@@ -79,6 +79,7 @@ class ChallengeDefinition:
     rounds: Optional[int] = None
     level_min: Optional[float] = None
     level_max: Optional[float] = None
+    hp_stages: list[dict] = field(default_factory=list)
     time_limit_minutes: Optional[float] = None
     charts: list[dict] = field(default_factory=list)
 
@@ -93,7 +94,9 @@ class ChallengeSession:
     targets: list[dict]
     hp: int = 0
     initial_hp: int = 0
+    max_hp: int = 0
     heal_per_round: int = 0
+    hp_stages: list[dict] = field(default_factory=list)
     continue_on_zero_hp: bool = False
     strict_faults: bool = False
     strict_multiplier: int = 1

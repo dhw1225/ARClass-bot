@@ -12,7 +12,7 @@ from challenge_recent import _chart_key
 
 
 CHALLENGES_PATH = Path(__file__).parent / "challenges.json"
-CHALLENGE_TYPES = {"random", "fixed", "timed"}
+CHALLENGE_TYPES = {"random", "fixed", "timed", "infinite"}
 CLEAR_TYPES = {"hp", "score"}
 
 
@@ -58,6 +58,8 @@ class ChallengeConfigStore:
                 raise ValueError(
                     f"challenge {name} has invalid clear_type {clear_type!r}"
                 )
+            if challenge_type == "infinite" and clear_type != "hp":
+                raise ValueError(f"challenge {name} infinite type requires hp clear_type")
             if name in challenges:
                 raise ValueError(f"duplicate challenge name: {name}")
 
@@ -90,13 +92,14 @@ class ChallengeConfigStore:
                 raise ValueError(f"challenge {name} initial_hp must be positive")
             if heal_per_round < 0:
                 raise ValueError(f"challenge {name} heal_per_round cannot be negative")
+            hp_stages = self._parse_hp_stages(name, item, initial_hp, heal_per_round)
 
             charts = item.get("charts", [])
-            if challenge_type == "random":
-                rounds = int(item.get("rounds", 0))
+            if challenge_type in {"random", "infinite"}:
+                rounds = int(item.get("rounds", 0)) if challenge_type == "random" else 1
                 level_min = float(item.get("level_min"))
                 level_max = float(item.get("level_max"))
-                if rounds <= 0:
+                if challenge_type == "random" and rounds <= 0:
                     raise ValueError(f"challenge {name} rounds must be positive")
                 if level_min > level_max:
                     raise ValueError(
@@ -115,6 +118,7 @@ class ChallengeConfigStore:
                     rounds=rounds,
                     level_min=level_min,
                     level_max=level_max,
+                    hp_stages=hp_stages,
                 )
             else:
                 if not isinstance(charts, list) or not charts:
@@ -143,11 +147,67 @@ class ChallengeConfigStore:
                     strict_faults=strict_faults,
                     strict_multiplier=strict_multiplier,
                     clear_score=clear_score,
+                    hp_stages=hp_stages,
                     time_limit_minutes=time_limit_minutes,
                     charts=charts,
                 )
             challenges[name] = challenge
         return challenges
+
+    def _parse_hp_stages(
+        self,
+        name: str,
+        item: dict,
+        initial_hp: int,
+        heal_per_round: int,
+    ) -> list[dict]:
+        raw_stages = item.get("hp_stages", [])
+        if not raw_stages:
+            return []
+        if not isinstance(raw_stages, list):
+            raise ValueError(f"challenge {name} hp_stages must be a list")
+
+        stages: list[dict] = []
+        previous_after = 0
+        previous_max_hp = initial_hp
+        previous_heal = heal_per_round
+        for raw_stage in raw_stages:
+            if not isinstance(raw_stage, dict):
+                raise ValueError(f"challenge {name} hp_stages entries must be objects")
+            after_clears = int(raw_stage.get("after_clears", 0))
+            max_hp = int(raw_stage.get("max_hp", 0))
+            stage_heal = int(raw_stage.get("heal_per_round", 0))
+            if after_clears <= 0:
+                raise ValueError(
+                    f"challenge {name} hp_stages after_clears must be positive"
+                )
+            if after_clears <= previous_after:
+                raise ValueError(
+                    f"challenge {name} hp_stages after_clears must be ascending"
+                )
+            if max_hp <= 0:
+                raise ValueError(f"challenge {name} hp_stages max_hp must be positive")
+            if max_hp > previous_max_hp:
+                raise ValueError(f"challenge {name} hp_stages max_hp cannot increase")
+            if stage_heal < 0:
+                raise ValueError(
+                    f"challenge {name} hp_stages heal_per_round cannot be negative"
+                )
+            if stage_heal > previous_heal:
+                raise ValueError(
+                    f"challenge {name} hp_stages heal_per_round cannot increase"
+                )
+            stages.append(
+                {
+                    "after_clears": after_clears,
+                    "max_hp": max_hp,
+                    "heal_per_round": stage_heal,
+                }
+            )
+            previous_after = after_clears
+            previous_max_hp = max_hp
+            previous_heal = stage_heal
+        return stages
 
     def _validate_config_charts(
         self,

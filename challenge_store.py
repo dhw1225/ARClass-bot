@@ -45,6 +45,21 @@ class ChallengeStatsStore:
             json.dump(data, f, ensure_ascii=False, indent=2)
             f.write("\n")
 
+    @staticmethod
+    def _best_score_sort_key(item: dict) -> tuple:
+        if item.get("challenge_type") == "infinite":
+            return (
+                -int(item.get("cleared_charts", 0)),
+                -int(item.get("score", 0)),
+                int(item.get("total_faults", 0)),
+                str(item.get("finished_at", "")),
+            )
+        return (
+            -int(item.get("score", 0)),
+            int(item.get("total_faults", 0)),
+            str(item.get("finished_at", "")),
+        )
+
     def record_completed(
         self,
         user_id: str,
@@ -56,6 +71,7 @@ class ChallengeStatsStore:
         clear_type: str,
         total_faults: int,
         challenge_type: str,
+        cleared_charts: Optional[int] = None,
     ) -> dict:
         data = self._load()
         users = data.setdefault("users", {})
@@ -69,17 +85,18 @@ class ChallengeStatsStore:
                 int(challenge_stats.get("pass_count", 0)) + 1
             )
         scores = list(challenge_stats.get("best_scores", []))
-        scores.append(
-            {
-                "score": total_score,
-                "total_faults": total_faults,
-                "clear_type": clear_type,
-                "challenge_type": challenge_type,
-                "passed": passed,
-                "finished_at": finished_at.isoformat(timespec="seconds"),
-            }
-        )
-        scores.sort(key=lambda item: item.get("score", 0), reverse=True)
+        score_entry = {
+            "score": total_score,
+            "total_faults": total_faults,
+            "clear_type": clear_type,
+            "challenge_type": challenge_type,
+            "passed": passed,
+            "finished_at": finished_at.isoformat(timespec="seconds"),
+        }
+        if cleared_charts is not None:
+            score_entry["cleared_charts"] = int(cleared_charts)
+        scores.append(score_entry)
+        scores.sort(key=self._best_score_sort_key)
         challenge_stats["best_scores"] = scores[:TOP_SCORE_LIMIT]
         self._save(data)
         return challenge_stats
@@ -150,17 +167,12 @@ class ChallengeStatsStore:
             best_scores = list(challenge_stats.get("best_scores", []))
             if not best_scores:
                 continue
-            best_scores.sort(
-                key=lambda item: (
-                    -int(item.get("score", 0)),
-                    int(item.get("total_faults", 0)),
-                    str(item.get("finished_at", "")),
-                )
-            )
+            best_scores.sort(key=self._best_score_sort_key)
             records.append(
                 {
                     "user_id": str(user_id),
                     "pass_count": int(challenge_stats.get("pass_count", 0)),
+                    "record_count": len(best_scores),
                     "best": best_scores[0],
                 }
             )

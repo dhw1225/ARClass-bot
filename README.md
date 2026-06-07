@@ -4,15 +4,17 @@ ARClass bot is a QQ group Arcaea challenge bot. It keeps the challenge rules in
 framework-independent Python modules, while the NoneBot adapter only maps QQ
 messages to those core APIs.
 
-The default rule set runs from `上级 veryeasy` through `里皆传`. Completed runs
-are recorded locally and can be shown through query and leaderboard commands.
+The default rule set runs from `上级 veryeasy` through `里皆传`, followed by
+the endless `超上级 inf`. Completed runs are recorded locally and can be shown
+through query and leaderboard commands.
 
 ## Features
 
-- Random, fixed-order, and timed challenge modes.
+- Random, fixed-order, timed, and endless challenge modes.
 - HP-based and total-score-based clear rules.
 - Yurisaki `/a recent text` parsing with trusted sender checks.
-- Yurisaki `/a song` unavailable-chart handling for random challenges.
+- Yurisaki `/a song` unavailable-chart handling for random and endless
+  challenges.
 - Bilingual official title matching from `songs.json` aliases.
 - Quon/Genesis disambiguation with Play Potential when Yurisaki returns an
   ambiguous title.
@@ -33,7 +35,8 @@ Mention the bot in group chats before each command.
   recorded.
 - `finish`: settle timed challenges early.
 - `/query`: show your challenge records.
-- `/rank <challenge name>`: show a challenge leaderboard.
+- `/rank <challenge name>`: show a challenge leaderboard. Endless challenges
+  rank by cleared chart count first.
 - `score <score>`: manually provide a score only after the bot has already
   confirmed a matching recent-text chart but could not read the score.
 
@@ -59,9 +62,9 @@ A valid recent-text message must:
 - include a valid `Score:` line, unless the user later uses the manual `score`
   fallback after chart confirmation.
 
-For random challenges, if the current target is unavailable, ask Yurisaki for
-`/a song <song name>`. A matching unavailable reply switches the current round
-to a new random target and resets the round timer.
+For random and endless challenges, if the current target is unavailable, ask
+Yurisaki for `/a song <song name>`. A matching unavailable reply switches the
+current round to a new random target and resets the round timer.
 
 ## Files
 
