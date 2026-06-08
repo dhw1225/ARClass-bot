@@ -37,8 +37,8 @@
     "type": "random",
     "clear_type": "hp",
     "rounds": 4,
-    "level_min": 10.4,
-    "level_max": 11.3,
+    "level_min": 10.3,
+    "level_max": 10.9,
     "initial_hp": 50,
     "heal_per_round": 10,
     "strict_faults": false,
@@ -150,6 +150,38 @@
     ]
   },
   {
+    "name": "上级 inf",
+    "type": "infinite",
+    "clear_type": "hp",
+    "level_min": 9.7,
+    "level_max": 10.6,
+    "initial_hp": 100,
+    "heal_per_round": 20,
+    "continue_on_zero_hp": false,
+    "hp_stages": [
+      {
+        "after_clears": 4,
+        "max_hp": 80,
+        "heal_per_round": 15
+      },
+      {
+        "after_clears": 7,
+        "max_hp": 60,
+        "heal_per_round": 10
+      },
+      {
+        "after_clears": 9,
+        "max_hp": 40,
+        "heal_per_round": 5
+      },
+      {
+        "after_clears": 11,
+        "max_hp": 20,
+        "heal_per_round": 0
+      }
+    ]
+  },
+  {
     "name": "超上级 inf",
     "type": "infinite",
     "clear_type": "hp",
@@ -161,17 +193,17 @@
     "hp_stages": [
       {
         "after_clears": 4,
-        "max_hp": 20,
+        "max_hp": 25,
         "heal_per_round": 3
       },
       {
         "after_clears": 7,
-        "max_hp": 10,
+        "max_hp": 20,
         "heal_per_round": 2
       },
       {
         "after_clears": 9,
-        "max_hp": 5,
+        "max_hp": 15,
         "heal_per_round": 0
       }
     ]
