@@ -98,11 +98,23 @@ class ChallengeRuntimeMixin:
     ) -> tuple[list[dict], Optional[str]]:
         return build_targets(definition, self.rng, self._format_song)
 
-    def cancel(self, user_id: str) -> ChallengeResponse:
+    def cancel(
+        self, user_id: str, now: Optional[datetime] = None
+    ) -> ChallengeResponse:
+        now = now or datetime.now()
         session = self.sessions.pop(user_id, None)
         if session is None:
             return ChallengeResponse(
                 status="not_active", message="你当前没有进行中的挑战。"
+            )
+        infinite_abandon = self._record_infinite_abandon(
+            user_id, session, now, "挑战已由用户中止。"
+        )
+        if infinite_abandon is not None:
+            return ChallengeResponse(
+                status="cancelled_failed",
+                message=infinite_abandon,
+                session=session,
             )
         return ChallengeResponse(
             status="cancelled_failed",
@@ -148,6 +160,19 @@ class ChallengeRuntimeMixin:
             return self._finish_timed(user_id, session, now, "限时结束，自动结算。")
 
         self.sessions.pop(user_id, None)
+        infinite_abandon = self._record_infinite_abandon(
+            user_id, session, now, "本轮已超时。"
+        )
+        if infinite_abandon is not None:
+            return ChallengeResponse(
+                status="timeout_failed",
+                message=(
+                    f"{session.challenge_name} 本轮已超时，目标是 {self._format_song(session.current_target)}，"
+                    f"截止时间 {session.deadline:%H:%M}。"
+                    f"\n{infinite_abandon}"
+                ),
+                session=session,
+            )
         return ChallengeResponse(
             status="timeout_failed",
             message=(
@@ -175,6 +200,15 @@ class ChallengeRuntimeMixin:
                     user_id, session, now, "收到缺曲回复时限时已结束，自动结算。"
                 )
             self.sessions.pop(user_id, None)
+            infinite_abandon = self._record_infinite_abandon(
+                user_id, session, now, "收到缺曲回复时已经超过 6 分钟。"
+            )
+            if infinite_abandon is not None:
+                return ChallengeResponse(
+                    status="timeout_failed",
+                    message=infinite_abandon,
+                    session=session,
+                )
             return ChallengeResponse(
                 status="timeout_failed",
                 message="收到缺曲回复时已经超过 6 分钟，本次挑战失败。",
@@ -306,6 +340,15 @@ class ChallengeRuntimeMixin:
                     user_id, session, now, "收到 recent text 时限时已结束，自动结算。"
                 )
             self.sessions.pop(user_id, None)
+            infinite_abandon = self._record_infinite_abandon(
+                user_id, session, now, "收到 recent text 时已经超过 6 分钟。"
+            )
+            if infinite_abandon is not None:
+                return ChallengeResponse(
+                    status="timeout_failed",
+                    message=infinite_abandon,
+                    session=session,
+                )
             return ChallengeResponse(
                 status="timeout_failed",
                 message="收到 recent text 时已经超过 6 分钟，本次挑战失败。",
@@ -747,6 +790,39 @@ class ChallengeRuntimeMixin:
             total_faults,
             f"{round_summary}\n{session.challenge_name} 无限段结束。",
             f"{self._format_records(session.records)}\n通关曲数 {cleared_charts}，总分 {session.total_score}，总错数 {total_faults}，最终血量 {self._format_hp(session, session.hp)}。",
+        )
+
+    def _record_infinite_abandon(
+        self,
+        user_id: str,
+        session: ChallengeSession,
+        now: datetime,
+        reason: str,
+    ) -> Optional[str]:
+        if session.challenge_type != "infinite" or not session.records:
+            return None
+
+        total_faults = sum(record.faults for record in session.records)
+        cleared_charts = self._infinite_cleared_charts(session)
+        stats = self.stats_store.record_completed(
+            user_id,
+            session.challenge_name,
+            session.total_score,
+            False,
+            now,
+            clear_type=session.clear_type,
+            total_faults=total_faults,
+            challenge_type=session.challenge_type,
+            cleared_charts=cleared_charts,
+        )
+        best_score = stats["best_scores"][0] if stats.get("best_scores") else {}
+        best_cleared = int(best_score.get("cleared_charts", 0))
+        best_total = int(best_score.get("score", session.total_score))
+        return (
+            f"{reason}\n已记录本次无限段成绩：通关 {cleared_charts} 首，"
+            f"总分 {session.total_score}，总错数 {total_faults}。"
+            f"\n{session.challenge_name} 个人最佳通关 {best_cleared} 首，"
+            f"个人最高总分 {best_total}。"
         )
 
     def _finish_timed(
