@@ -3,7 +3,7 @@ Configurable Arcaea challenge state machine.
 
 This module is independent from any QQ bot framework. Wire framework events to
 ChallengeManager.start(), handle_recent_text(), handle_manual_score(), finish(),
-cancel(), and check_timeout().
+reset(), cancel(), and check_timeout().
 """
 
 from __future__ import annotations

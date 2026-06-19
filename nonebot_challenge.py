@@ -504,6 +504,31 @@ async def _handle_cancel(bot: Bot, event: MessageEvent) -> None:
     await _finish_to_user(cancel_challenge, event, user_id, response.message)
 
 
+async def _is_reset_challenge(event: Event) -> bool:
+    if not isinstance(event, MessageEvent):
+        return False
+    return event.is_tome() and _normalized_text(event) == "reset"
+
+
+reset_challenge = on_message(
+    Rule(_is_reset_challenge),
+    priority=10,
+    block=True,
+)
+
+
+@reset_challenge.handle()
+async def _handle_reset(bot: Bot, event: MessageEvent) -> None:
+    if await _check_event_timeout(bot, event):
+        return
+
+    user_id = _user_id(event)
+    response = manager.reset(user_id)
+    if response.message:
+        _remember_context(event)
+        await _finish_to_user(reset_challenge, event, user_id, response.message)
+
+
 async def _is_status_challenge(event: Event) -> bool:
     if not isinstance(event, MessageEvent):
         return False

@@ -141,6 +141,49 @@ class ChallengeRuntimeMixin:
             )
         return self._finish_timed(user_id, session, now, "用户提前结算。")
 
+    def reset(self, user_id: str, now: Optional[datetime] = None) -> ChallengeResponse:
+        now = now or datetime.now()
+        session = self.sessions.get(user_id)
+        if session is None:
+            return ChallengeResponse(status="reset_ignored", message="")
+        if (
+            session.challenge_type != "random"
+            or session.current_index != 0
+            or session.records
+            or session.recent_text_received_at is not None
+            or session.pending_manual_target is not None
+        ):
+            return ChallengeResponse(
+                status="reset_ignored",
+                message="",
+                session=session,
+            )
+
+        target = session.current_target
+        target_key = _chart_key(target)
+        replacement = self._replacement_random_target(session, target_key)
+        if replacement is None:
+            return ChallengeResponse(
+                status="reset_ignored",
+                message="",
+                session=session,
+            )
+
+        session.random_excluded_chart_keys.add(target_key)
+        session.targets[0] = replacement
+        session.pending_manual_target = None
+        session.recent_text_received_at = None
+        session.recent_text_raw = ""
+        session.round_announced_at = now
+        return ChallengeResponse(
+            status="reset",
+            message=self._format_target_message(
+                session,
+                prefix="已重新抽取第一首，本轮 6 分钟计时已重置。",
+            ),
+            session=session,
+        )
+
     def check_timeout(
         self, user_id: str, now: Optional[datetime] = None
     ) -> ChallengeResponse:

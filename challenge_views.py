@@ -34,6 +34,7 @@ class ChallengeViewsMixin:
             "@ARClass /cha <挑战名称> help：查看段位规则说明。\n"
             "@ARClass status：查看当前挑战状态。\n"
             "@ARClass cancel：中止当前挑战，本次判定失败且不写入成绩。\n"
+            "@ARClass reset：随机段位第一首未游玩时重新抽取第一首。\n"
             "@ARClass finish：提前结算限时段位。\n"
             "@ARClass /query：查询自己的段位记录。\n"
             "@ARClass /rank <段位名>：查看指定段位排行榜。\n"

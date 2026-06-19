@@ -7,7 +7,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
+import scoring
 from challenge import ChallengeManager, ChallengeResponse
+from challenge_recent import _chart_key
 from challenge_store import ChallengeStatsStore
 
 
@@ -167,6 +169,129 @@ class ChallengeRuntimeRegressionTests(unittest.TestCase):
                 response = manager.check_timeout(user_id)
                 self.assertEqual(response.status, "waiting")
                 self.assertIn("/a song", response.message)
+
+    def test_random_reset_replaces_first_target_and_can_finish(self) -> None:
+        manager = self.manager()
+        definition = self.first_definition(manager, "random")
+        user_id = "reset-user"
+        started_at = datetime(2026, 1, 1, 12, 0, 0)
+        reset_at = datetime(2026, 1, 1, 12, 2, 0)
+        self.assertEqual(
+            manager.start(user_id, definition.name, now=started_at).status,
+            "started",
+        )
+        original_targets = list(manager.sessions[user_id].targets)
+        original_first_key = _chart_key(original_targets[0])
+
+        response = manager.reset(user_id, now=reset_at)
+
+        session = manager.sessions[user_id]
+        self.assertEqual(response.status, "reset")
+        self.assertIn("已重新抽取第一首", response.message)
+        self.assertIn("/a recent text", response.message)
+        self.assertNotEqual(_chart_key(session.targets[0]), original_first_key)
+        self.assertEqual(session.targets[1:], original_targets[1:])
+        self.assertIn(original_first_key, session.random_excluded_chart_keys)
+        self.assertEqual(session.round_announced_at, reset_at)
+
+        finish = self.complete_current_ordered_challenge(
+            manager, user_id, datetime(2026, 1, 1, 12, 3, 0)
+        )
+        self.assertEqual(finish.status, "finished_passed")
+        self.assertTrue(
+            self.read_stats()["users"][user_id]["challenges"][definition.name][
+                "best_scores"
+            ][0]["passed"]
+        )
+
+    def test_reset_ignores_non_random_or_played_states(self) -> None:
+        for challenge_type in ("fixed", "timed", "infinite"):
+            with self.subTest(challenge_type=challenge_type):
+                manager = self.manager()
+                definition = next(
+                    (
+                        item
+                        for item in manager.challenge_store.definitions()
+                        if item.type == challenge_type
+                    ),
+                    None,
+                )
+                if definition is None:
+                    continue
+                user_id = f"reset-{challenge_type}"
+                self.assertEqual(manager.start(user_id, definition.name).status, "started")
+                targets = list(manager.sessions[user_id].targets)
+
+                response = manager.reset(user_id)
+
+                self.assertEqual(response.status, "reset_ignored")
+                self.assertEqual(response.message, "")
+                self.assertEqual(manager.sessions[user_id].targets, targets)
+
+        manager = self.manager()
+        definition = self.first_definition(manager, "random")
+        self.assertEqual(manager.start("reset-round-two", definition.name).status, "started")
+        first_target = manager.sessions["reset-round-two"].current_target
+        self.assertEqual(
+            manager.handle_recent_text("reset-round-two", recent_text(first_target)).status,
+            "round_completed",
+        )
+        second_target = manager.sessions["reset-round-two"].current_target
+        response = manager.reset("reset-round-two")
+        self.assertEqual(response.status, "reset_ignored")
+        self.assertEqual(response.message, "")
+        self.assertEqual(manager.sessions["reset-round-two"].current_target, second_target)
+
+        manager = self.manager()
+        self.assertEqual(manager.start("reset-recent", definition.name).status, "started")
+        target = manager.sessions["reset-recent"].current_target
+        manager.sessions["reset-recent"].recent_text_received_at = datetime.now()
+        response = manager.reset("reset-recent")
+        self.assertEqual(response.status, "reset_ignored")
+        self.assertEqual(response.message, "")
+        self.assertEqual(manager.sessions["reset-recent"].current_target, target)
+
+        manager = self.manager()
+        self.assertEqual(manager.start("reset-manual", definition.name).status, "started")
+        target = manager.sessions["reset-manual"].current_target
+        manager.sessions["reset-manual"].pending_manual_target = target
+        response = manager.reset("reset-manual")
+        self.assertEqual(response.status, "reset_ignored")
+        self.assertEqual(response.message, "")
+        self.assertEqual(manager.sessions["reset-manual"].current_target, target)
+
+    def test_random_reset_excludes_previous_first_targets_and_candidate_exhaustion(self) -> None:
+        manager = self.manager()
+        definition = self.first_definition(manager, "random")
+        user_id = "reset-repeat"
+        self.assertEqual(manager.start(user_id, definition.name).status, "started")
+        first_key = _chart_key(manager.sessions[user_id].current_target)
+
+        self.assertEqual(manager.reset(user_id).status, "reset")
+        second_key = _chart_key(manager.sessions[user_id].current_target)
+        self.assertNotEqual(second_key, first_key)
+        self.assertEqual(manager.reset(user_id).status, "reset")
+        third_key = _chart_key(manager.sessions[user_id].current_target)
+        self.assertNotIn(third_key, {first_key, second_key})
+
+        manager = self.manager()
+        user_id = "reset-exhausted"
+        self.assertEqual(manager.start(user_id, definition.name).status, "started")
+        session = manager.sessions[user_id]
+        current_target_keys = {_chart_key(target) for target in session.targets}
+        session.random_excluded_chart_keys.update(
+            _chart_key(song)
+            for song in scoring.get_db().songs
+            if definition.level_min <= float(song["level"]) <= definition.level_max
+            and _chart_key(song) not in current_target_keys
+        )
+        current_target = session.current_target
+
+        response = manager.reset(user_id)
+
+        self.assertEqual(response.status, "reset_ignored")
+        self.assertEqual(response.message, "")
+        self.assertEqual(session.current_target, current_target)
 
     def test_infinite_cancel_after_clears_records_score(self) -> None:
         manager = self.manager()
