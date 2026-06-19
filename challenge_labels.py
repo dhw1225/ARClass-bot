@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import scoring
 from challenge_models import ChallengeDefinition, ChallengeSession
 
 
@@ -72,8 +73,25 @@ def format_round_label(session: ChallengeSession) -> str:
     return f"第 {session.round_no}/{session.total_rounds} 首"
 
 
+def display_song_name(song_or_name: dict | str, difficulty: str | None = None) -> str:
+    if isinstance(song_or_name, dict):
+        song = song_or_name
+    elif difficulty is not None:
+        song = scoring.get_db().get_by_name_and_difficulty(song_or_name, difficulty)
+    else:
+        song = scoring.get_db().get_by_name(song_or_name)
+
+    if song is not None:
+        for alias in song.get("aliases", []):
+            alias_text = str(alias).strip()
+            if alias_text:
+                return alias_text
+        return str(song["name"])
+    return str(song_or_name)
+
+
 def format_song(song: dict) -> str:
-    return f"{song['name']} [{song['difficulty']}] 定数 {song['level']}"
+    return f"{display_song_name(song)} [{song['difficulty']}] 定数 {song['level']}"
 
 
 def format_hp(session: ChallengeSession, hp: int) -> str:

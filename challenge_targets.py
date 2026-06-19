@@ -6,6 +6,7 @@ from typing import Optional
 
 import scoring
 from challenge_models import ChallengeDefinition, ChallengeSession
+from challenge_labels import display_song_name
 from challenge_recent import _chart_key
 
 
@@ -113,5 +114,5 @@ def find_timed_target(session: ChallengeSession, song: str, difficulty: str) -> 
 
 def format_target_list(targets: list[dict]) -> str:
     return "、".join(
-        f"{target['name']} [{target['difficulty']}]" for target in targets
+        f"{display_song_name(target)} [{target['difficulty']}]" for target in targets
     )

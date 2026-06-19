@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import Optional
 
 import scoring
+from challenge_labels import display_song_name
 from challenge_models import ChallengeDefinition, ChallengeResponse, ChallengeSession, RecentTextResult, RoundRecord, TimedChartResult
 from challenge_recent import (
     MAX_SCORE,
@@ -763,7 +764,8 @@ class ChallengeRuntimeMixin:
         if not updates:
             updates.append("未刷新最佳记录")
         message = (
-            f"已记录 {score_result['song']} [{score_result['difficulty']}] "
+            f"已记录 {display_song_name(score_result['song'], score_result['difficulty'])} "
+            f"[{score_result['difficulty']}] "
             f"{score_result['score']:08d}，{score_result['faults']} 错，{'，'.join(updates)}。"
             f"\n进度 {submitted_count}/{session.total_rounds}，剩余 {remaining} 秒。"
             f"{self._format_score_average_lines(session)}"

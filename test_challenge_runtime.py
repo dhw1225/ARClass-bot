@@ -9,6 +9,8 @@ from tempfile import TemporaryDirectory
 
 import scoring
 from challenge import ChallengeManager, ChallengeResponse
+from challenge_labels import display_song_name, format_song
+from challenge_models import ChallengeSession, RoundRecord, TimedChartResult
 from challenge_recent import _chart_key
 from challenge_store import ChallengeStatsStore
 
@@ -49,6 +51,12 @@ class ChallengeRuntimeRegressionTests(unittest.TestCase):
             if item.type == challenge_type
         )
 
+    def alias_song(self) -> dict:
+        return next(song for song in scoring.get_db().songs if song.get("aliases"))
+
+    def no_alias_song(self) -> dict:
+        return next(song for song in scoring.get_db().songs if not song.get("aliases"))
+
     def complete_current_ordered_challenge(
         self, manager: ChallengeManager, user_id: str, now: datetime
     ) -> ChallengeResponse:
@@ -79,6 +87,90 @@ class ChallengeRuntimeRegressionTests(unittest.TestCase):
         self.assertEqual(best["cleared_charts"], 4)
         self.assertEqual(best["score"], 40_000_000)
         self.assertEqual(best["total_faults"], 0)
+
+    def test_song_display_prefers_alias_and_keeps_canonical_logic_names(self) -> None:
+        alias_song = self.alias_song()
+        no_alias_song = self.no_alias_song()
+        alias = alias_song["aliases"][0]
+
+        self.assertEqual(display_song_name(alias_song), alias)
+        self.assertEqual(display_song_name(alias_song["name"], alias_song["difficulty"]), alias)
+        self.assertEqual(display_song_name(no_alias_song), no_alias_song["name"])
+        self.assertIn(f"{alias} [{alias_song['difficulty']}]", format_song(alias_song))
+
+    def test_visible_messages_use_alias_song_names(self) -> None:
+        manager = self.manager()
+        definition = self.first_definition(manager, "random")
+        alias_song = self.alias_song()
+        alias = alias_song["aliases"][0]
+        user_id = "alias-display"
+        self.assertEqual(manager.start(user_id, definition.name).status, "started")
+        session = manager.sessions[user_id]
+        session.targets = [alias_song]
+        session.timed_results = {
+            _chart_key(alias_song): TimedChartResult(
+                song=alias_song["name"],
+                difficulty=alias_song["difficulty"],
+                level=alias_song["level"],
+                notes=alias_song["notes"],
+            )
+        }
+
+        waiting = manager.check_timeout(user_id).message
+        self.assertIn(alias, waiting)
+        self.assertIn(f"/a song {alias}", waiting)
+        self.assertNotIn(alias_song["name"], waiting)
+
+        self.assertIn(alias, manager._format_target_list([alias_song]))
+        self.assertIn(alias, manager._format_timed_progress(session))
+        session.timed_results[_chart_key(alias_song)].submission_count = 1
+        self.assertIn(alias, manager._format_timed_progress(session))
+
+        score_result = scoring.query(
+            alias_song["name"], 10_000_000, difficulty=alias_song["difficulty"]
+        )
+        assert score_result is not None
+        summary = manager._format_round_summary(session, score_result, 10, 10)
+        self.assertIn(alias, summary)
+        self.assertNotIn(alias_song["name"], summary)
+
+        records = manager._format_records(
+            [
+                RoundRecord(
+                    song=alias_song["name"],
+                    difficulty=alias_song["difficulty"],
+                    level=alias_song["level"],
+                    notes=alias_song["notes"],
+                    score=10_000_000,
+                    faults=0,
+                    max_pure=alias_song["notes"],
+                    hp_before=10,
+                    hp_after=10,
+                    submitted_at="2026-01-01T12:00:00",
+                )
+            ]
+        )
+        self.assertIn(alias, records)
+        self.assertNotIn(alias_song["name"], records)
+
+        timed_session = ChallengeSession(
+            user_id="timed-alias",
+            challenge_name="timed",
+            challenge_type="timed",
+            clear_type="hp",
+            started_at=datetime(2026, 1, 1, 12, 0, 0),
+            targets=[alias_song],
+            initial_hp=10,
+            time_limit_minutes=30,
+        )
+        timed_session.timed_results = session.timed_results
+        timed_message = manager._format_session_message(
+            timed_session,
+            prefix="timed start",
+            now=datetime(2026, 1, 1, 12, 0, 0),
+        )
+        self.assertIn(alias, timed_message)
+        self.assertNotIn(alias_song["name"], timed_message)
 
     def test_random_and_fixed_success_write_stats(self) -> None:
         for challenge_type in ("random", "fixed"):

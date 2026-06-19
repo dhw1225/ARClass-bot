@@ -46,6 +46,23 @@ class ChallengeRecentMatchingTests(unittest.TestCase):
                 self.assert_recent_matches(name, difficulty)
                 self.assert_unavailable_matches(name, difficulty)
 
+    def test_alias_song_names_match_canonical_chart(self) -> None:
+        song = next(song for song in scoring.get_db().songs if song.get("aliases"))
+        alias = song["aliases"][0]
+        difficulty = str(song["difficulty"]).upper()
+
+        parsed_recent = parse_recent_text(self.recent_text(alias, difficulty))
+        self.assertEqual(parsed_recent.song, song["name"])
+        self.assertEqual(parsed_recent.difficulty, difficulty)
+        self.assertEqual(parsed_recent.match_confidence, 1.0)
+
+        parsed_unavailable = parse_unavailable_song_text(
+            self.unavailable_text(alias, difficulty)
+        )
+        self.assertEqual(parsed_unavailable.song, song["name"])
+        self.assertEqual(parsed_unavailable.difficulty, difficulty)
+        self.assertEqual(parsed_unavailable.match_confidence, 1.0)
+
     def test_all_exact_chart_names_match_recent_and_unavailable_text(self) -> None:
         for song in scoring.get_db().songs:
             name = str(song["name"])

@@ -10,6 +10,7 @@ from challenge_labels import (
     challenge_type_label,
     challenge_type_short_label,
     clear_type_label,
+    display_song_name,
     format_hp,
     format_round_label,
     format_song,
@@ -386,7 +387,8 @@ class ChallengeViewsMixin:
         fault_label = "严格错数" if session.strict_faults else "错"
         base = (
             f"{self._format_round_label(session)}完成："
-            f"{score_result['song']} [{score_result['difficulty']}] "
+            f"{display_song_name(score_result['song'], score_result['difficulty'])} "
+            f"[{score_result['difficulty']}] "
             f"{score_result['score']:08d}，{score_result['faults']} {fault_label}"
         )
         if session.clear_type == "hp":
@@ -506,7 +508,7 @@ class ChallengeViewsMixin:
         if session.challenge_type not in {"random", "infinite"}:
             return ""
         return (
-            f"\n若目标未解锁，可让 Yurisaki 查询 /a song {session.current_target['name']}；"
+            f"\n若目标未解锁，可让 Yurisaki 查询 /a song {display_song_name(session.current_target)}；"
             "ARClass 识别未游玩回复后会切换目标并重置计时。"
         )
 
@@ -577,7 +579,8 @@ class ChallengeViewsMixin:
         lines = ["本次成绩："]
         for index, record in enumerate(records, 1):
             lines.append(
-                f"{index}. {record.song} [{record.difficulty}] "
+                f"{index}. {display_song_name(record.song, record.difficulty)} "
+                f"[{record.difficulty}] "
                 f"{record.score:08d}，{record.faults} 错"
             )
         return "\n".join(lines)
@@ -587,13 +590,12 @@ class ChallengeViewsMixin:
         lines = []
         for index, target in enumerate(session.targets, 1):
             result = session.timed_results[_chart_key(target)]
+            target_label = f"{display_song_name(target)} [{target['difficulty']}]"
             if result.submission_count == 0:
-                lines.append(
-                    f"{index}. {target['name']} [{target['difficulty']}] 未提交"
-                )
+                lines.append(f"{index}. {target_label} 未提交")
             else:
                 lines.append(
-                    f"{index}. {target['name']} [{target['difficulty']}] "
+                    f"{index}. {target_label} "
                     f"最高 {result.best_score:08d}，最低 {result.settled_faults} 错，提交 {result.submission_count} 次"
                 )
         return "\n".join(lines)
