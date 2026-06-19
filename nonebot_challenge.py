@@ -13,9 +13,10 @@ import re
 from dataclasses import dataclass
 from typing import Optional
 
-from nonebot import get_bots, get_driver, on_command, on_message
+from nonebot import get_bots, get_driver, logger, on_command, on_message
 from nonebot.adapters.onebot.v11 import Bot, Event, Message, MessageEvent, MessageSegment
 from nonebot.adapters.onebot.v11.exception import ActionFailed
+from nonebot.exception import FinishedException
 from nonebot.params import CommandArg
 from nonebot.permission import SUPERUSER
 from nonebot.rule import Rule
@@ -138,7 +139,16 @@ async def _send_to_context(bot: Bot, context: ReplyContext, message: str) -> Non
 
 async def _finish_to_user(matcher, event: MessageEvent, user_id: str, message: str) -> None:
     context = _context_for_user(event, user_id)
-    await matcher.finish(_message_for_context(context, message))
+    try:
+        await matcher.finish(_message_for_context(context, message))
+    except ActionFailed as exc:
+        logger.warning(
+            "Failed to send challenge response: "
+            f"user_id={user_id}, group_id={context.group_id}, "
+            f"retcode={getattr(exc, 'retcode', None)}, "
+            f"message={getattr(exc, 'message', exc)}"
+        )
+        raise FinishedException from None
 
 
 async def _send_event_to_user(bot: Bot, event: MessageEvent, user_id: str, message: str) -> None:

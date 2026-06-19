@@ -46,6 +46,11 @@ def _normalize_song(value: str) -> str:
     return re.sub(r"[\s'\"`~!@#$%^&*_=+|\\/()[\]{}:;,.<>?，。・-]+", "", value)
 
 
+def _exact_song_key(value: str) -> str:
+    value = unicodedata.normalize("NFKC", value).casefold()
+    return re.sub(r"\s+", " ", value).strip()
+
+
 def _extract_difficulty(value: str) -> Optional[str]:
     normalized = unicodedata.normalize("NFKC", value).strip().upper()
     return DIFFICULTY_ALIASES.get(normalized)
@@ -126,6 +131,23 @@ def _match_ambiguous_song_by_potential(
 def _match_song(
     raw_song: str, difficulty: Optional[str] = None
 ) -> tuple[Optional[str], float]:
+    exact_key = _exact_song_key(raw_song)
+    exact_matches: list[str] = []
+    if exact_key:
+        for song in scoring.get_db().songs:
+            song_difficulty = str(song["difficulty"]).upper()
+            if difficulty is not None and song_difficulty != difficulty:
+                continue
+            song_name = str(song["name"])
+            for alias in _song_match_aliases(song, song_difficulty):
+                if (
+                    _exact_song_key(alias) == exact_key
+                    and song_name not in exact_matches
+                ):
+                    exact_matches.append(song_name)
+        if len(exact_matches) == 1:
+            return exact_matches[0], 1.0
+
     normalized = _normalize_song(raw_song)
     if not normalized:
         return None, 0.0
