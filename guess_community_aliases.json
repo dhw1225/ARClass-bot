@@ -1,0 +1,995 @@
+{
+  "_meta": {
+    "source": "https://wiki.arcaea.cn/index.php/User:WYXkk/曲目常见别称",
+    "source_title": "User:WYXkk/曲目常见别称",
+    "source_revision": 75756,
+    "source_revision_timestamp": "2026-03-15T05:27:28Z",
+    "source_game_version": "v6.6.1",
+    "license": "CC BY-NC-SA (see source site terms)",
+    "filter_policy": "non-empty aliases; struck/deleted, difficulty-specific, unavailable, and reserved-command values excluded",
+    "community_song_count": 164,
+    "community_alias_count": 217,
+    "initialism_song_count": 170,
+    "initialism_alias_count": 170,
+    "short_title_song_count": 27,
+    "short_title_alias_count": 27
+  },
+  "aliases": {
+    "#1f1e33": [
+      "色号"
+    ],
+    "+1(UNKNOWN)-NUMBER": [
+      "1un"
+    ],
+    "10pt8ion": [
+      "10pt"
+    ],
+    "3rd Avenue": [
+      "3a"
+    ],
+    "8-EM": [
+      "8e",
+      "atm"
+    ],
+    "99 Glooms": [
+      "99感冒灵",
+      "9g"
+    ],
+    "[X]": [
+      "x"
+    ],
+    "Abstruse Dilemma": [
+      "ad"
+    ],
+    "Aegleseeker": [
+      "光追",
+      "追光者"
+    ],
+    "Aether Crest: Astral": [
+      "aca"
+    ],
+    "AI[UE]OON": [
+      "auo"
+    ],
+    "Aleph-0": [
+      "a0"
+    ],
+    "Alexandrite": [
+      "变石"
+    ],
+    "Altair (feat. *spiLa*)": [
+      "Altair"
+    ],
+    "ALTER EGO": [
+      "ae",
+      "绿ae"
+    ],
+    "AMAZING MIGHTYYYY!!!!": [
+      "am"
+    ],
+    "And Revive The Melody": [
+      "rm",
+      "再打歌",
+      "别打歌2"
+    ],
+    "Antithese": [
+      "反命题"
+    ],
+    "Anökumene": [
+      "无人区"
+    ],
+    "Arcana Eden": [
+      "ae"
+    ],
+    "Arghena": [
+      "arg"
+    ],
+    "Ashen 6oundary": [
+      "a6",
+      "ashen boundary"
+    ],
+    "Astra walkthrough": [
+      "aw"
+    ],
+    "Astral Quantization": [
+      "aq"
+    ],
+    "Astral tale": [
+      "at"
+    ],
+    "AttraqtiA": [
+      "att",
+      "attr"
+    ],
+    "Aurgelmir": [
+      "aur"
+    ],
+    "Axium Crisis": [
+      "ac"
+    ],
+    "Back to Basics": [
+      "b2b",
+      "btb"
+    ],
+    "BATTLE NO.1": [
+      "bn1",
+      "打架第一名"
+    ],
+    "Beautiful Dreamer": [
+      "bd"
+    ],
+    "Beside You": [
+      "by"
+    ],
+    "Black MInD": [
+      "bm",
+      "黑脑"
+    ],
+    "Black Mirror on the Wall": [
+      "bmw"
+    ],
+    "BlazinG AIR": [
+      "ba"
+    ],
+    "blue comet": [
+      "bc"
+    ],
+    "Blue Rose": [
+      "br"
+    ],
+    "Bookmaker (2D Version)": [
+      "b2",
+      "Bookmaker",
+      "造书"
+    ],
+    "Brand new world": [
+      "bnw"
+    ],
+    "Breach of Faith": [
+      "bf",
+      "bof"
+    ],
+    "BREaK! BREaK! BREaK!": [
+      "bbb"
+    ],
+    "BUCHiGiRE Berserker": [
+      "狂战士"
+    ],
+    "Bullet Waiting for Me (James Landino remix)": [
+      "Bullet Waiting for Me"
+    ],
+    "c.s.q.n.": [
+      "cqn"
+    ],
+    "Call My Name feat. Yukacco": [
+      "Call My Name",
+      "cmny"
+    ],
+    "Callima Karma": [
+      "ck"
+    ],
+    "Chronicle": [
+      "编年史"
+    ],
+    "Chronostasis": [
+      "时停"
+    ],
+    "Coastal Highway": [
+      "ch"
+    ],
+    "conflict": [
+      "公交车"
+    ],
+    "corps-sans-organes": [
+      "cso",
+      "里黄"
+    ],
+    "Crimson Quartz": [
+      "cq"
+    ],
+    "Crimson Throne": [
+      "ct",
+      "绯红王座"
+    ],
+    "CROSS†SOUL": [
+      "穿魂"
+    ],
+    "cry of viyella": [
+      "cv"
+    ],
+    "Crystal Gravity": [
+      "cg"
+    ],
+    "Cyaegha": [
+      "绿魔王"
+    ],
+    "cyanine": [
+      "花青"
+    ],
+    "DA'AT -The First Seeker of Souls-": [
+      "daat",
+      "dafss",
+      "大特"
+    ],
+    "Dantalion": [
+      "蛋挞",
+      "蛋挞林"
+    ],
+    "Dazzle hop": [
+      "dh"
+    ],
+    "Defection": [
+      "背叛"
+    ],
+    "Dement ~after legend~": [
+      "dal"
+    ],
+    "Designant.": [
+      "蚂蚁",
+      "设计蚂蚁"
+    ],
+    "Devillic Sphere": [
+      "ds"
+    ],
+    "Dies irae": [
+      "di",
+      "神怒之日"
+    ],
+    "Distorted Fate": [
+      "df"
+    ],
+    "Don't Die": [
+      "别死"
+    ],
+    "Don't Fight The Music": [
+      "dfm",
+      "别打歌"
+    ],
+    "Dot to Dot feat. shully": [
+      "dds",
+      "Dot to Dot",
+      "dot to dot"
+    ],
+    "Dream goes on": [
+      "dg"
+    ],
+    "Dreamin' Attraction!!": [
+      "da",
+      "美年达"
+    ],
+    "dropdead": [
+      "摔死",
+      "超死"
+    ],
+    "Dual Doom Deathmatch": [
+      "ddd"
+    ],
+    "Dull Blade": [
+      "db"
+    ],
+    "Désive": [
+      "desive"
+    ],
+    "Ego Eimi": [
+      "ee"
+    ],
+    "Einherjar Joker": [
+      "ej"
+    ],
+    "Empire of Winter": [
+      "ew"
+    ],
+    "enchanted love": [
+      "el"
+    ],
+    "End of The Moonlight": [
+      "em"
+    ],
+    "ENERGY SYNERGY MATRIX": [
+      "ESM",
+      "esm"
+    ],
+    "Eternity Break": [
+      "eb"
+    ],
+    "Ether Strike": [
+      "es",
+      "以太冲击"
+    ],
+    "Evoltex (poppi'n mix)": [
+      "epnm",
+      "Evoltex"
+    ],
+    "Faint Light (Arcaea Edit)": [
+      "Faint Light",
+      "fla"
+    ],
+    "Fallensquare": [
+      "塌方"
+    ],
+    "Far Away Light": [
+      "fal"
+    ],
+    "Feels So Right feat. Renko": [
+      "Feels So Right",
+      "fsrr"
+    ],
+    "Floating World": [
+      "fw"
+    ],
+    "Fracture Ray": [
+      "fr",
+      "骨折",
+      "骨折光"
+    ],
+    "Free Myself": [
+      "fm"
+    ],
+    "FREEF4LL": [
+      "自由落体"
+    ],
+    "G e n g a o z o": [
+      "gengaozo",
+      "跟哥走"
+    ],
+    "Galaxy Friends": [
+      "gf",
+      "银河朋友"
+    ],
+    "Garakuta Doll Play": [
+      "gdp"
+    ],
+    "Gekka (Short Version)": [
+      "Gekka",
+      "gekka",
+      "gs"
+    ],
+    "Genesis (CHUNITHM)": [
+      "gc",
+      "Genesis"
+    ],
+    "Genesis (Tone Sphere)": [
+      "Genesis",
+      "gts"
+    ],
+    "GENOCIDER": [
+      "屠杀者"
+    ],
+    "GIMME DA BLOOD": [
+      "gdb",
+      "给我大血"
+    ],
+    "Give Me a Nightmare": [
+      "gmn"
+    ],
+    "GLORY：ROAD": [
+      "gr",
+      "里红"
+    ],
+    "Good bye, Merry-Go-Round.": [
+      "gbmgr",
+      "旋转木马"
+    ],
+    "GOODTEK (Arcaea Edit)": [
+      "ga",
+      "GOODTEK",
+      "goodtek",
+      "良锤"
+    ],
+    "Got hive of Ra": [
+      "ghr"
+    ],
+    "Grievous Lady": [
+      "病女"
+    ],
+    "Grimheart": [
+      "冷酷的心"
+    ],
+    "Halcyon": [
+      "翡翠鸡"
+    ],
+    "Hall of Mirrors": [
+      "hm"
+    ],
+    "Head BONK ache": [
+      "hba"
+    ],
+    "Heart Jackin'": [
+      "hj"
+    ],
+    "Heavenly caress": [
+      "hc",
+      "圣抚"
+    ],
+    "Heavensdoor": [
+      "黑蚊子",
+      "黑蚊子多"
+    ],
+    "HYPER VISION": [
+      "hv"
+    ],
+    "I want You": [
+      "iwy"
+    ],
+    "I've heard it said": [
+      "ihis"
+    ],
+    "INFINITE DIMENSION": [
+      "id",
+      "无限维度"
+    ],
+    "Infinite Strife,": [
+      "is",
+      "is,"
+    ],
+    "Infinity Heaven": [
+      "ih",
+      "无限天堂"
+    ],
+    "inkar-usi": [
+      "iu"
+    ],
+    "INTERNET YAMERO": [
+      "iy",
+      "互联网不要啊"
+    ],
+    "incomplete the one": [
+      "ito"
+    ],
+    "Inverted World": [
+      "iw",
+      "反转世界"
+    ],
+    "IZANA": [
+      "功夫高"
+    ],
+    "Kissing Lucifer": [
+      "kl",
+      "亲亲路西法"
+    ],
+    "La'qryma of the Wasteland": [
+      "laqryma",
+      "lqw",
+      "垃圾场"
+    ],
+    "Lament Rain": [
+      "拉面雨"
+    ],
+    "Last Celebration": [
+      "lc",
+      "大lc"
+    ],
+    "lastendconductor": [
+      "lastend"
+    ],
+    "Leave All Behind": [
+      "lab"
+    ],
+    "Let you DIVE! (nitro rmx)": [
+      "Let you DIVE!",
+      "lydn"
+    ],
+    "Let's Rock (Arcaea mix)": [
+      "Let's Rock",
+      "lram"
+    ],
+    "Lethal Voltage": [
+      "lv",
+      "致死电压"
+    ],
+    "Life is PIANO": [
+      "lip"
+    ],
+    "Lightning Screw": [
+      "闪电螺丝"
+    ],
+    "Lights of Muse": [
+      "lm"
+    ],
+    "Live Fast Die Young": [
+      "lfdy",
+      "活得快死得早",
+      "活快死早"
+    ],
+    "Lost Civilization": [
+      "lc",
+      "失落文明",
+      "小lc"
+    ],
+    "Lost Emotion feat. nomico": [
+      "len",
+      "Lost Emotion"
+    ],
+    "Lucid Traveler": [
+      "lt",
+      "lucid"
+    ],
+    "Löschen": [
+      "洛神",
+      "螺丝陈",
+      "loschen"
+    ],
+    "Magnolia": [
+      "木兰",
+      "木兰花"
+    ],
+    "Manic Jeer": [
+      "jeer",
+      "mj",
+      "妈你个鸡儿"
+    ],
+    "MANTIS (Arcaea Ultra-Bloodrush VIP)": [
+      "MANTIS",
+      "maubv"
+    ],
+    "Medusa": [
+      "美杜莎"
+    ],
+    "MEGALOVANIA": [
+      "狂妄之人"
+    ],
+    "MEGALOVANIA (Camellia Remix)": [
+      "mc",
+      "狂妄之花"
+    ],
+    "Memory Forest": [
+      "mf"
+    ],
+    "memoryfactory.lzh": [
+      "记忆工厂"
+    ],
+    "Meta-Mysteria": [
+      "meta"
+    ],
+    "Metallic Punisher": [
+      "金属惩罚者",
+      "金罚"
+    ],
+    "MIRROR - kamome sano remix": [
+      "mks"
+    ],
+    "Moonlight of Sand Castle": [
+      "msc"
+    ],
+    "MVURBD": [
+      "紫色心情"
+    ],
+    "My life is mine alone!": [
+      "mlima"
+    ],
+    "Nameless Passion": [
+      "np",
+      "无名热情"
+    ],
+    "NEO WINGS": [
+      "nw",
+      "新翼"
+    ],
+    "New York Back Raise": [
+      "nybr",
+      "纽约赌场"
+    ],
+    "next to you": [
+      "ny"
+    ],
+    "Nhelv": [
+      "你和驴",
+      "驴"
+    ],
+    "Nightmare": [
+      "梦魇"
+    ],
+    "Nirv lucE": [
+      "nl",
+      "表红"
+    ],
+    "No Way Back": [
+      "nwb"
+    ],
+    "NULL APOPHENIA": [
+      "na",
+      "null",
+      "里里黄"
+    ],
+    "Old School Salvage": [
+      "oss"
+    ],
+    "On And On!! feat. Jenga": [
+      "On And On!!"
+    ],
+    "One Last Drive": [
+      "old"
+    ],
+    "One Step Closer": [
+      "osc"
+    ],
+    "Oshama Scramble!": [
+      "牛奶"
+    ],
+    "ouroboros -twin stroke of the end-": [
+      "otse",
+      "衔尾蛇"
+    ],
+    "Overwhelm": [
+      "ow"
+    ],
+    "Paper Witch": [
+      "pw"
+    ],
+    "Paradox Palette": [
+      "pp"
+    ],
+    "Paranoid Arc": [
+      "pa"
+    ],
+    "Party Vinyl": [
+      "pv"
+    ],
+    "Pentiment": [
+      "喷嚏",
+      "喷嚏门"
+    ],
+    "PRAGMATISM": [
+      "实用主义",
+      "白复活",
+      "白复生",
+      "白魔王",
+      "白魔王byd"
+    ],
+    "Primeval Texture": [
+      "pt"
+    ],
+    "PRIMITIVE LIGHTS": [
+      "pl",
+      "原初光",
+      "原始光"
+    ],
+    "Purgatorium": [
+      "炼狱"
+    ],
+    "Purple Verse": [
+      "紫诗"
+    ],
+    "qualia -ideaesthesia-": [
+      "qi",
+      "qualia"
+    ],
+    "Quon (Lanota)": [
+      "ql",
+      "Quon"
+    ],
+    "Quon (WACCA)": [
+      "Quon",
+      "qw"
+    ],
+    "Rabbit In The Black Room": [
+      "rbr",
+      "黑兔"
+    ],
+    "Rain of Conflict in a Radiant Abyss": [
+      "rcra",
+      "对立雨"
+    ],
+    "Rays of Remnant": [
+      "ror",
+      "rr"
+    ],
+    "Red and Blue": [
+      "rb",
+      "红蓝",
+      "红蓝绿"
+    ],
+    "Remind the Souls (Short Version)": [
+      "Remind the Souls",
+      "rss"
+    ],
+    "Ringed Genesis": [
+      "rg"
+    ],
+    "Rise of the World": [
+      "rw",
+      "上升世界"
+    ],
+    "ROST PAGE GENE": [
+      "rpg"
+    ],
+    "SACRIFICE feat. ayame": [
+      "SACRIFICE"
+    ],
+    "Saint or Sinner": [
+      "sos"
+    ],
+    "Sakura Fubuki": [
+      "sf"
+    ],
+    "Sayonara Hatsukoi": [
+      "sh",
+      "再见初恋"
+    ],
+    "Scarlet Cage": [
+      "sc"
+    ],
+    "Scarlet Lance": [
+      "红枪"
+    ],
+    "Seclusion": [
+      "隐居"
+    ],
+    "Shades of Light in a Transcendent Realm": [
+      "sltr"
+    ],
+    "Sheriruth": [
+      "射日",
+      "射日如桃花",
+      "黑魔王"
+    ],
+    "Sheriruth (Laur Remix)": [
+      "黑老二"
+    ],
+    "Sign of \"10.5km\"": [
+      "s15"
+    ],
+    "Silent Rush": [
+      "sr"
+    ],
+    "Singularity": [
+      "奇点"
+    ],
+    "Small Cloud Sugar Candy": [
+      "scsc",
+      "小云糖糖"
+    ],
+    "Snow White": [
+      "sw",
+      "白雪公主"
+    ],
+    "SOUNDWiTCH": [
+      "音巫"
+    ],
+    "Spirit of the Dauntless": [
+      "sd",
+      "spirit"
+    ],
+    "STAGER (ALL STAGE CLEAR)": [
+      "sasc",
+      "STAGER"
+    ],
+    "STARGATE EXTREME": [
+      "se"
+    ],
+    "Stasis": [
+      "船"
+    ],
+    "Straight into the lights": [
+      "sil",
+      "直入光"
+    ],
+    "Strongholds": [
+      "要塞",
+      "强壮的长条"
+    ],
+    "Suomi": [
+      "索米"
+    ],
+    "SUPER AMBULANCE": [
+      "超级救护车"
+    ],
+    "SUPERNOVA": [
+      "超新星"
+    ],
+    "taboo tears you up 2017": [
+      "ttyu2"
+    ],
+    "Tempestissimo": [
+      "风暴"
+    ],
+    "TEmPTaTiON": [
+      "temp"
+    ],
+    "Testify": [
+      "ttf",
+      "测试如果歪",
+      "见证"
+    ],
+    "The Survivor (Game Edit)": [
+      "sg",
+      "The Survivor"
+    ],
+    "Third Sun": [
+      "三日"
+    ],
+    "Tic! Tac! Toe!": [
+      "ttt",
+      "tic tac toe"
+    ],
+    "Tie me down gently": [
+      "tmdg"
+    ],
+    "Tiferet": [
+      "体罚"
+    ],
+    "To the Milky Way": [
+      "mw",
+      "去银河"
+    ],
+    "Trap Crow": [
+      "tc",
+      "困鸦"
+    ],
+    "Trrricksters!!": [
+      "trrr"
+    ],
+    "Ultimate taste": [
+      "ut"
+    ],
+    "ultradiaxon-N3": [
+      "n3",
+      "un"
+    ],
+    "Undying Macula": [
+      "um"
+    ],
+    "UNKNOWN LEVELS": [
+      "ul",
+      "未知层级",
+      "未知等级"
+    ],
+    "Used to be": [
+      "ub"
+    ],
+    "Valhalla:0": [
+      "v0"
+    ],
+    "Vicious Heroism": [
+      "vah",
+      "vh",
+      "vhbyd",
+      "反vh"
+    ],
+    "Viola Illyria": [
+      "vi"
+    ],
+    "ViRTUS": [
+      "水神2"
+    ],
+    "Viyella's Tears": [
+      "维耶拉",
+      "维也拉",
+      "维耶拉之泪"
+    ],
+    "Vulcānus": [
+      "火神"
+    ],
+    "WAIT FOR DAWN": [
+      "wfd"
+    ],
+    "Waltz for Lorelei": [
+      "wfl"
+    ],
+    "We're All Gonna Die": [
+      "wagd",
+      "我们都会死",
+      "我们都要死"
+    ],
+    "Welcome, Queen of Fiction.": [
+      "wqf"
+    ],
+    "Wish Upon a Snow": [
+      "wus",
+      "祈雪",
+      "雪愿"
+    ],
+    "with U": [
+      "wu"
+    ],
+    "Won't Back Down": [
+      "wbd"
+    ],
+    "World Fragments III(radio edit)": [
+      "wfir",
+      "World Fragments",
+      "世界碎片"
+    ],
+    "World Vanquisher": [
+      "wv",
+      "世征",
+      "世界征服者",
+      "市政"
+    ],
+    "world.execute(me);": [
+      "wem"
+    ],
+    "Xxium and Purple haze": [
+      "xph"
+    ],
+    "Your voice so... feat. Such": [
+      "Your voice so...",
+      "yvss"
+    ],
+    "͟͝͞Ⅱ́̕": [
+      "ii"
+    ],
+    "αterlβus": [
+      "ab",
+      "aterlbus"
+    ],
+    "γuarδina": [
+      "gd",
+      "guardina"
+    ],
+    "τ (tau)": [
+      "τ"
+    ],
+    "ω4": [
+      "w4"
+    ],
+    "アリス・リデルに捧ぐ": [
+      "致爱丽丝"
+    ],
+    "ディストーション・ニンゲン": [
+      "扭曲人类"
+    ],
+    "プラシイボ♥バトラー": [
+      "placebo"
+    ],
+    "光速神授説 - Divine Light of Myriad -": [
+      "光速",
+      "光速神授说"
+    ],
+    "妖艶魔女 -trappola bewitching-": [
+      "妖艳魔女"
+    ],
+    "幻想のサテライト": [
+      "幻想卫星"
+    ],
+    "怒槌": [
+      "怒槌",
+      "怒锤"
+    ],
+    "患部で止まってすぐ溶ける　〜 狂気の優曇華院": [
+      "患部"
+    ],
+    "最強STRONGER": [
+      "最强"
+    ],
+    "最高の悪夢": [
+      "ybn"
+    ],
+    "業 -善なる神とこの世の悪について-": [
+      "业",
+      "业善"
+    ],
+    "烈華RESONANCE": [
+      "烈华"
+    ],
+    "無機質世界に彩を": [
+      "无机质"
+    ],
+    "狂恋ROMANCE": [
+      "狂恋"
+    ],
+    "狂言綺語": [
+      "狂言绮语"
+    ],
+    "神奈川電脳暗渠": [
+      "神奈川电脑暗渠"
+    ],
+    "竹": [
+      "竹"
+    ],
+    "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)": [
+      "緋色月下、狂咲ノ絶",
+      "绯色月下"
+    ],
+    "蜘蛛の糸": [
+      "蜘蛛丝"
+    ],
+    "魔王": [
+      "魔王"
+    ],
+    "黄昏の協奏曲": [
+      "黄昏协奏曲",
+      "黄昏的协奏曲"
+    ]
+  }
+}

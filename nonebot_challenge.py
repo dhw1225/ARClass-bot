@@ -23,12 +23,16 @@ from nonebot.rule import Rule
 from nonebot.typing import T_State
 
 from challenge import ChallengeManager, ChallengeResponse
+from guess_game import GuessCatalog, GuessGameManager, parse_guess_command
+from guess_image import render_guess_history
 
 
 manager = ChallengeManager()
-TIMEOUT_POLL_SECONDS = 20
+TIMEOUT_POLL_SECONDS = 10
 YURISAKI_BOT_IDS = {"3889054356"}
+GUESS_RESERVED_ANSWERS = {"status", "cancel", "reset", "finish"}
 maintenance_mode = False
+guess_manager = GuessGameManager(GuessCatalog.load())
 
 
 @dataclass(frozen=True)
@@ -87,6 +91,12 @@ def _plain_text(event: MessageEvent) -> str:
 
 def _normalized_text(event: MessageEvent) -> str:
     return re.sub(r"\s+", "", _plain_text(event)).casefold()
+
+
+def _is_group_message(event: MessageEvent) -> bool:
+    return getattr(event, "message_type", "") == "group" and getattr(
+        event, "group_id", None
+    ) is not None
 
 
 def _is_help_text(text: str) -> bool:
@@ -270,12 +280,178 @@ async def _timeout_loop() -> None:
             bot = bots[0]
             for user_id in _active_user_ids():
                 await _check_user_timeout(bot, user_id)
+            for group_id, answer in await guess_manager.collect_expired():
+                try:
+                    await bot.send_group_msg(
+                        group_id=int(group_id),
+                        message=f"猜曲游戏因 10 分钟无有效猜测而结束，正确答案是：{answer.title}",
+                    )
+                except ActionFailed as exc:
+                    logger.warning(
+                        "Failed to send guess timeout: "
+                        f"group_id={group_id}, retcode={getattr(exc, 'retcode', None)}"
+                    )
         await asyncio.sleep(TIMEOUT_POLL_SECONDS)
 
 
 @get_driver().on_startup
 async def _start_timeout_loop() -> None:
     asyncio.create_task(_timeout_loop())
+
+
+async def _is_guess_command(event: Event, state: T_State) -> bool:
+    if not isinstance(event, MessageEvent):
+        return False
+    if not _is_group_message(event) or not event.is_tome():
+        return False
+    action = parse_guess_command(_plain_text(event))
+    if action is None:
+        return False
+    state["guess_action"] = action
+    return True
+
+
+guess_command = on_message(
+    Rule(_is_guess_command),
+    priority=8,
+    block=True,
+)
+
+
+def _guess_user_is_admin(event: MessageEvent) -> bool:
+    user_id = _user_id(event)
+    if user_id in {str(value) for value in get_driver().config.superusers}:
+        return True
+    sender = getattr(event, "sender", None)
+    return str(getattr(sender, "role", "")) in {"admin", "owner"}
+
+
+@guess_command.handle()
+async def _handle_guess_command(event: MessageEvent, state: T_State) -> None:
+    group_id = str(getattr(event, "group_id"))
+    user_id = _user_id(event)
+    if state["guess_action"] == "start":
+        result = await guess_manager.start(group_id, user_id)
+        if result.status == "already_active":
+            message = "本群已有一局猜曲游戏正在进行。"
+        else:
+            prefix = ""
+            if result.status == "started_after_expiry" and result.answer is not None:
+                prefix = f"上一局已超时，正确答案是：{result.answer.title}\n"
+            message = prefix + (
+                "猜曲游戏已开始！请 @ARClass 并发送曲名或常用别名进行猜测。\n"
+                "每局最多 15 次有效猜测，10 分钟无有效猜测将自动结束。"
+            )
+    else:
+        result = await guess_manager.stop(
+            group_id, user_id, is_admin=_guess_user_is_admin(event)
+        )
+        if result.status == "no_game":
+            message = "本群当前没有进行中的猜曲游戏。"
+        elif result.status == "stop_forbidden":
+            message = "只有游戏发起者、群管理员或机器人管理员可以结束本局。"
+        else:
+            assert result.answer is not None
+            message = f"猜曲游戏已结束，正确答案是：{result.answer.title}"
+    await _finish_to_user(guess_command, event, user_id, message)
+
+
+async def _is_guess_answer(event: Event, state: T_State) -> bool:
+    if not isinstance(event, MessageEvent):
+        return False
+    if not _is_group_message(event) or not event.is_tome():
+        return False
+    group_id = str(getattr(event, "group_id"))
+    if group_id not in guess_manager.sessions:
+        return False
+    text = _plain_text(event).strip()
+    if (
+        not text
+        or text.startswith("/")
+        or text.casefold() in GUESS_RESERVED_ANSWERS
+    ):
+        return False
+    state["guess_text"] = text
+    return True
+
+
+guess_answer = on_message(
+    Rule(_is_guess_answer),
+    priority=30,
+    block=True,
+)
+
+
+@guess_answer.handle()
+async def _handle_guess_answer(bot: Bot, event: MessageEvent, state: T_State) -> None:
+    group_id = str(getattr(event, "group_id"))
+    user_id = _user_id(event)
+    result = await guess_manager.guess(group_id, str(state["guess_text"]))
+    if result.status == "expired":
+        assert result.answer is not None
+        await _finish_to_user(
+            guess_answer,
+            event,
+            user_id,
+            f"上一局已因超时结束，正确答案是：{result.answer.title}",
+        )
+    if result.status == "not_found":
+        await _finish_to_user(guess_answer, event, user_id, "找不到这首曲目，请检查曲名或别名。")
+    if result.status == "ambiguous":
+        await _finish_to_user(
+            guess_answer,
+            event,
+            user_id,
+            "该名称对应多首曲目，请输入更完整的名称：\n" + "\n".join(result.candidates),
+        )
+    if result.status == "candidates":
+        await _finish_to_user(
+            guess_answer,
+            event,
+            user_id,
+            "未能唯一确定曲目，你可能想猜：\n" + "\n".join(result.candidates),
+        )
+    if result.status == "duplicate":
+        assert result.guessed is not None
+        await _finish_to_user(
+            guess_answer,
+            event,
+            user_id,
+            f"{result.guessed.title} 已经猜过了，本次不计轮次。",
+        )
+    if result.status not in {"incorrect", "correct", "round_limit"}:
+        return
+    assert result.answer is not None
+    try:
+        image = await asyncio.to_thread(render_guess_history, result.history, result.answer)
+        message = MessageSegment.image(file=image)
+        if result.status == "correct":
+            message += MessageSegment.at(int(user_id)) + MessageSegment.text(
+                f"\n猜测成功！共使用 {result.rounds} 轮。"
+            )
+        elif result.status == "round_limit":
+            message += MessageSegment.text(
+                f"\n已达到 15 轮上限，正确答案是：{result.answer.title}"
+            )
+        await bot.send(event, message)
+    except (ActionFailed, OSError) as exc:
+        logger.warning(
+            "Failed to render/send guess history: "
+            f"group_id={group_id}, user_id={user_id}, rounds={result.rounds}, "
+            f"error={type(exc).__name__}"
+        )
+        failure_message = "猜测已记录，但历史图片发送失败，请稍后再试。"
+        if result.status == "correct":
+            failure_message = f"猜测成功！共使用 {result.rounds} 轮，但历史图片发送失败。"
+        elif result.status == "round_limit":
+            failure_message = f"历史图片发送失败；已达到 15 轮上限，正确答案是：{result.answer.title}"
+        await _finish_to_user(
+            guess_answer,
+            event,
+            user_id,
+            failure_message,
+        )
+    await guess_answer.finish()
 
 
 def _challenge_name_from_event(event: MessageEvent) -> Optional[str]:

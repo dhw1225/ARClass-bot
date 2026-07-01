@@ -1,0 +1,9311 @@
+[
+  {
+    "title": "#1f1e33",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 181.0,
+    "bpm_max": 181.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 9.2,
+      "FTR": 11.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "1f1e33"
+    ]
+  },
+  {
+    "title": "+1(UNKNOWN)-NUMBER",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "10pt8ion",
+    "pack": "Groove Coaster Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 128.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "1F√",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "3rd Avenue",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 8.1,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "7thSense",
+    "pack": "Maimai Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "8-EM",
+    "pack": "CHUNITHM Collaboration Chapter 4",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.3
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "99 Glooms",
+    "pack": "Cytus II Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "[X]",
+    "pack": "Maimai Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 162.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "(X)"
+    ]
+  },
+  {
+    "title": "Abstruse Dilemma",
+    "pack": "Lasting Eden",
+    "pack_type": "Main Story Act II",
+    "side": "光芒",
+    "bpm_min": 216.0,
+    "bpm_max": 216.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.9,
+      "FTR": 11.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Acheron",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 145.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Aegleseeker",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 234.0,
+    "bpm_max": 234.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 9.1,
+      "FTR": 11.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Aether Crest: Astral",
+    "pack": "CHUNITHM Collaboration Chapter 4",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 6.0,
+      "PRS": 8.9,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": 11.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Ai Drew",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "AI[UE]OON",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "AI UE OON"
+    ]
+  },
+  {
+    "title": "Aleph-0",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 35.0,
+    "bpm_max": 400.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.8,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Alexandrite",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 146.0,
+    "bpm_max": 146.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Alice à la mode",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 80.0,
+    "bpm_max": 134.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Alice's Suitcase",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Altair (feat. *spiLa*)",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Altale",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 83.0,
+    "bpm_max": 90.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 9.8,
+      "BYD": 10.0,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "ALTER EGO",
+    "pack": "Absolute Nihil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 6.5,
+      "PRS": 9.2,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": 11.3
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "AlterAle",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 220.0,
+    "bpm_max": 245.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "AlterGate",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 199.0,
+    "bpm_max": 199.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.7,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Altersist",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 138.0,
+    "bpm_max": 138.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "AMAZING MIGHTYYYY!!!!",
+    "pack": "Maimai Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "amygdata",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 154.0,
+    "bpm_max": 154.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "Amygdata"
+    ]
+  },
+  {
+    "title": "And Revive The Melody",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 210.0,
+    "bpm_max": 220.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.5,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "ANDORXOR",
+    "pack": "Liminal Eclipse",
+    "pack_type": "Main Story Act II",
+    "side": "绚寂",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Angel's Boundary",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 196.0,
+    "bpm_max": 196.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Antagonism",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Antithese",
+    "pack": "Absolute Reason",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.8,
+      "BYD": 9.6,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Anökumene",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 186.0,
+    "bpm_max": 186.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.2,
+      "BYD": 9.9,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Arcahv",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 191.0,
+    "bpm_max": 191.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Arcana Eden",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 211.0,
+    "bpm_max": 211.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.7,
+      "FTR": 10.5,
+      "BYD": 11.6,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Arghena",
+    "pack": "Lasting Eden Chapter 2",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 7.5,
+      "PRS": 9.6,
+      "FTR": 11.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Ascent",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Ashen 6oundary",
+    "pack": "Absolute Nihil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Astra walkthrough",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 225.0,
+    "bpm_max": 225.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Astral Quantization",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.1,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Astral tale",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 134.0,
+    "bpm_max": 134.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "astral.exe",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Astral.exe"
+    ]
+  },
+  {
+    "title": "AttraqtiA",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 202.0,
+    "bpm_max": 202.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.3,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Aurgelmir",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 122.0,
+    "bpm_max": 230.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.5,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Auxesia",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 183.0,
+    "bpm_max": 183.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Avant Raze",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Awaken In Ruins",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 125.0,
+    "bpm_max": 125.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Axium Crisis",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.5,
+      "FTR": 10.6,
+      "BYD": 11.3,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Axium Divergence"
+    ]
+  },
+  {
+    "title": "B.B.K.K.B.K.K.",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Babaroque",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 136.0,
+    "bpm_max": 136.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Back to Basics",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 420.0,
+    "bpm_max": 420.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.7,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "BADTEK",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "BATTLE NO.1",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Be There",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 164.0,
+    "bpm_max": 164.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.4,
+      "BYD": 10.5,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Beautiful Dreamer",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 188.0,
+    "bpm_max": 188.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Beside You",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 181.0,
+    "bpm_max": 181.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Black Lotus",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Black MInD",
+    "pack": "Groove Coaster Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 192.0,
+    "bpm_max": 192.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.0,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Black Mirror on the Wall",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.7
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Black Territory",
+    "pack": "Absolute Reason",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Blaster",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "BlazinG AIR",
+    "pack": "CHUNITHM Collaboration Chapter 4",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Blocked Library",
+    "pack": "Divided Heart",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Blossoms",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 138.0,
+    "bpm_max": 138.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 4.0,
+      "FTR": 7.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "BLRINK",
+    "pack": "Adverse Prelude",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 115.0,
+    "bpm_max": 115.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "blue comet",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 100.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.0,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Blue comet"
+    ]
+  },
+  {
+    "title": "Blue Rose",
+    "pack": "Divided Heart",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 250.0,
+    "bpm_max": 295.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "BlythE",
+    "pack": "DJMAX Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Bookmaker (2D Version)",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 6.5,
+      "FTR": 8.3,
+      "BYD": 10.0,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Brand new world",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 4.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Breach of Faith",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.4,
+      "FTR": 10.3,
+      "BYD": 10.9,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "BREaK! BREaK! BREaK!",
+    "pack": "Maimai Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 10.3
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "BUCHiGiRE Berserker",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.6,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Bullet Waiting for Me (James Landino remix)",
+    "pack": "Cytus II Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 107.0,
+    "bpm_max": 107.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 4.5,
+      "FTR": 8.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "c.s.q.n.",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.3
+    },
+    "year": 2026,
+    "official_aliases": [
+      "C.s.q.n."
+    ]
+  },
+  {
+    "title": "Call My Name feat. Yukacco",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Callima Karma",
+    "pack": "Silent Answer",
+    "pack_type": "Main Story Act I",
+    "side": "无色",
+    "bpm_min": 95.0,
+    "bpm_max": 95.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Capella",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "carmine:scythe",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Carmine:scythe"
+    ]
+  },
+  {
+    "title": "CHAIN2NITE",
+    "pack": "MEGAREX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "CHAOS",
+    "pack": "Cytus II Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 7.5,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "CHAOSBLAST",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 480.0,
+    "bpm_max": 480.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Chelsea",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Chromafill",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 179.0,
+    "bpm_max": 179.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Chronicle",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 221.0,
+    "bpm_max": 221.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.9,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Chronostasis",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 196.0,
+    "bpm_max": 196.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Climax",
+    "pack": "CHUNITHM Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Coastal Highway",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 110.0,
+    "bpm_max": 110.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "cocoro*cosmetic",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 144.0,
+    "bpm_max": 144.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Cocoro*cosmetic"
+    ]
+  },
+  {
+    "title": "Code: Oblivion",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.3,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.9
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "conflict",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Conflict"
+    ]
+  },
+  {
+    "title": "corps-sans-organes",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 105.0,
+    "bpm_max": 105.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "Corps-sans-organes"
+    ]
+  },
+  {
+    "title": "Corruption",
+    "pack": "Absolute Reason",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Cosmica",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 110.0,
+    "bpm_max": 110.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Cosmogyral",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Crimson Quartz",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Crimson Throne",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.0,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "CROSS†OVER",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "CROSS†SOUL",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "cry of viyella",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 75.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Cry of viyella"
+    ]
+  },
+  {
+    "title": "Cryogenic",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 7.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Crystal Gravity",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Cyaegha",
+    "pack": "Absolute Reason",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.4,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "cyanine",
+    "pack": "Lanota Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 182.0,
+    "bpm_max": 182.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Cyanine"
+    ]
+  },
+  {
+    "title": "Cybernecia Catharsis",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 184.0,
+    "bpm_max": 184.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "CYCLES",
+    "pack": "Maimai Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 135.0,
+    "bpm_max": 135.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "DA'AT -The First Seeker of Souls-",
+    "pack": "CHUNITHM Collaboration Chapter 4",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.4,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Dandelion",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 169.0,
+    "bpm_max": 169.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Dantalion",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 186.0,
+    "bpm_max": 186.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.2,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "DataErr0r",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Dazzle hop",
+    "pack": "O.N.G.E.K.I. Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 220.0,
+    "bpm_max": 220.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "DDD",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 138.0,
+    "bpm_max": 138.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Defection",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Dematerialized",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 86.0,
+    "bpm_max": 86.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 4.5,
+      "FTR": 7.5,
+      "BYD": null,
+      "ETR": 8.3
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Dement ~after legend~",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 7.8,
+      "BYD": 9.9,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Desertrealm",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 216.0,
+    "bpm_max": 216.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.5,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Designant.",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 7.5,
+      "PRS": 9.6,
+      "FTR": 10.9,
+      "BYD": 11.9,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Devillic Sphere",
+    "pack": "Cytus II Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Dies irae",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.6
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Diode",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "disintegration",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 135.0,
+    "bpm_max": 135.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Disintegration"
+    ]
+  },
+  {
+    "title": "Distorted Fate",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Don't Die",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Don't Fight The Music",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": 10.7
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Dot to Dot feat. shully",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Dreadnought",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 96.0,
+    "bpm_max": 384.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Dream goes on",
+    "pack": "Lanota Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 5.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Dreamin' Attraction!!",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "DRG",
+    "pack": "Cytus II Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "dropdead",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 50.0,
+    "bpm_max": 500.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 9.5,
+      "FTR": 9.1,
+      "BYD": 10.5,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Dropdead",
+      "overdead."
+    ]
+  },
+  {
+    "title": "Dual Dependency",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Dual Doom Deathmatch",
+    "pack": "Rotaeno Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": 10.3
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Dull Blade",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 128.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.0,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "DX超性能フルメタル少女",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "DX Choseinou Full Metal Shojo"
+    ]
+  },
+  {
+    "title": "Dynitikós",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Désive",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 230.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Eccentric Tale",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.5,
+      "FTR": 8.4,
+      "BYD": 9.9,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "eden",
+    "pack": "WACCA Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 246.0,
+    "bpm_max": 246.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.2,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Eden"
+    ]
+  },
+  {
+    "title": "Ego Eimi",
+    "pack": "Lasting Eden Chapter 2",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.6,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Einherjar Joker",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": 10.9,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Empire of Winter",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "enchanted love",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 95.0,
+    "bpm_max": 95.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 4.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Enchanted love"
+    ]
+  },
+  {
+    "title": "End of The Moonlight",
+    "pack": "DJMAX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "ENERGY SYNERGY MATRIX",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.6,
+      "BYD": 10.3,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "epitaxy",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 183.0,
+    "bpm_max": 183.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.6
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Epitaxy"
+    ]
+  },
+  {
+    "title": "Equilibrium",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Essence of Twilight",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 164.0,
+    "bpm_max": 164.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Eternity Break",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Ether Strike",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 156.0,
+    "bpm_max": 156.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.3,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Evoltex (poppi'n mix)",
+    "pack": "Dynamix Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 7.0,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Factorder",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.6
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Faint Light (Arcaea Edit)",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 133.0,
+    "bpm_max": 133.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Fairytale",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 189.0,
+    "bpm_max": 189.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 3.5,
+      "FTR": 7.0,
+      "BYD": 9.5,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Fallensquare",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 99.0,
+    "bpm_max": 99.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "FANTA5Y",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Far Away Light",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 216.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Feels So Right feat. Renko",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Felis",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "felys final remix",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Felys final remix"
+    ]
+  },
+  {
+    "title": "Filament",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Final Step!",
+    "pack": "Muse Dash Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "First Snow",
+    "pack": "Divided Heart",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 88.0,
+    "bpm_max": 88.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 4.5,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Flashback",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "flexidefine",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 197.0,
+    "bpm_max": 197.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 6.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Flexidefine"
+    ]
+  },
+  {
+    "title": "Floating World",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "FLUFFY FLASH",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 252.0,
+    "bpm_max": 252.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Fracture Ray",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 6.0,
+      "PRS": 9.5,
+      "FTR": 11.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Free Myself",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 153.0,
+    "bpm_max": 153.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "FREEF4LL",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 8.6,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "G e n g a o z o",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 153.0,
+    "bpm_max": 153.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.1,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Galactic Love",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Galaxy Friends",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 300.0,
+    "bpm_max": 300.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Garakuta Doll Play",
+    "pack": "CHUNITHM Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 256.0,
+    "bpm_max": 256.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 6.5,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Gekka (Short Version)",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Genesis (CHUNITHM)",
+    "pack": "CHUNITHM Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Genesis (Morrigan)"
+    ]
+  },
+  {
+    "title": "Genesis (Tone Sphere)",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Genesis (Iris)"
+    ]
+  },
+  {
+    "title": "GENOCIDER",
+    "pack": "WACCA Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 250.0,
+    "bpm_max": 390.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.9,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "GIMME DA BLOOD",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 87.0,
+    "bpm_max": 110.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "GIMMICK",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 143.0,
+    "bpm_max": 143.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Give Me a Nightmare",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 95.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "GLORY：ROAD",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 250.0,
+    "bpm_max": 250.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Glow",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "goldenslaughterer",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 133.0,
+    "bpm_max": 133.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Goldenslaughterer"
+    ]
+  },
+  {
+    "title": "Good bye, Merry-Go-Round.",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "GOODRAGE",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": 10.2
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "GOODTEK (Arcaea Edit)",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Got hive of Ra",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 268.0,
+    "bpm_max": 268.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Grandspell",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.4,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Grievous Lady",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 6.5,
+      "PRS": 9.3,
+      "FTR": 11.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Grimheart",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Hailstone",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Halcyon",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 191.0,
+    "bpm_max": 191.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.2,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Hall of Mirrors",
+    "pack": "Tone Sphere Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 147.0,
+    "bpm_max": 147.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Head BONK ache",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 132.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Heart Jackin'",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Heavenly caress",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 241.0,
+    "bpm_max": 241.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": 10.9,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Heavensdoor",
+    "pack": "Adverse Prelude",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 240.0,
+    "bpm_max": 240.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": 10.8,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "HELLOHELL",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 7.5,
+      "BYD": null,
+      "ETR": 9.3
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "HIVEMIND",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 252.0,
+    "bpm_max": 252.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.6,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "HYPER VISION",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Hypnotize",
+    "pack": "Absolute Nihil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "I want You",
+    "pack": "DJMAX Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": 9.4
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "I've heard it said",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 8.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Iconoclast",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Ignition",
+    "pack": "CHUNITHM Collaboration Chapter 4",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Ignotus",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": 9.9,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Ignotus Afterburn"
+    ]
+  },
+  {
+    "title": "IMPACT",
+    "pack": "CHUNITHM Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": 10.4,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "In Vain",
+    "pack": "Absolute Nihil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "INCARNATOR₀₀",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 234.0,
+    "bpm_max": 234.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "incomplete the one",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 208.0,
+    "bpm_max": 208.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Incomplete the one"
+    ]
+  },
+  {
+    "title": "INFINITE DIMENSION",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Infinite Strife,",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 198.0,
+    "bpm_max": 198.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": 10.9,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Infinity Heaven",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 5.5,
+      "FTR": 7.8,
+      "BYD": 9.6,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "init()",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Init()"
+    ]
+  },
+  {
+    "title": "inkar-usi",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 102.0,
+    "bpm_max": 102.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 4.0,
+      "FTR": 7.8,
+      "BYD": 9.4,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Inkar-usi"
+    ]
+  },
+  {
+    "title": "Innocence",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": 9.7
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "INTERNET OVERDOSE",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 163.0,
+    "bpm_max": 163.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "INTERNET YAMERO",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Inverted World",
+    "pack": "Rotaeno Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.7
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "IONOSTREAM",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 220.0,
+    "bpm_max": 254.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": 9.7
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "IZANA",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.3,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Jingle",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": 9.5
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Journey",
+    "pack": "Lanota Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Judgement",
+    "pack": "Absolute Nihil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.6,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Jump",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 133.0,
+    "bpm_max": 133.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.0,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Kissing Lucifer",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "La'qryma of the Wasteland",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.1,
+      "BYD": 10.0,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Ladymade Star",
+    "pack": "DJMAX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 136.0,
+    "bpm_max": 136.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": 9.2
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Lament Rain",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 6.5,
+      "PRS": 8.8,
+      "FTR": 10.6,
+      "BYD": 11.4,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "LAMIA",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 199.0,
+    "bpm_max": 199.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.5,
+      "FTR": 11.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Lapis",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 146.0,
+    "bpm_max": 146.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 6.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Last Celebration",
+    "pack": "CHUNITHM Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 238.0,
+    "bpm_max": 238.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "lastendconductor",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 139.0,
+    "bpm_max": 139.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.4,
+      "BYD": 10.2,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Lastendconductor"
+    ]
+  },
+  {
+    "title": "Lazy Addiction",
+    "pack": "O.N.G.E.K.I. Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Leave All Behind",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Let you DIVE! (nitro rmx)",
+    "pack": "WACCA Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Let's Rock (Arcaea mix)",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 210.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Lethaeus",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Lethal Voltage",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Liar",
+    "pack": "DJMAX Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Libertas",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.5,
+      "FTR": 9.2,
+      "BYD": 10.5,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Life is PIANO",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 133.0,
+    "bpm_max": 133.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "LiftOff",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 137.0,
+    "bpm_max": 137.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Lightning Screw",
+    "pack": "Divided Heart",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Lights of Muse",
+    "pack": "Muse Dash Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Lilly",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 235.0,
+    "bpm_max": 235.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.4,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Linear Accelerator",
+    "pack": "Tone Sphere Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 211.9,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Live Fast Die Young",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 153.0,
+    "bpm_max": 153.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.5,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "LIVHT MY WΔY",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Logos",
+    "pack": "Lasting Eden Chapter 2",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 189.0,
+    "bpm_max": 189.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Lost Civilization",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 75.0,
+    "bpm_max": 210.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.2,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Lost Desire",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Lost Emotion feat. nomico",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Lost in the Abyss",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 183.0,
+    "bpm_max": 183.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Loveless Dress",
+    "pack": "Silent Answer",
+    "pack_type": "Main Story Act I",
+    "side": "无色",
+    "bpm_min": 99.0,
+    "bpm_max": 99.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Lucid Traveler",
+    "pack": "Cytus II Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.9,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Lucifer",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Lumia",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.4,
+      "BYD": 9.5,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Luna Rossa",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Löschen",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 181.0,
+    "bpm_max": 181.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Macrocosmic Modulation",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Magnolia",
+    "pack": "Cytus II Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "MAHOROBA",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Malicious Mischance",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Manic Jeer",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 135.0,
+    "bpm_max": 135.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "MARENYX",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Masquerade Legion",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "MAXRAGE",
+    "pack": "Maimai Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Mazy Metroplex",
+    "pack": "WACCA Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Medusa",
+    "pack": "Muse Dash Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "MEGALOVANIA",
+    "pack": "UNDERTALE Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 240.0,
+    "bpm_max": 240.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "MEGALOVANIA (Camellia Remix)",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 242.0,
+    "bpm_max": 242.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.4,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": 10.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Memory Forest",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "memoryfactory.lzh",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 100.0,
+    "bpm_max": 100.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Memoryfactory.lzh"
+    ]
+  },
+  {
+    "title": "MERLIN",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 8.9,
+      "BYD": 9.4,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Meta-Mysteria",
+    "pack": "WACCA Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 7.8,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Metallic Punisher",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Miles",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "MIRINAE",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.3,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "MIRROR - kamome sano remix",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 177.0,
+    "bpm_max": 177.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Mirzam",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 201.0,
+    "bpm_max": 201.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "mod",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Mod"
+    ]
+  },
+  {
+    "title": "Modelista",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Monochrome Princess",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Moonheart",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.4,
+      "BYD": 9.7,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Moonlight of Sand Castle",
+    "pack": "Dynamix Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 5.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "MORNINGLOOM",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 102.0,
+    "bpm_max": 102.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "MVURBD",
+    "pack": "Rotaeno Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "My life is mine alone!",
+    "pack": "MEGAREX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 144.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Nameless Passion",
+    "pack": "Shifting Veil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "NEO WINGS",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "New York Back Raise",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "next to you",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 8.8,
+      "BYD": 9.6,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Next to you"
+    ]
+  },
+  {
+    "title": "Nhelv",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 174.59,
+    "bpm_max": 174.59,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": 10.9,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Nightmare",
+    "pack": "DJMAX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": 10.8
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Nirv lucE",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 260.0,
+    "bpm_max": 260.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.0,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "No Way Back",
+    "pack": "Liminal Eclipse",
+    "pack_type": "Main Story Act II",
+    "side": "绚寂",
+    "bpm_min": 153.0,
+    "bpm_max": 153.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "NULCTRL",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 100.0,
+    "bpm_max": 100.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "NULL APOPHENIA",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 177.0,
+    "bpm_max": 177.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.8,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "nέο κόsmo",
+    "pack": "Divided Heart",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Nέo κósmo"
+    ]
+  },
+  {
+    "title": "Oblivia",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.0,
+      "FTR": 8.3,
+      "BYD": 9.7,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "OBLIVION",
+    "pack": "DJMAX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 141.0,
+    "bpm_max": 141.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Old School Salvage",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "OMAKENO Stroke",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 240.0,
+    "bpm_max": 240.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": 10.3,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "On And On!! feat. Jenga",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "One Last Drive",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 154.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "One Step Closer",
+    "pack": "MEGAREX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 123.0,
+    "bpm_max": 123.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Oracle",
+    "pack": "Dynamix Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 152.0,
+    "bpm_max": 152.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Oshama Scramble!",
+    "pack": "Maimai Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "ouroboros -twin stroke of the end-",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 188.0,
+    "bpm_max": 188.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "Ouroboros -twin stroke of the end-"
+    ]
+  },
+  {
+    "title": "Ouvertüre",
+    "pack": "WACCA Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Overwhelm",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.5,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Paper Witch",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Paradise",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 126.0,
+    "bpm_max": 126.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 4.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Paradox Palette",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 152.0,
+    "bpm_max": 152.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Paranoid Arc",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Particle",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 142.0,
+    "bpm_max": 142.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 9.7
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Party Vinyl",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.4,
+      "BYD": 10.3,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Pentiment",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 7.0,
+      "PRS": 8.7,
+      "FTR": 10.4,
+      "BYD": 11.5,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Phantasia",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 153.0,
+    "bpm_max": 153.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 5.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "PRAGMATISM",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.6,
+      "FTR": 10.1,
+      "BYD": 11.2,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "PRAGMATISM -RESURRECTION-"
+    ]
+  },
+  {
+    "title": "Primeval Texture",
+    "pack": "Lasting Eden Chapter 2",
+    "pack_type": "Main Story Act II",
+    "side": "光芒",
+    "bpm_min": 120.0,
+    "bpm_max": 120.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "PRIMITIVE LIGHTS",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.8,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Prism",
+    "pack": "Lanota Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 107.0,
+    "bpm_max": 109.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Protoflicker",
+    "pack": "Lanota Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "PUPA",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 202.0,
+    "bpm_max": 202.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Purgatorium",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.4,
+      "BYD": 9.6,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Purple Verse",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.6,
+      "BYD": 10.6,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Qovat",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 122.0,
+    "bpm_max": 122.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.2,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "qualia -ideaesthesia-",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 144.0,
+    "bpm_max": 144.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.1,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Qualia -ideaesthesia-"
+    ]
+  },
+  {
+    "title": "Quon (Lanota)",
+    "pack": "Lanota Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 189.0,
+    "bpm_max": 189.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Quon (Feryquitous)"
+    ]
+  },
+  {
+    "title": "Quon (WACCA)",
+    "pack": "WACCA Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": 10.2,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Quon (DJ Noriken)"
+    ]
+  },
+  {
+    "title": "Rabbit In The Black Room",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 270.0,
+    "bpm_max": 270.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Rain of Conflict in a Radiant Abyss",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 195.0,
+    "bpm_max": 195.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Rays of Remnant",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": 10.4,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "REconstruction",
+    "pack": "Dynamix Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Red and Blue",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.4,
+      "BYD": 10.2,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Red and Blue and Green"
+    ]
+  },
+  {
+    "title": "Redolent Shape",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Reinvent",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Relentless",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 6.5,
+      "FTR": 8.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Remind the Souls (Short Version)",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Renegade",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 186.0,
+    "bpm_max": 186.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.6,
+      "BYD": 10.2,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "ReviXy",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 115.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "RGB",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 163.0,
+    "bpm_max": 163.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Ringed Genesis",
+    "pack": "Adverse Prelude",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.4,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Riot in the System",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Rise",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 4.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Rise of the World",
+    "pack": "Lasting Eden",
+    "pack_type": "Main Story Act II",
+    "side": "光芒",
+    "bpm_min": 182.0,
+    "bpm_max": 212.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.1,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "ROST PAGE GENE",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 135.0,
+    "bpm_max": 135.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.2,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Rugie",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 191.0,
+    "bpm_max": 191.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "SACRIFICE feat. ayame",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Saint or Sinner",
+    "pack": "Adverse Prelude",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 164.0,
+    "bpm_max": 164.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.8,
+      "BYD": 10.4,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Sakura Fubuki",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "san skia",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "San skia"
+    ]
+  },
+  {
+    "title": "SATISFACTION",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": 9.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Sayonara Hatsukoi",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 4.5,
+      "FTR": 7.0,
+      "BYD": null,
+      "ETR": 8.5
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Scarlet Cage",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 166.0,
+    "bpm_max": 166.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Scarlet Lance",
+    "pack": "Groove Coaster Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Seclusion",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "See the Lights!",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 136.0,
+    "bpm_max": 136.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": 9.6
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Senkyou",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 90.0,
+    "bpm_max": 90.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Shades of Light in a Transcendent Realm",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.3,
+      "BYD": 9.1,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Sheriruth",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 7.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Sheriruth (Laur Remix)",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "shrink",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Shrink"
+    ]
+  },
+  {
+    "title": "Sign of \"10.5km\"",
+    "pack": "Groove Coaster Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Signal",
+    "pack": "MEGAREX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": 10.7
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Silent Rush",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 158.0,
+    "bpm_max": 158.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Singularity",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.5,
+      "BYD": 10.4,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Singularity VVVIP"
+    ]
+  },
+  {
+    "title": "Small Cloud Sugar Candy",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 220.0,
+    "bpm_max": 220.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": 10.3,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Snow White",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 8.4,
+      "BYD": 9.7,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Someday",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 136.0,
+    "bpm_max": 136.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "SOUNDWiTCH",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Specta",
+    "pack": "Lanota Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 179.0,
+    "bpm_max": 179.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Spirit of the Dauntless",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "STAGER (ALL STAGE CLEAR)",
+    "pack": "Tone Sphere Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "STARGATE EXTREME",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.0,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Stasis",
+    "pack": "Lanota Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "Straight into the lights",
+    "pack": "Maimai Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 90.0,
+    "bpm_max": 90.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Stratoliner",
+    "pack": "WACCA Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Strongholds",
+    "pack": "Binary Enfold",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 105.0,
+    "bpm_max": 105.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Sulfur",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 182.0,
+    "bpm_max": 182.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "Suomi",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 125.0,
+    "bpm_max": 125.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": 8.9
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "SUPER AMBULANCE",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "SUPERNOVA",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Surrender",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 152.0,
+    "bpm_max": 152.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Swan Song",
+    "pack": "Lucent Historia",
+    "pack_type": "Main Story Act II",
+    "side": "Lephon",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Syriana",
+    "pack": "DJMAX Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 135.0,
+    "bpm_max": 135.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Syro",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "syūten",
+    "pack": "Cytus II Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 76.0,
+    "bpm_max": 96.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Syūten"
+    ]
+  },
+  {
+    "title": "taboo tears you up 2017",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Taboo tears you up 2017"
+    ]
+  },
+  {
+    "title": "Technicolour",
+    "pack": "Lasting Eden Chapter 2",
+    "pack_type": "Main Story Act II",
+    "side": "光芒",
+    "bpm_min": 175.0,
+    "bpm_max": 175.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Tempestissimo",
+    "pack": "Black Fate",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 231.0,
+    "bpm_max": 231.0,
+    "constants": {
+      "PST": 7.0,
+      "PRS": 9.5,
+      "FTR": 10.7,
+      "BYD": 11.7,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "TEmPTaTiON",
+    "pack": "Maimai Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.2,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "TeraVolt",
+    "pack": "Shifting Veil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 154.0,
+    "bpm_max": 154.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.9,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Teriqma",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 128.0,
+    "bpm_max": 128.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": 9.7,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Testify",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "无色",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 7.8,
+      "PRS": 9.4,
+      "FTR": 10.9,
+      "BYD": 12.0,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "The Formula",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 144.0,
+    "bpm_max": 144.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "The Message",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 202.0,
+    "bpm_max": 202.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "The Survivor (Game Edit)",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "THE ULTIMACY",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "Third Sun",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 75.0,
+    "bpm_max": 225.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": 10.0
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "Tic! Tac! Toe!",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 126.0,
+    "bpm_max": 126.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Tie me down gently",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 191.0,
+    "bpm_max": 191.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 5.5,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Tiferet",
+    "pack": "Tone Sphere Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": []
+  },
+  {
+    "title": "To the Milky Way",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 186.0,
+    "bpm_max": 186.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.9,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Transient Space",
+    "pack": "Shifting Veil",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 115.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Trap Crow",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 80.0,
+    "bpm_max": 80.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "TRPNO",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Trrricksters!!",
+    "pack": "CHUNITHM Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Turbocharger",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 128.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "U.A.D",
+    "pack": "DJMAX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 129.0,
+    "bpm_max": 129.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Ultimate taste",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "ultradiaxon-N3",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.5,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Ultradiaxon-N3"
+    ]
+  },
+  {
+    "title": "undefined",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 110.0,
+    "bpm_max": 110.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Undefined"
+    ]
+  },
+  {
+    "title": "Undying Macula",
+    "pack": "Liminal Eclipse",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 63.0,
+    "bpm_max": 63.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.7,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": 11.0
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "UNKNOWN LEVELS",
+    "pack": "Lasting Eden",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 110.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.1,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Used to be",
+    "pack": "Cytus II Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 140.0,
+    "bpm_max": 140.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Vainspire",
+    "pack": "Liminal Eclipse",
+    "pack_type": "Main Story Act II",
+    "side": "绚寂",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Valhalla:0",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Vallista",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Vandalism",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 194.0,
+    "bpm_max": 194.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "VECTOЯ",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Vexaria",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 7.0,
+      "BYD": 9.0,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "Vicious Heroism",
+    "pack": "Absolute Reason",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 256.0,
+    "bpm_max": 271.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.0,
+      "BYD": 11.2,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "Vicious [ANTi] Heroism"
+    ]
+  },
+  {
+    "title": "Vindication",
+    "pack": "Adverse Prelude",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "Viola Illyria",
+    "pack": "Liminal Eclipse",
+    "pack_type": "Main Story Act II",
+    "side": "绚寂",
+    "bpm_min": 162.0,
+    "bpm_max": 162.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "ViRTUS",
+    "pack": "Maimai Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 225.0,
+    "bpm_max": 225.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.6,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Vivid Theory",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Viyella's Tears",
+    "pack": "O.N.G.E.K.I. Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 218.0,
+    "bpm_max": 218.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "vsキミ戦争",
+    "pack": "Ambivalent Vision",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 187.0,
+    "bpm_max": 187.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 4.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Romance Wars"
+    ]
+  },
+  {
+    "title": "Vulcānus",
+    "pack": "Rotaeno Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 212.0,
+    "bpm_max": 212.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.5,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "WAIT FOR DAWN",
+    "pack": "Lasting Eden",
+    "pack_type": "Main Story Act II",
+    "side": "光芒",
+    "bpm_min": 188.0,
+    "bpm_max": 188.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.8,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Waltz for Lorelei",
+    "pack": "Rotaeno Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 220.0,
+    "bpm_max": 220.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.8
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "We're All Gonna Die",
+    "pack": "DJMAX Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.0,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": 10.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Welcome, Queen of Fiction.",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 110.0,
+    "bpm_max": 305.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.5,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": 10.9
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "Wish Upon a Snow",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 218.0,
+    "bpm_max": 218.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "with U",
+    "pack": "WACCA Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "With U"
+    ]
+  },
+  {
+    "title": "Won't Back Down",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": []
+  },
+  {
+    "title": "World Fragments III(radio edit)",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "World Vanquisher",
+    "pack": "CHUNITHM Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": []
+  },
+  {
+    "title": "world.execute(me);",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 5.0,
+      "FTR": 8.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "World.execute(me);"
+    ]
+  },
+  {
+    "title": "Xanatos",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Xeraphinite",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 146.0,
+    "bpm_max": 146.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": []
+  },
+  {
+    "title": "Xterfusion",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 128.0,
+    "bpm_max": 256.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.3,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": 10.7
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "XTREME",
+    "pack": "WACCA Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": []
+  },
+  {
+    "title": "Xxium and Purple haze",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.8,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "Your voice so... feat. Such",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 176.0,
+    "bpm_max": 176.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": []
+  },
+  {
+    "title": "zephyrlasting",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.3
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Zephyrlasting"
+    ]
+  },
+  {
+    "title": "~_+",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 213.5,
+    "bpm_max": 213.5,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.0,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "~ +"
+    ]
+  },
+  {
+    "title": "Ävril -Flicka i krans-",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": []
+  },
+  {
+    "title": "͟͝͞Ⅱ́̕",
+    "pack": "Cytus II Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 130.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.9,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      " ͟͝͞Ⅱ́̕ "
+    ]
+  },
+  {
+    "title": "αterlβus",
+    "pack": "Dynamix Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 202.0,
+    "bpm_max": 202.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Αterlβus"
+    ]
+  },
+  {
+    "title": "γuarδina",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 202.0,
+    "bpm_max": 202.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 8.0,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Γuarδina"
+    ]
+  },
+  {
+    "title": "ΛZΛLEΛ",
+    "pack": "Arcaea Next Stage",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": 10.0
+    },
+    "year": 2026,
+    "official_aliases": []
+  },
+  {
+    "title": "μ",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 140.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Μ"
+    ]
+  },
+  {
+    "title": "ΟΔΥΣΣΕΙΑ",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 174.0,
+    "bpm_max": 174.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": []
+  },
+  {
+    "title": "τ (tau)",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Τ (tau)"
+    ]
+  },
+  {
+    "title": "ω4",
+    "pack": "O.N.G.E.K.I. Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 71.0,
+    "bpm_max": 192.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.8,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "Ω4"
+    ]
+  },
+  {
+    "title": "〇、",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 145.0,
+    "bpm_max": 145.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": []
+  },
+  {
+    "title": "おまじない",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 133.0,
+    "bpm_max": 133.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "OMAJINAI"
+    ]
+  },
+  {
+    "title": "これでホントにサヨナラ",
+    "pack": "UNDERTALE Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": 9.7
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Last Goodbye"
+    ]
+  },
+  {
+    "title": "だいあるのーと",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Dialnote"
+    ]
+  },
+  {
+    "title": "アズゴア",
+    "pack": "UNDERTALE Pack Append",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 229.69,
+    "bpm_max": 229.69,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 10.2
+    },
+    "year": 2026,
+    "official_aliases": [
+      "ASGORE"
+    ]
+  },
+  {
+    "title": "アリス・リデルに捧ぐ",
+    "pack": "Ephemeral Page",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 222.0,
+    "bpm_max": 222.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "To: Alice Liddell"
+    ]
+  },
+  {
+    "title": "アローンアンドローン",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 100.0,
+    "bpm_max": 100.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Alone & Lorn"
+    ]
+  },
+  {
+    "title": "エピクロスの虹はもう見えない",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 7.5,
+      "BYD": null,
+      "ETR": 8.8
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Hidden Rainbows of Epicurus"
+    ]
+  },
+  {
+    "title": "キャラメルポップコーンたべたいよ〜",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.1,
+      "BYD": null,
+      "ETR": 9.1
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Gimme Caramel Popcorn!"
+    ]
+  },
+  {
+    "title": "クロートーと星の観測者",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 230.0,
+    "bpm_max": 230.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": 8.8
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Clotho and the stargazer"
+    ]
+  },
+  {
+    "title": "コスモポップファンクラブ",
+    "pack": "CHUNITHM Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 129.0,
+    "bpm_max": 129.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Cosmo Pop Funclub"
+    ]
+  },
+  {
+    "title": "スパイダーダンス",
+    "pack": "UNDERTALE Pack Append",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 230.0,
+    "bpm_max": 230.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": 9.5
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Spider Dance"
+    ]
+  },
+  {
+    "title": "ディストーション・ニンゲン",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Distortion Human"
+    ]
+  },
+  {
+    "title": "ネコノテ・カリタガール",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.2,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Dancin' on a Cat's Paw"
+    ]
+  },
+  {
+    "title": "ハルトピア ~Utopia of Spring~",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 4.5,
+      "FTR": 8.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Harutopia ~Utopia of Spring~"
+    ]
+  },
+  {
+    "title": "ヒュブリスの頂に聳えるのは",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 158.0,
+    "bpm_max": 158.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Hybris (The one who shattered)"
+    ]
+  },
+  {
+    "title": "ピコPico*とらんすれーしょんっ！",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 185.0,
+    "bpm_max": 185.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 6.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "PICO-Pico-Translation!"
+    ]
+  },
+  {
+    "title": "フライブルクとエンドロウル",
+    "pack": "Crimson Solace",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Flyburg and Endroll"
+    ]
+  },
+  {
+    "title": "フレテミタイ",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.4,
+      "BYD": null,
+      "ETR": 9.4
+    },
+    "year": 2024,
+    "official_aliases": [
+      "FURETE-MITAI"
+    ]
+  },
+  {
+    "title": "プラシイボ♥バトラー",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 270.0,
+    "bpm_max": 270.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.3,
+      "FTR": 10.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Placebo♥Battler"
+    ]
+  },
+  {
+    "title": "プレヤ",
+    "pack": "Extend Archive 3",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 132.0,
+    "bpm_max": 132.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 8.2,
+      "BYD": null,
+      "ETR": 9.1
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Prayer"
+    ]
+  },
+  {
+    "title": "ベースラインやってる？ｗ",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 128.0,
+    "bpm_max": 128.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Can I Friend You on Bassbook? Lol"
+    ]
+  },
+  {
+    "title": "メルティーラプソディー",
+    "pack": "MEGAREX Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 156.0,
+    "bpm_max": 156.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Melty Rhapsody"
+    ]
+  },
+  {
+    "title": "ヨミビトシラズ",
+    "pack": "Maimai Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 188.0,
+    "bpm_max": 188.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Yomibito shirazu",
+      "yomibito_shirazu"
+    ]
+  },
+  {
+    "title": "レイヴンズ・プライド",
+    "pack": "Lasting Eden",
+    "pack_type": "Main Story Act II",
+    "side": "纷争",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Raven's Pride"
+    ]
+  },
+  {
+    "title": "不浄な白い鳥",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 184.0,
+    "bpm_max": 184.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Impure Bird"
+    ]
+  },
+  {
+    "title": "九番目の迷路",
+    "pack": "Luminous Sky",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 159.0,
+    "bpm_max": 159.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 3.5,
+      "FTR": 8.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Maze No.9"
+    ]
+  },
+  {
+    "title": "光",
+    "pack": "Tone Sphere Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 130.0,
+    "bpm_max": 130.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.0,
+      "FTR": 8.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Hikari",
+      "Hikari (Song)"
+    ]
+  },
+  {
+    "title": "光速神授説 - Divine Light of Myriad -",
+    "pack": "Esoteric Order",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Divine Light of Myriad",
+      "Particle Arts"
+    ]
+  },
+  {
+    "title": "四月の雨",
+    "pack": "Maimai Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 79.0,
+    "bpm_max": 79.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 5.5,
+      "FTR": 8.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "April showers"
+    ]
+  },
+  {
+    "title": "堕楽の園",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 168.0,
+    "bpm_max": 168.0,
+    "constants": {
+      "PST": 2.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "Illegal Paradise"
+    ]
+  },
+  {
+    "title": "多次元宇宙融合論",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 300.0,
+    "constants": {
+      "PST": 6.5,
+      "PRS": 8.8,
+      "FTR": 10.6,
+      "BYD": null,
+      "ETR": 11.3
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Extradimensional Cosmic Phenomenon"
+    ]
+  },
+  {
+    "title": "夜桜吹雪",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 172.0,
+    "bpm_max": 172.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.0,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Yosakura Fubuki"
+    ]
+  },
+  {
+    "title": "妖艶魔女 -trappola bewitching-",
+    "pack": "Vicious Labyrinth",
+    "pack_type": "Main Story Act I",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.9,
+      "BYD": 10.6,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Trappola bewitching",
+      "trappola bewitching"
+    ]
+  },
+  {
+    "title": "始マリノ詩",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 128.0,
+    "bpm_max": 128.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.5,
+      "FTR": 7.5,
+      "BYD": null,
+      "ETR": 8.7
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Wake in Hour"
+    ]
+  },
+  {
+    "title": "幻想のサテライト",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 230.0,
+    "bpm_max": 230.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 6.5,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": 10.1
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Gensou no Satellite"
+    ]
+  },
+  {
+    "title": "彩る夏の恋花火",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Summer Fireworks of Love"
+    ]
+  },
+  {
+    "title": "彼方の夢へと",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "无色",
+    "bpm_min": 183.0,
+    "bpm_max": 183.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 8.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "To the Furthest Dream"
+    ]
+  },
+  {
+    "title": "心",
+    "pack": "O.N.G.E.K.I. Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 80.0,
+    "bpm_max": 80.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 5.0,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Heart"
+    ]
+  },
+  {
+    "title": "心の痛み",
+    "pack": "UNDERTALE Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 239.0,
+    "bpm_max": 239.0,
+    "constants": {
+      "PST": 1.5,
+      "PRS": 4.5,
+      "FTR": 7.5,
+      "BYD": null,
+      "ETR": 8.7
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Heartache"
+    ]
+  },
+  {
+    "title": "怒槌",
+    "pack": "CHUNITHM Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "Ikazuchi"
+    ]
+  },
+  {
+    "title": "患部で止まってすぐ溶ける　〜 狂気の優曇華院",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 200.0,
+    "bpm_max": 200.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 10.1,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Kanbu de Tomatte Sugu Tokeru"
+    ]
+  },
+  {
+    "title": "感情の摩天楼 ～Arr.Demetori",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 178.0,
+    "bpm_max": 178.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Kanjou no Matenrou ～Arr.Demetori"
+    ]
+  },
+  {
+    "title": "最強STRONGER",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 9.4,
+      "FTR": 11.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2020,
+    "official_aliases": [
+      "SAIKYO STRONGER"
+    ]
+  },
+  {
+    "title": "最高の悪夢",
+    "pack": "UNDERTALE Collaboration",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.9,
+      "BYD": 10.2,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Your Best Nightmare"
+    ]
+  },
+  {
+    "title": "月に叢雲華に風",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 160.0,
+    "bpm_max": 160.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 8.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Tsuki ni Murakumo, Hana ni Kaze"
+    ]
+  },
+  {
+    "title": "朱月ノ姫",
+    "pack": "Extant Anima",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 108.0,
+    "bpm_max": 184.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Scarlet Lunar Empress"
+    ]
+  },
+  {
+    "title": "森奥虚跡",
+    "pack": "World Extend 4",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 192.0,
+    "bpm_max": 192.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2026,
+    "official_aliases": [
+      "The Forgotten Forest Haven"
+    ]
+  },
+  {
+    "title": "業 -善なる神とこの世の悪について-",
+    "pack": "CHUNITHM Collaboration Chapter 2",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 190.0,
+    "constants": {
+      "PST": 5.5,
+      "PRS": 8.5,
+      "FTR": 10.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Misdeed -la bonté de Dieu et l'origine du mal-"
+    ]
+  },
+  {
+    "title": "正義の槍",
+    "pack": "UNDERTALE Pack Append",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 263.0,
+    "bpm_max": 263.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Spear of Justice"
+    ]
+  },
+  {
+    "title": "烈華RESONANCE",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 240.0,
+    "bpm_max": 240.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.9,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "REKKA RESONANCE"
+    ]
+  },
+  {
+    "title": "無機質世界に彩を",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 6.5,
+      "FTR": 9.4,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "Redraw the Colorless World"
+    ]
+  },
+  {
+    "title": "無法地点",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.0,
+      "FTR": 9.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Lawless Point"
+    ]
+  },
+  {
+    "title": "狂恋ROMANCE",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 205.0,
+    "bpm_max": 205.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "KYOREN ROMANCE"
+    ]
+  },
+  {
+    "title": "狂言綺語",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "纷争",
+    "bpm_min": 155.0,
+    "bpm_max": 155.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 9.3,
+      "BYD": 9.9,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "False Embellishment"
+    ]
+  },
+  {
+    "title": "白道、多希望羊と信じありく。",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "纷争",
+    "bpm_min": 192.0,
+    "bpm_max": 192.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.0,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2018,
+    "official_aliases": [
+      "LunarOrbit -believe in the Espebranch road-"
+    ]
+  },
+  {
+    "title": "神奈川電脳暗渠",
+    "pack": "Arcaea",
+    "pack_type": "Arcaea",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 1.0,
+      "PRS": 5.5,
+      "FTR": 9.0,
+      "BYD": 9.8,
+      "ETR": null
+    },
+    "year": 2017,
+    "official_aliases": [
+      "Kanagawa Cyber Culvert"
+    ]
+  },
+  {
+    "title": "秋の陽炎",
+    "pack": "Muse Dash Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Haze of Autumn"
+    ]
+  },
+  {
+    "title": "竹",
+    "pack": "Extend Archive 1",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 5.0,
+    "bpm_max": 315.0,
+    "constants": {
+      "PST": 3.0,
+      "PRS": 6.5,
+      "FTR": 10.0,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Bamboo"
+    ]
+  },
+  {
+    "title": "緋纏いの宵",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 170.0,
+    "bpm_max": 170.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2021,
+    "official_aliases": [
+      "Evening in Scarlet"
+    ]
+  },
+  {
+    "title": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 150.0,
+    "bpm_max": 150.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 6.5,
+      "FTR": 10.3,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)"
+    ]
+  },
+  {
+    "title": "羽化する亜球体",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 120.0,
+    "bpm_max": 120.0,
+    "constants": {
+      "PST": 5.0,
+      "PRS": 8.1,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": 10.6
+    },
+    "year": 2026,
+    "official_aliases": [
+      "Subsphere in Eclosion"
+    ]
+  },
+  {
+    "title": "華麗なる死闘",
+    "pack": "UNDERTALE Collaboration",
+    "pack_type": "Collaboration",
+    "side": "光芒",
+    "bpm_min": 148.0,
+    "bpm_max": 148.0,
+    "constants": {
+      "PST": 2.5,
+      "PRS": 5.0,
+      "FTR": 7.8,
+      "BYD": null,
+      "ETR": 9.4
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Death By Glamour"
+    ]
+  },
+  {
+    "title": "虚空の夢",
+    "pack": "Eternal Core",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 162.0,
+    "bpm_max": 162.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.0,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "Solitary Dream"
+    ]
+  },
+  {
+    "title": "蛍火の雪",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 159.0,
+    "bpm_max": 159.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.0,
+      "FTR": 9.7,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Hotarubi no Yuki"
+    ]
+  },
+  {
+    "title": "蜘蛛の糸",
+    "pack": "CHUNITHM Collaboration Chapter 3",
+    "pack_type": "Collaboration",
+    "side": "纷争",
+    "bpm_min": 180.0,
+    "bpm_max": 180.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 10.8,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Spider's Thread"
+    ]
+  },
+  {
+    "title": "迷える音色は恋の唄",
+    "pack": "Sunset Radiance",
+    "pack_type": "Side Story",
+    "side": "光芒",
+    "bpm_min": 165.0,
+    "bpm_max": 165.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 9.6,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2019,
+    "official_aliases": [
+      "A Wandering Melody of Love"
+    ]
+  },
+  {
+    "title": "進捗どうですか?",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "光芒",
+    "bpm_min": 199.0,
+    "bpm_max": 199.0,
+    "constants": {
+      "PST": 3.5,
+      "PRS": 7.5,
+      "FTR": 8.8,
+      "BYD": null,
+      "ETR": 9.9
+    },
+    "year": 2025,
+    "official_aliases": [
+      "Shinchoku Doudesuka?"
+    ]
+  },
+  {
+    "title": "雨神楽",
+    "pack": "Extend Archive 2",
+    "pack_type": "World/Extend Archive",
+    "side": "光芒",
+    "bpm_min": 105.0,
+    "bpm_max": 105.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.5,
+      "FTR": 9.9,
+      "BYD": null,
+      "ETR": null
+    },
+    "year": 2023,
+    "official_aliases": [
+      "Amekagura"
+    ]
+  },
+  {
+    "title": "魔王",
+    "pack": "Final Verdict",
+    "pack_type": "Main Story Act I",
+    "side": "光芒",
+    "bpm_min": 190.0,
+    "bpm_max": 280.0,
+    "constants": {
+      "PST": 4.0,
+      "PRS": 7.8,
+      "FTR": 10.0,
+      "BYD": 11.1,
+      "ETR": null
+    },
+    "year": 2022,
+    "official_aliases": [
+      "World Ender"
+    ]
+  },
+  {
+    "title": "黄昏の協奏曲",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 194.0,
+    "bpm_max": 194.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.8,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.5
+    },
+    "year": 2024,
+    "official_aliases": [
+      "Twilight Concerto"
+    ]
+  },
+  {
+    "title": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "pack": "Memory Archive",
+    "pack_type": "Memory Archive",
+    "side": "纷争",
+    "bpm_min": 161.0,
+    "bpm_max": 161.0,
+    "constants": {
+      "PST": 4.5,
+      "PRS": 7.5,
+      "FTR": 9.5,
+      "BYD": null,
+      "ETR": 10.4
+    },
+    "year": 2026,
+    "official_aliases": [
+      "The 'Raft' taught me: your heart will always find a way."
+    ]
+  }
+]
